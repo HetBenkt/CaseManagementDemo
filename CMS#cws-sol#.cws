@@ -1,0 +1,29 @@
+
+<Solution
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.solution.Solution"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819c-6ec3ef67a356">
+	<DocumentID>0800279a-adfe-a1f1-819c-6ec3ef58a356</DocumentID>
+	<Name>CMS</Name>
+	<Description>CMS</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T11:28:36.846</CreationDate>
+	<Notes/>
+	<Projects>
+		<uri
+			id="0800279a-adfe-a1f1-819b-de16aebc0ff1"
+		/>
+		<uri
+			id="0800279a-adfe-a1f1-819a-1b21ad018121"
+		/>
+		<uri
+			id="0800279a-adfe-a1f1-819c-31af01c0bea7"
+		/>
+		<uri
+			id="0800279a-adfe-a1f1-819b-fc8e0f048121"
+		/>
+		<uri
+			id="0800279a-adfe-a1f1-819b-fc8e0e4e0121"
+		/>
+	</Projects>
+</Solution>
