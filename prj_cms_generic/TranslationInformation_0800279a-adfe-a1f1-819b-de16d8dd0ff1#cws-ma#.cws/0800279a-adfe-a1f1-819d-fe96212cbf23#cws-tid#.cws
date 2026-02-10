@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819d-fe9621393f23">
+	<DocumentID>0800279a-adfe-a1f1-819d-fe96212cbf23</DocumentID>
+	<Name>0800279a-adfe-a1f1-819d-fe96212cbf23</Name>
+	<Description>Case Management</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T12:01:26.788</CreationDate>
+	<Notes/>
+	<DefaultText>Case Management</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0800279a-adfe-a1f1-819b-de16b2ef0ff1"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0800279a-adfe-a1f1-819d-fe962145bf23"
+		/>
+	</Translations>
+</TextIdentifier>
