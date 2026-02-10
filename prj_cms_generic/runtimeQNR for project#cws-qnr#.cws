@@ -1,0 +1,13 @@
+
+<QualifiedNameRoot
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.namespace.qualifiedname.QualifiedNameRoot"
+	typeVersion="9bd1dc20-2f5e-11e3-aa6e-0800200c9a66"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819b-de1747730ff1">
+	<DocumentID>0800279a-adfe-a1f1-819b-de1747410ff1</DocumentID>
+	<Name>runtimeQNR for project</Name>
+	<Description/>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T10:58:45.594</CreationDate>
+	<Notes/>
+</QualifiedNameRoot>

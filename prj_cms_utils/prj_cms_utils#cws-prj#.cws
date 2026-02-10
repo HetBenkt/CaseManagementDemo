@@ -1,0 +1,103 @@
+
+<Project
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.project.Project"
+	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819b-fc8e0f110121">
+	<DocumentID>0800279a-adfe-a1f1-819b-fc8e0f048121</DocumentID>
+	<Name>prj_cms_utils</Name>
+	<Description>prj_cms_utils</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T11:05:15.731</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<Configurations/>
+	<ISVPackageInfo>
+		<ISVPackageInfo
+			type="com.cordys.cws.packaging.isvp.ISVPackageInfo"
+			typeVersion="00215A62-2E6A-11E2-EEB7-903C43CFF084"
+			RuntimeDocumentID="0800279a-adfe-a1f1-819b-fc8e0edf0121">
+			<DocumentID>0800279a-adfe-a1f1-819b-fc8e0ed50121</DocumentID>
+			<Name>opa_tips cms_utils</Name>
+			<Description>opa_tips cms_utils</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-10T11:05:15.731</CreationDate>
+			<Notes/>
+			<BuildNumber>0</BuildNumber>
+			<GenerateModelPackage>false</GenerateModelPackage>
+			<ISVPackageFileName>opa_tips cms_utils 1.0.0</ISVPackageFileName>
+			<ISVPackageOwner>opa_tips</ISVPackageOwner>
+			<PackageForRuntime>true</PackageForRuntime>
+			<PostISVLoaderInformation/>
+			<Product>cms_utils</Product>
+			<SupportedDeploymentSpaces
+				xmlns:cws="http://schemas.cordys.com/cws/1.0"
+				cws:type="collection:string">
+				<cws:item>SHARED</cws:item>
+			</SupportedDeploymentSpaces>
+			<Version>1.0</Version>
+			<LicenseAgreement/>
+			<ThirdPartyAgreement/>
+		</ISVPackageInfo>
+	</ISVPackageInfo>
+	<RuntimeQualifiedName/>
+	<SourceFolder>
+		<uri
+			id="0800279a-adfe-a1f1-819b-fc8e0ef08121"
+			path="prj_cms_utils"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+	<_AddOns>
+		<TranslationInformation
+			type="com.cordys.translation.TranslationInformation"
+			typeVersion="b81bb9b4-8af7-470f-a5fa-864be49acb9d"
+			RuntimeDocumentID="0800279a-adfe-a1f1-819b-fc8e0ecd8121">
+			<DocumentID>0800279a-adfe-a1f1-819b-fc8e0ec10121</DocumentID>
+			<Name>TranslationInformation</Name>
+			<Description>TranslationInformation</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-10T11:05:15.731</CreationDate>
+			<Notes/>
+			<LanguagePacks>
+				<LanguagePack
+					type="com.cordys.translation.LanguagePack"
+					typeVersion="11456b87-q895-32f2-584q-58f3tlm2so65"
+					RuntimeDocumentID="0800279a-adfe-a1f1-819b-fc8e0ea30121">
+					<DocumentID>0800279a-adfe-a1f1-819b-fc8e0e968121</DocumentID>
+					<Name>en-US</Name>
+					<Description>en-US</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-10T11:05:15.73</CreationDate>
+					<Notes/>
+					<Language>English - United States</Language>
+					<Texts>
+						<uri
+							id="0800279a-adfe-a1f1-819b-fc8e0e850121"
+							path="prj_cms_utils/en-US_0800279a-adfe-a1f1-819b-fc8e0e850121"
+							type="com.cordys.cws.associations.MergeableAssociation"
+						/>
+					</Texts>
+					<TranslationInformation>
+						<uri
+							id="0800279a-adfe-a1f1-819b-fc8e0ec10121"
+						/>
+					</TranslationInformation>
+				</LanguagePack>
+			</LanguagePacks>
+			<ProjectLanguage>
+				<uri
+					id="0800279a-adfe-a1f1-819b-fc8e0e968121"
+				/>
+			</ProjectLanguage>
+			<Texts>
+				<uri
+					id="0800279a-adfe-a1f1-819b-fc8e0eaf8121"
+					path="prj_cms_utils/TranslationInformation_0800279a-adfe-a1f1-819b-fc8e0eaf8121"
+					type="com.cordys.cws.associations.MergeableAssociation"
+				/>
+			</Texts>
+			<TranslationInformation/>
+		</TranslationInformation>
+	</_AddOns>
+</Project>

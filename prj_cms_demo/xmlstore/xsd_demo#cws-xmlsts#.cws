@@ -1,0 +1,44 @@
+
+<XMLStoreSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.xmlstore.sourceroot.XMLStoreSource"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819c-6ec3f22b2356">
+	<DocumentID>0800279a-adfe-a1f1-819c-6ec3f21ea356</DocumentID>
+	<Name>xsd_demo</Name>
+	<Description>xsd_demo</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T11:17:06.64</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SecurityDescriptor>
+		<XMLStoreSecurityDescriptor
+			type="com.cordys.xmlstore.sourceroot.XMLStoreSecurityDescriptor"
+			typeVersion="FFB228E4-5344-4FC9-893D-77229FA7C061"
+			RuntimeDocumentID="0800279a-adfe-a1f1-819c-6ec3f214a356">
+			<DocumentID>0800279a-adfe-a1f1-819c-6ec3f2082356</DocumentID>
+			<Name>Untitled XML Store Definition</Name>
+			<Description>Untitled XML Store Definition</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-10T11:17:06.64</CreationDate>
+			<Notes/>
+			<inherit>true</inherit>
+			<accesscontrolentries/>
+			<accesscontrollists/>
+			<conditions/>
+			<instanceConditions/>
+			<securedObject>
+				<uri
+					id="0800279a-adfe-a1f1-819c-6ec3f21ea356"
+				/>
+			</securedObject>
+			<staticConditions/>
+		</XMLStoreSecurityDescriptor>
+	</SecurityDescriptor>
+	<SourceFolder>
+		<uri
+			id="0800279a-adfe-a1f1-819c-6ec3f264a356"
+			path="prj_cms_demo/xmlstore"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</XMLStoreSource>

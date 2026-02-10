@@ -1,0 +1,20 @@
+
+<WebSource
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.documenttypes.websource.WebSource"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819b-fc8e10010121">
+	<DocumentID>0800279a-adfe-a1f1-819b-fc8e0ff98121</DocumentID>
+	<Name>wld_generic</Name>
+	<Description>wld_generic</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T11:03:54.82</CreationDate>
+	<Notes/>
+	<NamespacePrefix></NamespacePrefix>
+	<SourceFolder>
+		<uri
+			id="0800279a-adfe-a1f1-819a-1b21aa138121"
+			path="prj_cms_generic/webassets"
+			type="com.cordys.cws.runtime.types.folder.StudioFolder"
+		/>
+	</SourceFolder>
+</WebSource>
