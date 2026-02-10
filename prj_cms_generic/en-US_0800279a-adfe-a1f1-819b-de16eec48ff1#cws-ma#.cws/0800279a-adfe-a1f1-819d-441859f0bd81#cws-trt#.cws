@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819d-441859f83d81">
+	<DocumentID>0800279a-adfe-a1f1-819d-441859f0bd81</DocumentID>
+	<Name>0800279a-adfe-a1f1-819d-441859f0bd81</Name>
+	<Description>Prio 2</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T11:44:10.675</CreationDate>
+	<Notes/>
+	<Text>Prio 2</Text>
+	<Language>
+		<uri
+			id="0800279a-adfe-a1f1-819b-de16e55d0ff1"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0800279a-adfe-a1f1-819d-441859d2bd81"
+		/>
+	</TextIdentifier>
+</TranslatedText>

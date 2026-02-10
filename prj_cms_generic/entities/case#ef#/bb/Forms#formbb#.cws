@@ -1,0 +1,19 @@
+
+<FormBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.form.FormBuildingBlock"
+	typeVersion="B676A82B-2661-475F-B6D4-2DE9D084E191"
+	RuntimeDocumentID="0800279a-adfe-a1f1-819c-6ec3ee09a356">
+	<DocumentID>0800279a-adfe-a1f1-819c-f4a6cf671c34</DocumentID>
+	<Name>Forms</Name>
+	<Description>Forms</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-10T11:38:51.961</CreationDate>
+	<Notes/>
+	<Entity>
+		<uri
+			id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
+		/>
+	</Entity>
+	<Forms/>
+</FormBuildingBlock>
