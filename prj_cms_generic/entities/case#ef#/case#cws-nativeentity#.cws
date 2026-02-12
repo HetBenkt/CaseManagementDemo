@@ -1069,7 +1069,13 @@
 							<Notes/>
 							<lowerBound>1</lowerBound>
 							<upperBound>1</upperBound>
-							<DefaultImage/>
+							<DefaultImage>
+								<uri
+									id="0800279a-adfe-a1f1-8213-9d7dd981ba3a"
+									path="prj_cms_generic/webassets/nl-bos-generic/icons/briefcase_128x128.svg"
+									type="com.cordys.cws.documenttypes.image.Svg"
+								/>
+							</DefaultImage>
 							<Type>
 								<uri
 									id="C4D987BA-9FE0-11E7-E163-C970803F9566"

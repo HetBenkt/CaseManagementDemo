@@ -1,0 +1,489 @@
+
+<Theme
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.cws.backbone.themeeditor.Theme"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8212-7a841e4922f6">
+	<DocumentID>0800279a-adfe-a1f1-8212-7a841e3f22f6</DocumentID>
+	<Name>thm_cms</Name>
+	<Description>thm_cms</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-12T19:36:33.337</CreationDate>
+	<Notes/>
+	<ActionBarButtonBackground>#232e72</ActionBarButtonBackground>
+	<ActionBarButtonColor>#ffffff</ActionBarButtonColor>
+	<AdvanceContent>@import &quot;../nl-bos-generic/css/cms.css&quot;;
+@primaryColor: #111b58;
+@secondaryColor: #078db3;
+@borderColor: #dcdcdc;
+@fontColor: #000000;
+@fontFamily: 'Aktiv grotesk';
+@logo: &quot;../nl-bos-generic/images/header_logo.png&quot;;
+@borderRadius: 16px;
+/*
+@actionBarButtonColor: #ffffff;
+@actionBarButtonBackground: #232e72;
+@actionBarButtonBackgroundHover: #171F4C;
+*/
+@actionBarButtonColor: #232e72;
+@actionBarButtonBackgroundHover: #ffffff;
+@actionBarButtonBackground: #ffffff;
+@panelHeadeBackground: #333333;
+@headerBackground : #111b58;
+@headerRight : #078db3;
+@headerText : #ffffff;
+@containerControlHeaderColor: #f7f7f7;
+@containerControlFontColor: #333333;
+@gridControlHeaderColor: #f1f1f1;
+@gridControlHeaderFontColor: #333333;
+@actionBarButtonFocusColor: #2E3D98;
+@actionBarButtonBackgroundHoverDisabled: #999999;
+
+body {
+	&amp;,
+	&amp;.desktop,
+	&amp;.mobile,
+	&amp;.tablet,
+	.custom-select,
+	input,
+	textarea {
+		font-family: @fontFamily;
+		color: @fontColor;
+	}
+
+	.results-menu {
+		.column-picker-container .grid-column-chooser-header,
+		.sorting-options-container .grid-column-chooser-header {
+			font-family: @fontFamily;
+			color: @fontColor;
+		}
+	}
+
+	.empower-logo {
+		.logo-background(@logo) when not (@logo =&quot;&quot;) {
+			background: url(@logo) center no-repeat;
+		}
+		.logo-background(@logo);
+	}
+
+	.selected-home-page-name,
+	.layout-drawer-item {
+		color: @headerText;
+	}
+
+	.navbar-inner {
+		background: linear-gradient(to right, @headerBackground 50%, @headerRight 100%);
+	}
+
+	.layout-drawer-divider {
+		border: 1px solid @headerBackground;
+	}
+
+	.layout-drawer,
+	.layout-drawer-item:active,
+	.layout-drawer-item:hover {
+		background: @primaryColor;
+	}
+
+	.layout-drawer-section-header,
+	.layout-drawer-section-header:hover {
+		color: @headerText;
+		background: @primaryColor;
+	}
+
+	expandable-panel-bar,
+	.root-container {
+		background: linear-gradient(to right, @primaryColor 0%, @primaryColor 59%, @secondaryColor 100%);
+	}
+
+	.emp-panel-header {
+		color: @panelHeadeBackground;
+	}
+
+	.emp-panel {
+		border: 1px solid @borderColor;
+	}
+
+	action-button bs-button button.btn,
+	bs-button button.btn.btn-secondary:not(.btn-micro),
+	action-bar-tmp.panel bs-button button,
+	action-bar-tmp.panel bs-drop-button .drop-button {
+		color: @actionBarButtonColor;
+		background-color: @actionBarButtonBackground;
+		border-radius: @borderRadius;
+		border-color: @actionBarButtonColor;
+	}
+
+	action-button bs-button button.btn:hover,
+	bs-button button.btn.btn-secondary:not(.btn-micro):hover,
+	action-bar-tmp.panel bs-button button:hover,
+	action-bar-tmp.panel bs-drop-button .drop-button:hover {
+		background-color: @actionBarButtonBackgroundHover;
+	}
+
+	action-button bs-button button.btn:hover:disabled,
+	bs-button button.btn.btn-secondary:not(.btn-micro):hover:disabled,
+	action-bar-tmp.panel bs-button button:hover:disabled,
+	action-bar-tmp.panel bs-drop-button .drop-button:hover:disabled {
+		background-color: @actionBarButtonColor;
+		border: 1px solid @actionBarButtonBackgroundHoverDisabled;
+		box-shadow: none;
+	}
+
+	action-button bs-button button.btn:focus,
+	bs-button button.btn.btn-secondary:not(.btn-micro):focus,
+	action-bar-tmp.panel bs-button button:focus,
+	action-bar-tmp.panel bs-drop-button .drop-button:focus {
+		color: @actionBarButtonColor;
+		background-color: @actionBarButtonBackground;
+		-webkit-box-shadow: inset 0px 0px 0px 1px @actionBarButtonFocusColor, inset 0px 0px 0px 2px @actionBarButtonColor  !important;
+		-moz-box-shadow: inset 0px 0px 0px 1px @actionBarButtonFocusColor, inset 0px 0px 0px 2px @actionBarButtonColor  !important;
+		box-shadow: inset 0px 0px 0px 1px @actionBarButtonFocusColor, inset 0px 0px 0px 2px @actionBarButtonColor  !important;
+		outline: 0;
+		border-color: @actionBarButtonColor  !important;
+	}
+
+	action-button bs-button button.btn:active,
+	bs-button button.btn.btn-secondary:not(.btn-micro):active,
+	action-bar-tmp.panel bs-button button:active,
+	action-bar-tmp.panel bs-drop-button .drop-button:active {
+		color: @actionBarButtonColor  !important;
+		background-color: @actionBarButtonBackground  !important;
+	}
+
+	action-bar-tmp.panel .button-group:first-child button,
+	action-bar-tmp.panel .button-group:first-child div.drop-button,
+	&amp;.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child button,
+	&amp;.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child div.drop-button {
+		border-radius: @borderRadius 0px 0px @borderRadius;
+	}
+
+	action-bar-tmp.panel .button-group-middle button,
+	action-bar-tmp.panel .button-group-middle div {
+		border-radius: 0;
+		border-left: 0;
+		margin-right: 0;
+	}
+
+	action-bar-tmp.panel .button-group:last-child button,
+	action-bar-tmp.panel .button-group:last-child div,
+	&amp;.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:first-child button,
+	&amp;.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:first-child div.drop-button {
+		border-radius: 0px @borderRadius @borderRadius 0px;
+	}
+
+	&amp;.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child:first-child div.drop-button,
+	&amp;.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child:first-child button,
+	action-bar-tmp.panel .button-group:last-child:first-child button,
+	action-bar-tmp.panel .button-group:last-child:first-child div {
+		border-radius: @borderRadius @borderRadius @borderRadius @borderRadius;
+	}
+
+	.ot-standard-control-small,
+	tabs-header {
+		background-color: @containerControlHeaderColor;
+		color: @containerControlFontColor;
+	}
+
+	.tabs-container {
+
+		.nav-item .nav-link,
+		.nav-item.active .nav-link {
+			color: @containerControlFontColor;
+		}
+	}
+
+	.results-grid .rg-table-header {
+		background-color: @gridControlHeaderColor;
+		color: @gridControlHeaderFontColor;
+	}
+}</AdvanceContent>
+	<BorderColor>#dcdcdc</BorderColor>
+	<ButtonRadius>16</ButtonRadius>
+	<CSS>@import &quot;../nl-bos-generic/css/cms.css&quot;;
+/*
+@actionBarButtonColor: #ffffff;
+@actionBarButtonBackground: #232e72;
+@actionBarButtonBackgroundHover: #171F4C;
+*/
+body,
+body.desktop,
+body.mobile,
+body.tablet,
+body .custom-select,
+body input,
+body textarea {
+  font-family: 'Aktiv grotesk';
+  color: #000000;
+}
+body .results-menu .column-picker-container .grid-column-chooser-header,
+body .results-menu .sorting-options-container .grid-column-chooser-header {
+  font-family: 'Aktiv grotesk';
+  color: #000000;
+}
+body .empower-logo {
+  background: url(&quot;../nl-bos-generic/images/header_logo.png&quot;) center no-repeat;
+}
+body .selected-home-page-name,
+body .layout-drawer-item {
+  color: #ffffff;
+}
+body .navbar-inner {
+  background: linear-gradient(to right, #111b58 50%, #078db3 100%);
+}
+body .layout-drawer-divider {
+  border: 1px solid #111b58;
+}
+body .layout-drawer,
+body .layout-drawer-item:active,
+body .layout-drawer-item:hover {
+  background: #111b58;
+}
+body .layout-drawer-section-header,
+body .layout-drawer-section-header:hover {
+  color: #ffffff;
+  background: #111b58;
+}
+body expandable-panel-bar,
+body .root-container {
+  background: linear-gradient(to right, #111b58 0%, #111b58 59%, #078db3 100%);
+}
+body .emp-panel-header {
+  color: #333333;
+}
+body .emp-panel {
+  border: 1px solid #dcdcdc;
+}
+body action-button bs-button button.btn,
+body bs-button button.btn.btn-secondary:not(.btn-micro),
+body action-bar-tmp.panel bs-button button,
+body action-bar-tmp.panel bs-drop-button .drop-button {
+  color: #232e72;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border-color: #232e72;
+}
+body action-button bs-button button.btn:hover,
+body bs-button button.btn.btn-secondary:not(.btn-micro):hover,
+body action-bar-tmp.panel bs-button button:hover,
+body action-bar-tmp.panel bs-drop-button .drop-button:hover {
+  background-color: #ffffff;
+}
+body action-button bs-button button.btn:hover:disabled,
+body bs-button button.btn.btn-secondary:not(.btn-micro):hover:disabled,
+body action-bar-tmp.panel bs-button button:hover:disabled,
+body action-bar-tmp.panel bs-drop-button .drop-button:hover:disabled {
+  background-color: #232e72;
+  border: 1px solid #999999;
+  box-shadow: none;
+}
+body action-button bs-button button.btn:focus,
+body bs-button button.btn.btn-secondary:not(.btn-micro):focus,
+body action-bar-tmp.panel bs-button button:focus,
+body action-bar-tmp.panel bs-drop-button .drop-button:focus {
+  color: #232e72;
+  background-color: #ffffff;
+  -webkit-box-shadow: inset 0px 0px 0px 1px #2E3D98, inset 0px 0px 0px 2px #232e72 !important;
+  -moz-box-shadow: inset 0px 0px 0px 1px #2E3D98, inset 0px 0px 0px 2px #232e72 !important;
+  box-shadow: inset 0px 0px 0px 1px #2E3D98, inset 0px 0px 0px 2px #232e72 !important;
+  outline: 0;
+  border-color: #232e72 !important;
+}
+body action-button bs-button button.btn:active,
+body bs-button button.btn.btn-secondary:not(.btn-micro):active,
+body action-bar-tmp.panel bs-button button:active,
+body action-bar-tmp.panel bs-drop-button .drop-button:active {
+  color: #232e72 !important;
+  background-color: #ffffff !important;
+}
+body action-bar-tmp.panel .button-group:first-child button,
+body action-bar-tmp.panel .button-group:first-child div.drop-button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child div.drop-button {
+  border-radius: 16px 0px 0px 16px;
+}
+body action-bar-tmp.panel .button-group-middle button,
+body action-bar-tmp.panel .button-group-middle div {
+  border-radius: 0;
+  border-left: 0;
+  margin-right: 0;
+}
+body action-bar-tmp.panel .button-group:last-child button,
+body action-bar-tmp.panel .button-group:last-child div,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:first-child button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:first-child div.drop-button {
+  border-radius: 0px 16px 16px 0px;
+}
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child:first-child div.drop-button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child:first-child button,
+body action-bar-tmp.panel .button-group:last-child:first-child button,
+body action-bar-tmp.panel .button-group:last-child:first-child div {
+  border-radius: 16px 16px 16px 16px;
+}
+body .ot-standard-control-small,
+body tabs-header {
+  background-color: #f7f7f7;
+  color: #333333;
+}
+body .tabs-container .nav-item .nav-link,
+body .tabs-container .nav-item.active .nav-link {
+  color: #333333;
+}
+body .results-grid .rg-table-header {
+  background-color: #f1f1f1;
+  color: #333333;
+}
+</CSS>
+	<CompiledCSS>@import &quot;../nl-bos-generic/css/cms.css&quot;;
+/*
+@actionBarButtonColor: #ffffff;
+@actionBarButtonBackground: #232e72;
+@actionBarButtonBackgroundHover: #171F4C;
+*/
+body,
+body.desktop,
+body.mobile,
+body.tablet,
+body .custom-select,
+body input,
+body textarea {
+  font-family: 'Aktiv grotesk';
+  color: #000000;
+}
+body .results-menu .column-picker-container .grid-column-chooser-header,
+body .results-menu .sorting-options-container .grid-column-chooser-header {
+  font-family: 'Aktiv grotesk';
+  color: #000000;
+}
+body .empower-logo {
+  background: url(&quot;../nl-bos-generic/images/header_logo.png&quot;) center no-repeat;
+}
+body .selected-home-page-name,
+body .layout-drawer-item {
+  color: #ffffff;
+}
+body .navbar-inner {
+  background: linear-gradient(to right, #111b58 50%, #078db3 100%);
+}
+body .layout-drawer-divider {
+  border: 1px solid #111b58;
+}
+body .layout-drawer,
+body .layout-drawer-item:active,
+body .layout-drawer-item:hover {
+  background: #111b58;
+}
+body .layout-drawer-section-header,
+body .layout-drawer-section-header:hover {
+  color: #ffffff;
+  background: #111b58;
+}
+body expandable-panel-bar,
+body .root-container {
+  background: linear-gradient(to right, #111b58 0%, #111b58 59%, #078db3 100%);
+}
+body .emp-panel-header {
+  color: #333333;
+}
+body .emp-panel {
+  border: 1px solid #dcdcdc;
+}
+body action-button bs-button button.btn,
+body bs-button button.btn.btn-secondary:not(.btn-micro),
+body action-bar-tmp.panel bs-button button,
+body action-bar-tmp.panel bs-drop-button .drop-button {
+  color: #232e72;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border-color: #232e72;
+}
+body action-button bs-button button.btn:hover,
+body bs-button button.btn.btn-secondary:not(.btn-micro):hover,
+body action-bar-tmp.panel bs-button button:hover,
+body action-bar-tmp.panel bs-drop-button .drop-button:hover {
+  background-color: #ffffff;
+}
+body action-button bs-button button.btn:hover:disabled,
+body bs-button button.btn.btn-secondary:not(.btn-micro):hover:disabled,
+body action-bar-tmp.panel bs-button button:hover:disabled,
+body action-bar-tmp.panel bs-drop-button .drop-button:hover:disabled {
+  background-color: #232e72;
+  border: 1px solid #999999;
+  box-shadow: none;
+}
+body action-button bs-button button.btn:focus,
+body bs-button button.btn.btn-secondary:not(.btn-micro):focus,
+body action-bar-tmp.panel bs-button button:focus,
+body action-bar-tmp.panel bs-drop-button .drop-button:focus {
+  color: #232e72;
+  background-color: #ffffff;
+  -webkit-box-shadow: inset 0px 0px 0px 1px #2E3D98, inset 0px 0px 0px 2px #232e72 !important;
+  -moz-box-shadow: inset 0px 0px 0px 1px #2E3D98, inset 0px 0px 0px 2px #232e72 !important;
+  box-shadow: inset 0px 0px 0px 1px #2E3D98, inset 0px 0px 0px 2px #232e72 !important;
+  outline: 0;
+  border-color: #232e72 !important;
+}
+body action-button bs-button button.btn:active,
+body bs-button button.btn.btn-secondary:not(.btn-micro):active,
+body action-bar-tmp.panel bs-button button:active,
+body action-bar-tmp.panel bs-drop-button .drop-button:active {
+  color: #232e72 !important;
+  background-color: #ffffff !important;
+}
+body action-bar-tmp.panel .button-group:first-child button,
+body action-bar-tmp.panel .button-group:first-child div.drop-button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child div.drop-button {
+  border-radius: 16px 0px 0px 16px;
+}
+body action-bar-tmp.panel .button-group-middle button,
+body action-bar-tmp.panel .button-group-middle div {
+  border-radius: 0;
+  border-left: 0;
+  margin-right: 0;
+}
+body action-bar-tmp.panel .button-group:last-child button,
+body action-bar-tmp.panel .button-group:last-child div,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:first-child button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:first-child div.drop-button {
+  border-radius: 0px 16px 16px 0px;
+}
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child:first-child div.drop-button,
+body.rtl action-bar-tmp.panel .hor-over-menu .button-strip .h-over-item .button-group:last-child:first-child button,
+body action-bar-tmp.panel .button-group:last-child:first-child button,
+body action-bar-tmp.panel .button-group:last-child:first-child div {
+  border-radius: 16px 16px 16px 16px;
+}
+body .ot-standard-control-small,
+body tabs-header {
+  background-color: #f7f7f7;
+  color: #333333;
+}
+body .tabs-container .nav-item .nav-link,
+body .tabs-container .nav-item.active .nav-link {
+  color: #333333;
+}
+body .results-grid .rg-table-header {
+  background-color: #f1f1f1;
+  color: #333333;
+}
+</CompiledCSS>
+	<ContainerControlFontColor>#333333</ContainerControlFontColor>
+	<ContainerControlHeaderColor>#f7f7f7</ContainerControlHeaderColor>
+	<EditorType>Advance</EditorType>
+	<FileUploadedName></FileUploadedName>
+	<FontColor>#000000</FontColor>
+	<FontFamily>Aktiv grotesk</FontFamily>
+	<GradientSelected>false</GradientSelected>
+	<GridControlHeaderColor>#f1f1f1</GridControlHeaderColor>
+	<GridControlHeaderFontColor>#333333</GridControlHeaderFontColor>
+	<HeaderBackground>#111b58</HeaderBackground>
+	<HeaderRight>#078db3</HeaderRight>
+	<HeaderText>#ffffff</HeaderText>
+	<HomePageBanner></HomePageBanner>
+	<PanelHeadeBackground>#333333</PanelHeadeBackground>
+	<PrimaryColor>#111b58</PrimaryColor>
+	<SecondaryColor>#078db3</SecondaryColor>
+	<SolidSelected>false</SolidSelected>
+	<logoHeight>31</logoHeight>
+	<logoWidth>445</logoWidth>
+</Theme>
