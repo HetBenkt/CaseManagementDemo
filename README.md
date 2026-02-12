@@ -1,13 +1,16 @@
 # CaseManagementDemo
 
-## User & Roles:
+## User & Roles
 - Add CMS users to the role `cms_generic_user`
 - Add CMS-ADMIN users to the role `cms_admin_user`
 
 ## Settings
 - Hide default homepage from CMS users: Change role of `OpenTextEntityIdentityComponents.HomePage` in `/app/admin` to `Identity Administrator of OpenText Entity Identity Components`
 
-## Dependent service containers (run all in OS!):
+## Masterdata
+- Types
+
+## Dependent service containers (run all in OS!)
   - AppServer
   - Mail
 
