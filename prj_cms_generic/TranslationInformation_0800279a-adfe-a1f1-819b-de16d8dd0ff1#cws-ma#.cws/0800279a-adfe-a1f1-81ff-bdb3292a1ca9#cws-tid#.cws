@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb329319ca9">
+	<DocumentID>0800279a-adfe-a1f1-81ff-bdb3292a1ca9</DocumentID>
+	<Name>0800279a-adfe-a1f1-81ff-bdb3292a1ca9</Name>
+	<Description>Masterdata</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-12T10:39:31.209</CreationDate>
+	<Notes/>
+	<DefaultText>Masterdata</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0800279a-adfe-a1f1-819b-de16b2ef0ff1"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0800279a-adfe-a1f1-81ff-bdb3293b9ca9"
+		/>
+	</Translations>
+</TextIdentifier>

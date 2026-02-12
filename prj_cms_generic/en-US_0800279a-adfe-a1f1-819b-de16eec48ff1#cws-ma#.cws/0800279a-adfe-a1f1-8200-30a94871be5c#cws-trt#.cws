@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8200-30a94876be5c">
+	<DocumentID>0800279a-adfe-a1f1-8200-30a94871be5c</DocumentID>
+	<Name>0800279a-adfe-a1f1-8200-30a94871be5c</Name>
+	<Description>Dynamic folder</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-12T10:51:25.117</CreationDate>
+	<Notes/>
+	<Text>Dynamic folder</Text>
+	<Language>
+		<uri
+			id="0800279a-adfe-a1f1-819b-de16e55d0ff1"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0800279a-adfe-a1f1-8200-30a94862be5c"
+		/>
+	</TextIdentifier>
+</TranslatedText>

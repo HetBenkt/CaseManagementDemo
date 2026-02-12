@@ -24,7 +24,7 @@
 	<IsReadOnlyView>false</IsReadOnlyView>
 	<ItemOpenMode>0</ItemOpenMode>
 	<LayoutId>0800279a-adfe-a1f1-819d-2fc813530121</LayoutId>
-	<MaxCount>200</MaxCount>
+	<MaxCount>25</MaxCount>
 	<SecuredByEntity>false</SecuredByEntity>
 	<ShowConditionalCountInList>false</ShowConditionalCountInList>
 	<ShowCreateButton>true</ShowCreateButton>
@@ -100,7 +100,25 @@
 			id="0800279a-adfe-a1f1-819d-2fc813490121"
 		/>
 	</Layout>
-	<LocalizableCategoryLabel/>
+	<LocalizableCategoryLabel>
+		<TranslatableText
+			type="com.cordys.translation.TranslatableText"
+			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb3285d1ca9">
+			<DocumentID>0800279a-adfe-a1f1-81ff-bdb328509ca9</DocumentID>
+			<Name>0800279a-adfe-a1f1-81ff-bdb328509ca9</Name>
+			<Description>0800279a-adfe-a1f1-81ff-bdb328509ca9</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-12T10:39:49.918</CreationDate>
+			<Notes/>
+			<DeveloperText>CMS</DeveloperText>
+			<Identifier>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-bdb328671ca9"
+				/>
+			</Identifier>
+		</TranslatableText>
+	</LocalizableCategoryLabel>
 	<Original/>
 	<UsesAssociation>
 		<UsesAssociation
@@ -115,6 +133,154 @@
 		</UsesAssociation>
 	</UsesAssociation>
 	<WorklistColumns>
+		<WorklistColumn
+			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
+			RuntimeDocumentID="0800279a-adfe-a1f1-819d-38c79a6bbf23">
+			<DocumentID>0800279a-adfe-a1f1-819d-38c79a61bf23</DocumentID>
+			<Name>Untitled WorklistColumn (6)</Name>
+			<Description>Untitled WorklistColumn (6)</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-10T11:38:51.963</CreationDate>
+			<Notes/>
+			<ColumnAlignment>0</ColumnAlignment>
+			<ColumnLabel></ColumnLabel>
+			<DataType>Image</DataType>
+			<DefaultSortType>0</DefaultSortType>
+			<Definition></Definition>
+			<FormatterName>resultImage</FormatterName>
+			<HiddenInResult>false</HiddenInResult>
+			<InForm>false</InForm>
+			<IsComputedProperty>false</IsComputedProperty>
+			<ItemMemberId>0800279a-adfe-a1f1-819c-f4a6cbf49c34</ItemMemberId>
+			<ItemMemberPath></ItemMemberPath>
+			<OwnerName>Untitled_Entity</OwnerName>
+			<PropertyId>0800279a-adfe-a1f1-819c-f9ec3cb414fe</PropertyId>
+			<PropertyName>case_logo</PropertyName>
+			<StaticPropertyId></StaticPropertyId>
+			<ItemMemberPropertyPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="0800279a-adfe-a1f1-819d-38c79a57bf23">
+					<DocumentID>0800279a-adfe-a1f1-819d-38c79a4dbf23</DocumentID>
+					<Name>0800279a-adfe-a1f1-819d-38c79a4dbf23</Name>
+					<Description>0800279a-adfe-a1f1-819d-38c79a4dbf23</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-10T11:38:51.972</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
+					<IntermediateRelationships/>
+					<Object>
+						<uri
+							id="0800279a-adfe-a1f1-819c-f9ec3ca294fe"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="0800279a-adfe-a1f1-819d-2fc812b80121"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="0800279a-adfe-a1f1-819c-f9ec3ca294fe"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+			</ItemMemberPropertyPath>
+			<Layout/>
+			<LocalizableColumnLabel/>
+			<Property>
+				<uri
+					id="0800279a-adfe-a1f1-819c-f9ec3ca294fe"
+				/>
+			</Property>
+			<WorklistDateFormat/>
+			<WorklistDateTimeFormat/>
+		</WorklistColumn>
+		<WorklistColumn
+			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
+			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-cf581020aa9a">
+			<DocumentID>0800279a-adfe-a1f1-81ff-cf5810142a9a</DocumentID>
+			<Name>Untitled WorklistColumn (11)</Name>
+			<Description>Untitled WorklistColumn (11)</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-12T10:45:56.501</CreationDate>
+			<Notes/>
+			<ColumnAlignment>0</ColumnAlignment>
+			<ColumnLabel></ColumnLabel>
+			<DataType>Text</DataType>
+			<DefaultSortType>0</DefaultSortType>
+			<Definition></Definition>
+			<FormatterName>resultSimple</FormatterName>
+			<HiddenInResult>false</HiddenInResult>
+			<InForm>true</InForm>
+			<IsComputedProperty>false</IsComputedProperty>
+			<ItemMemberId>0800279a-adfe-a1f1-819c-f4a6ce929c34</ItemMemberId>
+			<ItemMemberPath></ItemMemberPath>
+			<OwnerName>case</OwnerName>
+			<PropertyId>0800279a-adfe-a1f1-81ff-cf5810f7aa9a</PropertyId>
+			<PropertyName>BusinessId</PropertyName>
+			<StaticPropertyId></StaticPropertyId>
+			<ItemMemberPropertyPath>
+				<PropertyObjectPath
+					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
+					RuntimeDocumentID="0800279a-adfe-a1f1-81ff-cf581007aa9a">
+					<DocumentID>0800279a-adfe-a1f1-81ff-cf580ff8aa9a</DocumentID>
+					<Name>0800279a-adfe-a1f1-81ff-cf580ff8aa9a</Name>
+					<Description>0800279a-adfe-a1f1-81ff-cf580ff8aa9a</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-12T10:45:56.5</CreationDate>
+					<Notes/>
+					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
+					<IntermediateRelationships/>
+					<Object>
+						<uri
+							id="0800279a-adfe-a1f1-81ff-cf5810eb2a9a"
+						/>
+					</Object>
+					<ObjectOwner>
+						<uri
+							id="0800279a-adfe-a1f1-819d-2fc812b80121"
+						/>
+					</ObjectOwner>
+					<PathBegin>
+						<uri
+							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
+						/>
+					</PathBegin>
+					<PathEnd>
+						<uri
+							id="0800279a-adfe-a1f1-81ff-cf5810eb2a9a"
+						/>
+					</PathEnd>
+					<RootOwner>
+						<uri
+							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
+						/>
+					</RootOwner>
+				</PropertyObjectPath>
+			</ItemMemberPropertyPath>
+			<Layout/>
+			<LocalizableColumnLabel/>
+			<Property>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-cf5810eb2a9a"
+				/>
+			</Property>
+			<WorklistDateFormat/>
+			<WorklistDateTimeFormat/>
+		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
 			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
@@ -502,7 +668,7 @@
 			<Definition></Definition>
 			<FormatterName>resultDuration</FormatterName>
 			<HiddenInResult>false</HiddenInResult>
-			<InForm>true</InForm>
+			<InForm>false</InForm>
 			<IsComputedProperty>false</IsComputedProperty>
 			<ItemMemberId>0800279a-adfe-a1f1-819c-f4a6cbf49c34</ItemMemberId>
 			<ItemMemberPath></ItemMemberPath>
@@ -554,80 +720,6 @@
 			<Property>
 				<uri
 					id="0800279a-adfe-a1f1-819c-f9ec3d5414fe"
-				/>
-			</Property>
-			<WorklistDateFormat/>
-			<WorklistDateTimeFormat/>
-		</WorklistColumn>
-		<WorklistColumn
-			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-38c79a6bbf23">
-			<DocumentID>0800279a-adfe-a1f1-819d-38c79a61bf23</DocumentID>
-			<Name>Untitled WorklistColumn (6)</Name>
-			<Description>Untitled WorklistColumn (6)</Description>
-			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.963</CreationDate>
-			<Notes/>
-			<ColumnAlignment>0</ColumnAlignment>
-			<ColumnLabel></ColumnLabel>
-			<DataType>Image</DataType>
-			<DefaultSortType>0</DefaultSortType>
-			<Definition></Definition>
-			<FormatterName>resultImage</FormatterName>
-			<HiddenInResult>false</HiddenInResult>
-			<InForm>true</InForm>
-			<IsComputedProperty>false</IsComputedProperty>
-			<ItemMemberId>0800279a-adfe-a1f1-819c-f4a6cbf49c34</ItemMemberId>
-			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>Untitled_Entity</OwnerName>
-			<PropertyId>0800279a-adfe-a1f1-819c-f9ec3cb414fe</PropertyId>
-			<PropertyName>case_logo</PropertyName>
-			<StaticPropertyId></StaticPropertyId>
-			<ItemMemberPropertyPath>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="0800279a-adfe-a1f1-819d-38c79a57bf23">
-					<DocumentID>0800279a-adfe-a1f1-819d-38c79a4dbf23</DocumentID>
-					<Name>0800279a-adfe-a1f1-819d-38c79a4dbf23</Name>
-					<Description>0800279a-adfe-a1f1-819d-38c79a4dbf23</Description>
-					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-10T11:38:51.972</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="0800279a-adfe-a1f1-819c-f9ec3ca294fe"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="0800279a-adfe-a1f1-819d-2fc812b80121"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="0800279a-adfe-a1f1-819c-f9ec3ca294fe"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-			</ItemMemberPropertyPath>
-			<Layout/>
-			<LocalizableColumnLabel/>
-			<Property>
-				<uri
-					id="0800279a-adfe-a1f1-819c-f9ec3ca294fe"
 				/>
 			</Property>
 			<WorklistDateFormat/>
@@ -702,80 +794,6 @@
 			<Property>
 				<uri
 					id="0800279a-adfe-a1f1-819c-f9ec3c1194fe"
-				/>
-			</Property>
-			<WorklistDateFormat/>
-			<WorklistDateTimeFormat/>
-		</WorklistColumn>
-		<WorklistColumn
-			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-38c79a193f23">
-			<DocumentID>0800279a-adfe-a1f1-819d-38c79a0f3f23</DocumentID>
-			<Name>Untitled WorklistColumn (8)</Name>
-			<Description>Untitled WorklistColumn (8)</Description>
-			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.957</CreationDate>
-			<Notes/>
-			<ColumnAlignment>0</ColumnAlignment>
-			<ColumnLabel></ColumnLabel>
-			<DataType>LongText</DataType>
-			<DefaultSortType>0</DefaultSortType>
-			<Definition></Definition>
-			<FormatterName>resultSimple</FormatterName>
-			<HiddenInResult>false</HiddenInResult>
-			<InForm>true</InForm>
-			<IsComputedProperty>false</IsComputedProperty>
-			<ItemMemberId>0800279a-adfe-a1f1-819c-f4a6cbf49c34</ItemMemberId>
-			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>Untitled_Entity</OwnerName>
-			<PropertyId>0800279a-adfe-a1f1-819c-f9ec3b8814fe</PropertyId>
-			<PropertyName>case_description</PropertyName>
-			<StaticPropertyId></StaticPropertyId>
-			<ItemMemberPropertyPath>
-				<PropertyObjectPath
-					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="0800279a-adfe-a1f1-819d-38c79a053f23">
-					<DocumentID>0800279a-adfe-a1f1-819d-38c799fb3f23</DocumentID>
-					<Name>0800279a-adfe-a1f1-819d-38c799fb3f23</Name>
-					<Description>0800279a-adfe-a1f1-819d-38c799fb3f23</Description>
-					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-10T11:38:51.969</CreationDate>
-					<Notes/>
-					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
-					<IntermediateRelationships/>
-					<Object>
-						<uri
-							id="0800279a-adfe-a1f1-819c-f9ec3b7b94fe"
-						/>
-					</Object>
-					<ObjectOwner>
-						<uri
-							id="0800279a-adfe-a1f1-819d-2fc812b80121"
-						/>
-					</ObjectOwner>
-					<PathBegin>
-						<uri
-							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
-						/>
-					</PathBegin>
-					<PathEnd>
-						<uri
-							id="0800279a-adfe-a1f1-819c-f9ec3b7b94fe"
-						/>
-					</PathEnd>
-					<RootOwner>
-						<uri
-							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
-						/>
-					</RootOwner>
-				</PropertyObjectPath>
-			</ItemMemberPropertyPath>
-			<Layout/>
-			<LocalizableColumnLabel/>
-			<Property>
-				<uri
-					id="0800279a-adfe-a1f1-819c-f9ec3b7b94fe"
 				/>
 			</Property>
 			<WorklistDateFormat/>

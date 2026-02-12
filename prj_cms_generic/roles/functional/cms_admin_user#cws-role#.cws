@@ -1,0 +1,23 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="0800279a-adfe-a1f1-81ff-9a8c9bd4394b">
+	<DocumentID>0800279a-adfe-a1f1-81ff-9a8c9bc7b94b</DocumentID>
+	<Name>cms_admin_user</Name>
+	<Description>cms_admin_user</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-12T10:37:09.711</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Functional</type>
+	<Subroles>
+		<uri
+			id="0800279a-adfe-a1f1-819c-31af02cc3ea7"
+		/>
+	</Subroles>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>

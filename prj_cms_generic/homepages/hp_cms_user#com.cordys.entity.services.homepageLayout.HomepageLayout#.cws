@@ -5,13 +5,13 @@
 	typeVersion="5FB698AB-8095-4249-8CC7-B4058DDA5D41"
 	RuntimeDocumentID="0800279a-adfe-a1f1-819d-fe9621bdbf23">
 	<DocumentID>0800279a-adfe-a1f1-819d-fe9621b13f23</DocumentID>
-	<Name>hp_case_management</Name>
-	<Description>hp_case_management</Description>
+	<Name>hp_cms_user</Name>
+	<Description>hp_cms_user</Description>
 	<CreatedBy>OPA Developer</CreatedBy>
 	<CreationDate>2026-02-10T12:01:26.788</CreationDate>
 	<Notes/>
 	<AllowUpdateSecurityViaAdmin>false</AllowUpdateSecurityViaAdmin>
-	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-fe9621b13f23&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:25,&quot;id&quot;:&quot;5682f6fc5c4d5b85ffabf6d274529b6b&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;8003d4a331a87cd73bc1c80adf098541&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;772180dacb79af320efb9e64b0b0d2f6&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;a3675eca7695e18681a2fd4268f141cb&quot;,&quot;nodes&quot;:[]}]}]},{&quot;type&quot;:&quot;column&quot;,&quot;panelId&quot;:null,&quot;size&quot;:75,&quot;id&quot;:&quot;77e1bb7946adffcd0badfc7db39039dc&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;383450474d630e7a02122bfa552ea520&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;b21f9d39447e356ffd3b097b3acedc9c&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;3a5e2efcaaed3b427de2f07fff7dee3e&quot;,&quot;nodes&quot;:[]}]}]}]}</Definition>
+	<Definition>{&quot;layoutType&quot;:&quot;homePage&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-fe9621b13f23&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;383450474d630e7a02122bfa552ea520&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;b21f9d39447e356ffd3b097b3acedc9c&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;3a5e2efcaaed3b427de2f07fff7dee3e&quot;,&quot;nodes&quot;:[]}]}]}</Definition>
 	<HelpURL></HelpURL>
 	<HideCreateAction>true</HideCreateAction>
 	<IncludeInCreate>false</IncludeInCreate>
@@ -22,7 +22,42 @@
 	<ShowFirstTab>false</ShowFirstTab>
 	<ActionBarAssociations/>
 	<BuildingBlock/>
-	<CustomActions/>
+	<CustomActions>
+		<CustomAction
+			type="com.cordys.entity.services.homepageLayout.homePageCustomActions.CustomAction"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8200-c957d518311a">
+			<DocumentID>0800279a-adfe-a1f1-8200-c957d510b11a</DocumentID>
+			<Name>CustomAction0800279aadfea1f18200c957d510b11a</Name>
+			<Description>CustomAction0800279aadfea1f18200c957d510b11a</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-12T11:08:46.39</CreationDate>
+			<Notes/>
+			<ActionDefinition>
+				<FormAction
+					type="com.cordys.entity.services.homepageLayout.homePageCustomActions.FormAction"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8200-c957d501b11a">
+					<DocumentID>0800279a-adfe-a1f1-8200-c957d4fa311a</DocumentID>
+					<Name>FormAction0800279aadfea1f18200c957d4fa311a</Name>
+					<Description>FormAction0800279aadfea1f18200c957d4fa311a</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-12T11:08:46.389</CreationDate>
+					<Notes/>
+					<Entity>
+						<uri
+							id="0800279a-adfe-a1f1-819c-6ec3ee77a356"
+						/>
+					</Entity>
+					<Target>
+						<uri
+							id="0800279a-adfe-a1f1-819d-2fc814700121"
+						/>
+					</Target>
+				</FormAction>
+			</ActionDefinition>
+			<ActionIcon/>
+			<DisplayName/>
+		</CustomAction>
+	</CustomActions>
 	<DisplayName>
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
@@ -56,7 +91,7 @@
 			<CreatedBy>OPA Developer</CreatedBy>
 			<CreationDate>2026-02-10T12:01:26.788</CreationDate>
 			<Notes/>
-			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;b21f9d39447e356ffd3b097b3acedc9c&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;WorklistsPanel&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:null}]}</Definition>
+			<Definition>{&quot;sourceId&quot;:&quot;5B5F9F0C05F14E288C92ED0F559F4D12&quot;,&quot;sourceName&quot;:&quot;Results&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;b21f9d39447e356ffd3b097b3acedc9c&quot;,&quot;customScriptElementId&quot;:&quot;&quot;,&quot;customExtensions&quot;:&quot;&quot;,&quot;properties&quot;:[{&quot;name&quot;:&quot;resultssource&quot;,&quot;value&quot;:&quot;SpecifiedWorklist&quot;},{&quot;name&quot;:&quot;queryFilters&quot;,&quot;value&quot;:&quot;&quot;}]}</Definition>
 			<DisplayName>Results</DisplayName>
 			<ModelerId>b21f9d39447e356ffd3b097b3acedc9c</ModelerId>
 			<SourceId>5B5F9F0C05F14E288C92ED0F559F4D12</SourceId>
@@ -69,34 +104,11 @@
 			<LocalizableDisplayName/>
 			<PanelCategories/>
 			<PanelIcon/>
-			<WorklistAssociation/>
-			<XFormAssociation/>
-			<filterCriteria/>
-		</LayoutPanel>
-		<LayoutPanel
-			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
-			typeVersion="00155D1D-D900-A1F0-A806-7CB849344F59"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-fe9620ee3f23">
-			<DocumentID>0800279a-adfe-a1f1-819d-fe9620e1bf23</DocumentID>
-			<Name>Views</Name>
-			<Description/>
-			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T12:01:26.787</CreationDate>
-			<Notes/>
-			<Definition>{&quot;sourceId&quot;:&quot;E82182C005C74D3C9A538807646525EB&quot;,&quot;sourceName&quot;:&quot;Views&quot;,&quot;chrome&quot;:&quot;none&quot;,&quot;id&quot;:&quot;772180dacb79af320efb9e64b0b0d2f6&quot;,&quot;properties&quot;:[]}</Definition>
-			<DisplayName>Lists</DisplayName>
-			<ModelerId>772180dacb79af320efb9e64b0b0d2f6</ModelerId>
-			<SourceId>E82182C005C74D3C9A538807646525EB</SourceId>
-			<SourceName>Views</SourceName>
-			<ActionBarAssociation/>
-			<CustomScript/>
-			<FormAssociation/>
-			<IHubPanelConfiguration/>
-			<LayoutAssociation/>
-			<LocalizableDisplayName/>
-			<PanelCategories/>
-			<PanelIcon/>
-			<WorklistAssociation/>
+			<WorklistAssociation>
+				<uri
+					id="0800279a-adfe-a1f1-8200-c957d4cfb11a"
+				/>
+			</WorklistAssociation>
 			<XFormAssociation/>
 			<filterCriteria/>
 		</LayoutPanel>
@@ -189,6 +201,24 @@
 			<staticConditions/>
 		</SecurityDescriptor>
 	</SecurityDescriptor>
-	<WorklistAssociations/>
+	<WorklistAssociations>
+		<WorklistAssociation
+			type="com.cordys.entity.buildingblocks.layout.WorklistAssociation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8200-c957d4d7311a">
+			<DocumentID>0800279a-adfe-a1f1-8200-c957d4cfb11a</DocumentID>
+			<Name>Results_SelectedWorklist</Name>
+			<Description>Cases</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-12T11:09:26.797</CreationDate>
+			<Notes/>
+			<DisplayName>Cases</DisplayName>
+			<ModelerId>e2bcace4124b60c704ee7d63034a51d2</ModelerId>
+			<Worklist>
+				<uri
+					id="0800279a-adfe-a1f1-819d-2fc812b80121"
+				/>
+			</Worklist>
+		</WorklistAssociation>
+	</WorklistAssociations>
 	<XFormAssociations/>
 </HomepageLayout>

@@ -1,0 +1,18 @@
+
+<EmailConfig
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.services.emailconfig.EmailConfig"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8200-5bbe47d28cd7">
+	<DocumentID>0800279a-adfe-a1f1-8200-5bbe47c60cd7</DocumentID>
+	<Name>ec_case</Name>
+	<Description>ec_case</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-12T10:57:56.827</CreationDate>
+	<Notes/>
+	<EmailProfileUserID></EmailProfileUserID>
+	<EnableDefault>false</EnableDefault>
+	<From></From>
+	<FromDisplayName></FromDisplayName>
+	<ReplyTo></ReplyTo>
+	<DisplayName/>
+</EmailConfig>

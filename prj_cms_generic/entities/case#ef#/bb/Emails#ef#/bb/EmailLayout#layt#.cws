@@ -1,0 +1,63 @@
+
+<Layout
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.layout.Layout"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8200-3f5f07b6ba3a">
+	<DocumentID>0800279a-adfe-a1f1-8200-3f5f07acba3a</DocumentID>
+	<Name>EmailLayout</Name>
+	<Description>EmailLayout</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-12T10:54:46.431</CreationDate>
+	<Notes/>
+	<Definition>{&quot;layoutType&quot;:&quot;object&quot;,&quot;layoutPanelType&quot;:&quot;FitToScreen&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;row&quot;,&quot;panelId&quot;:null,&quot;size&quot;:100,&quot;id&quot;:&quot;318468572f465b8efba65571c167da73&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;zone&quot;,&quot;panelId&quot;:null,&quot;size&quot;:null,&quot;id&quot;:&quot;c907f36f6149a1392706f7e992b8fc87&quot;,&quot;nodes&quot;:[{&quot;type&quot;:&quot;panel&quot;,&quot;panelId&quot;:&quot;53f3dd8f24511e19100d05e35c629e7b&quot;,&quot;size&quot;:null,&quot;id&quot;:&quot;dafa5363e45df90e1710230032b727ce&quot;,&quot;nodes&quot;:[]}]}]}],&quot;preview&quot;:false,&quot;full&quot;:false,&quot;includeInCreate&quot;:false,&quot;showFirstTab&quot;:false}</Definition>
+	<HelpURL></HelpURL>
+	<HideCreateAction>false</HideCreateAction>
+	<IncludeInCreate>false</IncludeInCreate>
+	<IsFullLayout>true</IsFullLayout>
+	<IsPreviewLayout>true</IsPreviewLayout>
+	<LayoutPanelType>FitToScreen</LayoutPanelType>
+	<LayoutType>0</LayoutType>
+	<ShowFirstTab>false</ShowFirstTab>
+	<ActionBarAssociations/>
+	<BuildingBlock>
+		<uri
+			id="0800279a-adfe-a1f1-8200-3f40cdb72b07"
+		/>
+	</BuildingBlock>
+	<DisplayName/>
+	<FormAssociations/>
+	<Image/>
+	<LayoutAssociations/>
+	<LayoutPanels>
+		<LayoutPanel
+			type="com.cordys.entity.buildingblocks.layout.LayoutPanel"
+			typeVersion="00155D1D-D900-A1F0-A806-7CB849344F59"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8200-3f5f07a53a3a">
+			<DocumentID>0800279a-adfe-a1f1-8200-3f5f07a03a3a</DocumentID>
+			<Name>EmailDetails</Name>
+			<Description/>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-12T10:54:46.421</CreationDate>
+			<Notes/>
+			<Definition>{ &quot;sourceId&quot;: &quot;EF3097D681234A78B4F7A0995C8A263F&quot;, &quot;sourceName&quot;: &quot;EmailDetails&quot;, &quot;chrome&quot;: &quot;none&quot;, &quot;id&quot;: &quot;53f3dd8f24511e19100d05e35c629e7b&quot;, &quot;blockName&quot;: &quot;EmailBuildingBlock&quot;, &quot;properties&quot;: [] }</Definition>
+			<DisplayName>EmailDetails</DisplayName>
+			<ModelerId>53f3dd8f24511e19100d05e35c629e7b</ModelerId>
+			<SourceId>EF3097D681234A78B4F7A0995C8A263F</SourceId>
+			<SourceName>EmailDetails</SourceName>
+			<ActionBarAssociation/>
+			<CustomScript/>
+			<FormAssociation/>
+			<IHubPanelConfiguration/>
+			<LayoutAssociation/>
+			<LocalizableDisplayName/>
+			<PanelCategories/>
+			<PanelIcon/>
+			<WorklistAssociation/>
+			<XFormAssociation/>
+			<filterCriteria/>
+		</LayoutPanel>
+	</LayoutPanels>
+	<Original/>
+	<WorklistAssociations/>
+	<XFormAssociations/>
+</Layout>
