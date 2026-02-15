@@ -1,0 +1,73 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad082b1f79">
+	<DocumentID>0800279a-adfe-a1f1-8296-c4ad08239f79</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-15T10:44:43.101</CreationDate>
+	<Notes/>
+	<CreateOperation/>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad06fc9f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad06f51f79</DocumentID>
+			<Name>Deleteconfig</Name>
+			<Description>Delete config</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:45:27.85</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-58dd5bcbba3a"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="0800279a-adfe-a1f1-81ff-58dd5bcbba3a"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad08149f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad080d1f79</DocumentID>
+			<Name>Readconfig</Name>
+			<Description>Read config</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:44:43.101</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-58dd5bcbba3a"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad070b9f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad07041f79</DocumentID>
+			<Name>Updateconfig</Name>
+			<Description>Update config</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:45:27.85</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-58dd5bcbba3a"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>

@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8297-337962ef3a92">
+	<DocumentID>0800279a-adfe-a1f1-8297-337962e7ba92</DocumentID>
+	<Name>0800279a-adfe-a1f1-8297-337962e7ba92</Name>
+	<Description>Add to ouput message</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-15T10:57:50.105</CreationDate>
+	<Notes/>
+	<DefaultText>Add to ouput message</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="0800279a-adfe-a1f1-819b-de16b2ef0ff1"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="0800279a-adfe-a1f1-8297-337962f6ba92"
+		/>
+	</Translations>
+</TextIdentifier>

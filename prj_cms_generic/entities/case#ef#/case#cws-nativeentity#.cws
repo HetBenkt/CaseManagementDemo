@@ -1506,17 +1506,17 @@
 												<TranslatableText
 													type="com.cordys.translation.TranslatableText"
 													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-													RuntimeDocumentID="0800279a-adfe-a1f1-819d-44185a09bd81">
-													<DocumentID>0800279a-adfe-a1f1-819d-441859ffbd81</DocumentID>
-													<Name>0800279a-adfe-a1f1-819d-441859ffbd81</Name>
-													<Description>0800279a-adfe-a1f1-819d-441859ffbd81</Description>
+													RuntimeDocumentID="0800279a-adfe-a1f1-8296-ab336e8cb22d">
+													<DocumentID>0800279a-adfe-a1f1-8296-ab336e82b22d</DocumentID>
+													<Name>0800279a-adfe-a1f1-8296-ab336e82b22d</Name>
+													<Description>0800279a-adfe-a1f1-8296-ab336e82b22d</Description>
 													<CreatedBy>OPA Developer</CreatedBy>
-													<CreationDate>2026-02-10T11:44:10.674</CreationDate>
+													<CreationDate>2026-02-15T10:42:24.638</CreationDate>
 													<Notes/>
-													<DeveloperText>Prio 1</DeveloperText>
+													<DeveloperText>Low</DeveloperText>
 													<Identifier>
 														<uri
-															id="0800279a-adfe-a1f1-819d-44185a113d81"
+															id="0800279a-adfe-a1f1-8200-083523c9ba3a"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1545,17 +1545,17 @@
 												<TranslatableText
 													type="com.cordys.translation.TranslatableText"
 													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-													RuntimeDocumentID="0800279a-adfe-a1f1-819d-441859cb3d81">
-													<DocumentID>0800279a-adfe-a1f1-819d-441859c13d81</DocumentID>
-													<Name>0800279a-adfe-a1f1-819d-441859c13d81</Name>
-													<Description>0800279a-adfe-a1f1-819d-441859c13d81</Description>
+													RuntimeDocumentID="0800279a-adfe-a1f1-8296-ab336e7b322d">
+													<DocumentID>0800279a-adfe-a1f1-8296-ab336e73b22d</DocumentID>
+													<Name>0800279a-adfe-a1f1-8296-ab336e73b22d</Name>
+													<Description>0800279a-adfe-a1f1-8296-ab336e73b22d</Description>
 													<CreatedBy>OPA Developer</CreatedBy>
-													<CreationDate>2026-02-10T11:44:10.674</CreationDate>
+													<CreationDate>2026-02-15T10:42:24.639</CreationDate>
 													<Notes/>
-													<DeveloperText>Prio 2</DeveloperText>
+													<DeveloperText>Medium</DeveloperText>
 													<Identifier>
 														<uri
-															id="0800279a-adfe-a1f1-819d-441859d2bd81"
+															id="0800279a-adfe-a1f1-8200-083523953a3a"
 														/>
 													</Identifier>
 												</TranslatableText>
@@ -1584,17 +1584,17 @@
 												<TranslatableText
 													type="com.cordys.translation.TranslatableText"
 													typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-													RuntimeDocumentID="0800279a-adfe-a1f1-819d-4418598cbd81">
-													<DocumentID>0800279a-adfe-a1f1-819d-44185982bd81</DocumentID>
-													<Name>0800279a-adfe-a1f1-819d-44185982bd81</Name>
-													<Description>0800279a-adfe-a1f1-819d-44185982bd81</Description>
+													RuntimeDocumentID="0800279a-adfe-a1f1-8296-ab336e69b22d">
+													<DocumentID>0800279a-adfe-a1f1-8296-ab336e62322d</DocumentID>
+													<Name>0800279a-adfe-a1f1-8296-ab336e62322d</Name>
+													<Description>0800279a-adfe-a1f1-8296-ab336e62322d</Description>
 													<CreatedBy>OPA Developer</CreatedBy>
-													<CreationDate>2026-02-10T11:44:10.674</CreationDate>
+													<CreationDate>2026-02-15T10:42:24.639</CreationDate>
 													<Notes/>
-													<DeveloperText>Prio</DeveloperText>
+													<DeveloperText>High</DeveloperText>
 													<Identifier>
 														<uri
-															id="0800279a-adfe-a1f1-819d-44185996bd81"
+															id="0800279a-adfe-a1f1-8200-0835235e3a3a"
 														/>
 													</Identifier>
 												</TranslatableText>

@@ -30,6 +30,9 @@
 		<uri
 			id="0800279a-adfe-a1f1-81ff-9a8c9d23394b"
 		/>
+		<uri
+			id="0800279a-adfe-a1f1-8296-df8de79dbf55"
+		/>
 	</BuildingBlocks>
 	<DBObject/>
 	<DisplayName>
@@ -1599,6 +1602,252 @@
 									</identity>
 									<rights/>
 								</ACE>
+								<ACE
+									type="com.cordys.acl.ACE"
+									typeVersion="F6CCAF77-15EB-4CB1-93EF-6099D6636D53"
+									RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de68fbf55">
+									<DocumentID>0800279a-adfe-a1f1-8296-df8de680bf55</DocumentID>
+									<Name>0800279a-adfe-a1f1-8296-df8de680bf55</Name>
+									<Description>0800279a-adfe-a1f1-8296-df8de680bf55</Description>
+									<CreatedBy>OPA Developer</CreatedBy>
+									<CreationDate>2026-02-15T10:46:49.896</CreationDate>
+									<Notes/>
+									<Model>
+										<uri
+											id="0800279a-adfe-a1f1-8296-df8de79dbf55"
+										/>
+									</Model>
+									<applicableRights>
+										<ApplicableRight
+											type="com.cordys.acl.ApplicableRight"
+											RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de667bf55">
+											<DocumentID>0800279a-adfe-a1f1-8296-df8de65b3f55</DocumentID>
+											<Name>0800279a-adfe-a1f1-8296-df8de65b3f55</Name>
+											<Description>0800279a-adfe-a1f1-8296-df8de65b3f55</Description>
+											<CreatedBy>OPA Developer</CreatedBy>
+											<CreationDate>2026-02-15T10:46:49.895</CreationDate>
+											<Notes/>
+											<revoked>false</revoked>
+											<condition/>
+											<right>
+												<uri
+													id="4F875FFA-27EC-4A44-AF9B-24FA660006FC"
+												/>
+											</right>
+										</ApplicableRight>
+									</applicableRights>
+									<identity>
+										<uri
+											id="0800279a-adfe-a1f1-819c-31af02cc3ea7"
+										/>
+									</identity>
+									<rights/>
+								</ACE>
+								<ACE
+									type="com.cordys.acl.ACE"
+									typeVersion="F6CCAF77-15EB-4CB1-93EF-6099D6636D53"
+									RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de64c3f55">
+									<DocumentID>0800279a-adfe-a1f1-8296-df8de63d3f55</DocumentID>
+									<Name>0800279a-adfe-a1f1-8296-df8de63d3f55</Name>
+									<Description>0800279a-adfe-a1f1-8296-df8de63d3f55</Description>
+									<CreatedBy>OPA Developer</CreatedBy>
+									<CreationDate>2026-02-15T10:46:49.895</CreationDate>
+									<Notes/>
+									<Model>
+										<uri
+											id="0800279a-adfe-a1f1-8296-df8de79dbf55"
+										/>
+									</Model>
+									<applicableRights>
+										<ApplicableRight
+											type="com.cordys.acl.ApplicableRight"
+											RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de630bf55">
+											<DocumentID>0800279a-adfe-a1f1-8296-df8de6243f55</DocumentID>
+											<Name>0800279a-adfe-a1f1-8296-df8de6243f55</Name>
+											<Description>0800279a-adfe-a1f1-8296-df8de6243f55</Description>
+											<CreatedBy>OPA Developer</CreatedBy>
+											<CreationDate>2026-02-15T10:46:49.895</CreationDate>
+											<Notes/>
+											<revoked>false</revoked>
+											<condition/>
+											<right>
+												<uri
+													id="4F875FFA-27EC-4A44-AF9B-24FA660006FC"
+												/>
+											</right>
+										</ApplicableRight>
+									</applicableRights>
+									<identity>
+										<uri
+											id="0800279a-adfe-a1f1-81ff-9a8c9bc7b94b"
+										/>
+									</identity>
+									<rights/>
+								</ACE>
+								<ACE
+									type="com.cordys.acl.ACE"
+									typeVersion="F6CCAF77-15EB-4CB1-93EF-6099D6636D53"
+									RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa52cbf55">
+									<DocumentID>0800279a-adfe-a1f1-8297-129fa518bf55</DocumentID>
+									<Name>0800279a-adfe-a1f1-8297-129fa518bf55</Name>
+									<Description>0800279a-adfe-a1f1-8297-129fa518bf55</Description>
+									<CreatedBy>OPA Developer</CreatedBy>
+									<CreationDate>2026-02-15T10:53:29.202</CreationDate>
+									<Notes/>
+									<Model>
+										<uri
+											id="0800279a-adfe-a1f1-8296-df8de1293f55"
+										/>
+									</Model>
+									<applicableRights>
+										<ApplicableRight
+											type="com.cordys.acl.ApplicableRight"
+											RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa4f33f55">
+											<DocumentID>0800279a-adfe-a1f1-8297-129fa4e1bf55</DocumentID>
+											<Name>0800279a-adfe-a1f1-8297-129fa4e1bf55</Name>
+											<Description>0800279a-adfe-a1f1-8297-129fa4e1bf55</Description>
+											<CreatedBy>OPA Developer</CreatedBy>
+											<CreationDate>2026-02-15T10:53:29.202</CreationDate>
+											<Notes/>
+											<revoked>false</revoked>
+											<condition/>
+											<right>
+												<uri
+													id="002556B8-48F7-4752-A624-66B593190543"
+												/>
+											</right>
+										</ApplicableRight>
+									</applicableRights>
+									<identity>
+										<uri
+											id="0800279a-adfe-a1f1-819c-31af02cc3ea7"
+										/>
+									</identity>
+									<rights/>
+								</ACE>
+								<ACE
+									type="com.cordys.acl.ACE"
+									typeVersion="F6CCAF77-15EB-4CB1-93EF-6099D6636D53"
+									RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa4d03f55">
+									<DocumentID>0800279a-adfe-a1f1-8297-129fa4bc3f55</DocumentID>
+									<Name>0800279a-adfe-a1f1-8297-129fa4bc3f55</Name>
+									<Description>0800279a-adfe-a1f1-8297-129fa4bc3f55</Description>
+									<CreatedBy>OPA Developer</CreatedBy>
+									<CreationDate>2026-02-15T10:53:29.202</CreationDate>
+									<Notes/>
+									<Model>
+										<uri
+											id="0800279a-adfe-a1f1-8297-129fa65b3f55"
+										/>
+									</Model>
+									<applicableRights>
+										<ApplicableRight
+											type="com.cordys.acl.ApplicableRight"
+											RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa4aabf55">
+											<DocumentID>0800279a-adfe-a1f1-8297-129fa4993f55</DocumentID>
+											<Name>0800279a-adfe-a1f1-8297-129fa4993f55</Name>
+											<Description>0800279a-adfe-a1f1-8297-129fa4993f55</Description>
+											<CreatedBy>OPA Developer</CreatedBy>
+											<CreationDate>2026-02-15T10:53:29.203</CreationDate>
+											<Notes/>
+											<revoked>false</revoked>
+											<condition/>
+											<right>
+												<uri
+													id="002556B8-48F7-4752-A624-66B593190543"
+												/>
+											</right>
+										</ApplicableRight>
+									</applicableRights>
+									<identity>
+										<uri
+											id="0800279a-adfe-a1f1-819c-31af02cc3ea7"
+										/>
+									</identity>
+									<rights/>
+								</ACE>
+								<ACE
+									type="com.cordys.acl.ACE"
+									typeVersion="F6CCAF77-15EB-4CB1-93EF-6099D6636D53"
+									RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa4853f55">
+									<DocumentID>0800279a-adfe-a1f1-8297-129fa473bf55</DocumentID>
+									<Name>0800279a-adfe-a1f1-8297-129fa473bf55</Name>
+									<Description>0800279a-adfe-a1f1-8297-129fa473bf55</Description>
+									<CreatedBy>OPA Developer</CreatedBy>
+									<CreationDate>2026-02-15T10:53:29.203</CreationDate>
+									<Notes/>
+									<Model>
+										<uri
+											id="0800279a-adfe-a1f1-8296-df8de1293f55"
+										/>
+									</Model>
+									<applicableRights>
+										<ApplicableRight
+											type="com.cordys.acl.ApplicableRight"
+											RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa4623f55">
+											<DocumentID>0800279a-adfe-a1f1-8297-129fa44bbf55</DocumentID>
+											<Name>0800279a-adfe-a1f1-8297-129fa44bbf55</Name>
+											<Description>0800279a-adfe-a1f1-8297-129fa44bbf55</Description>
+											<CreatedBy>OPA Developer</CreatedBy>
+											<CreationDate>2026-02-15T10:53:29.202</CreationDate>
+											<Notes/>
+											<revoked>false</revoked>
+											<condition/>
+											<right>
+												<uri
+													id="002556B8-48F7-4752-A624-66B593190543"
+												/>
+											</right>
+										</ApplicableRight>
+									</applicableRights>
+									<identity>
+										<uri
+											id="0800279a-adfe-a1f1-81ff-9a8c9bc7b94b"
+										/>
+									</identity>
+									<rights/>
+								</ACE>
+								<ACE
+									type="com.cordys.acl.ACE"
+									typeVersion="F6CCAF77-15EB-4CB1-93EF-6099D6636D53"
+									RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa43a3f55">
+									<DocumentID>0800279a-adfe-a1f1-8297-129fa4263f55</DocumentID>
+									<Name>0800279a-adfe-a1f1-8297-129fa4263f55</Name>
+									<Description>0800279a-adfe-a1f1-8297-129fa4263f55</Description>
+									<CreatedBy>OPA Developer</CreatedBy>
+									<CreationDate>2026-02-15T10:53:29.202</CreationDate>
+									<Notes/>
+									<Model>
+										<uri
+											id="0800279a-adfe-a1f1-8297-129fa65b3f55"
+										/>
+									</Model>
+									<applicableRights>
+										<ApplicableRight
+											type="com.cordys.acl.ApplicableRight"
+											RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa4123f55">
+											<DocumentID>0800279a-adfe-a1f1-8297-129fa3fbbf55</DocumentID>
+											<Name>0800279a-adfe-a1f1-8297-129fa3fbbf55</Name>
+											<Description>0800279a-adfe-a1f1-8297-129fa3fbbf55</Description>
+											<CreatedBy>OPA Developer</CreatedBy>
+											<CreationDate>2026-02-15T10:53:29.203</CreationDate>
+											<Notes/>
+											<revoked>false</revoked>
+											<condition/>
+											<right>
+												<uri
+													id="002556B8-48F7-4752-A624-66B593190543"
+												/>
+											</right>
+										</ApplicableRight>
+									</applicableRights>
+									<identity>
+										<uri
+											id="0800279a-adfe-a1f1-81ff-9a8c9bc7b94b"
+										/>
+									</identity>
+									<rights/>
+								</ACE>
 							</accesscontrolentries>
 							<accesscontrollists>
 								<AccessControlList
@@ -1655,6 +1904,61 @@
 				</Policy>
 			</Policy>
 		</SecurityBuildingBlock>
+		<HistoryBuildingBlock
+			type="com.cordys.entity.buildingblocks.history.HistoryBuildingBlock"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de7a7bf55">
+			<DocumentID>0800279a-adfe-a1f1-8296-df8de79dbf55</DocumentID>
+			<Name>Untitled History</Name>
+			<Description>Untitled History</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:46:39.788</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-58dd5bcbba3a"
+				/>
+			</Entity>
+			<History>
+				<History
+					type="com.cordys.entity.buildingblocks.history.History"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de77abf55">
+					<DocumentID>0800279a-adfe-a1f1-8296-df8de76e3f55</DocumentID>
+					<Name>History</Name>
+					<Description>History</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:46:39.788</CreationDate>
+					<Notes/>
+					<AllowAlternateRoot>false</AllowAlternateRoot>
+					<Disabled>false</Disabled>
+					<HistoryLogReference>0800279a-adfe-a1f1-8296-df8de75f3f55</HistoryLogReference>
+					<HistoryLogReferenceName>hl_config</HistoryLogReferenceName>
+					<OnDeleteAction>0</OnDeleteAction>
+					<RecordAccessEvents>false</RecordAccessEvents>
+					<ShowCumulativeAudit>false</ShowCumulativeAudit>
+					<DisplayName/>
+					<HistoryLog>
+						<uri
+							id="0800279a-adfe-a1f1-8296-df8de7553f55"
+						/>
+					</HistoryLog>
+				</History>
+			</History>
+			<Original/>
+			<OwnedActions>
+				<HistoryAction
+					type="com.cordys.entity.buildingblocks.history.HistoryAction"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de7913f55">
+					<DocumentID>0800279a-adfe-a1f1-8296-df8de784bf55</DocumentID>
+					<Name>History</Name>
+					<Description>History</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:46:39.788</CreationDate>
+					<Notes/>
+					<ActionDisplayName>History</ActionDisplayName>
+					<ActionId>E21B82C206014333A41E1DCBDCC2024B</ActionId>
+				</HistoryAction>
+			</OwnedActions>
+		</HistoryBuildingBlock>
 	</OwnedBuildingBlocks>
 	<ParentRelationship/>
 	<Supertype/>

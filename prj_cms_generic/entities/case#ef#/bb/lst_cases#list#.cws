@@ -9,7 +9,7 @@
 	<CreatedBy>OPA Developer</CreatedBy>
 	<CreationDate>2026-02-10T11:38:51.958</CreationDate>
 	<Notes/>
-	<ActionBarId></ActionBarId>
+	<ActionBarId>0800279a-adfe-a1f1-8297-a17c21ec0887</ActionBarId>
 	<CardViewDefinition></CardViewDefinition>
 	<ColumnWidth>0</ColumnWidth>
 	<DefaultCategory></DefaultCategory>
@@ -20,7 +20,7 @@
 	<HideIfNoResults>false</HideIfNoResults>
 	<IsCardViewEnabled>false</IsCardViewEnabled>
 	<IsChartViewEnabled>false</IsChartViewEnabled>
-	<IsHighlightUnread>false</IsHighlightUnread>
+	<IsHighlightUnread>true</IsHighlightUnread>
 	<IsReadOnlyView>false</IsReadOnlyView>
 	<ItemOpenMode>0</ItemOpenMode>
 	<LayoutId>0800279a-adfe-a1f1-819d-2fc813530121</LayoutId>
@@ -31,7 +31,11 @@
 	<ShowCustomActions>false</ShowCustomActions>
 	<ShowTotalCountInList>false</ShowTotalCountInList>
 	<UserVisible>true</UserVisible>
-	<ActionBar/>
+	<ActionBar>
+		<uri
+			id="0800279a-adfe-a1f1-8297-a17c21e20887"
+		/>
+	</ActionBar>
 	<AssignedFilterCriteria/>
 	<BuildingBlock>
 		<uri

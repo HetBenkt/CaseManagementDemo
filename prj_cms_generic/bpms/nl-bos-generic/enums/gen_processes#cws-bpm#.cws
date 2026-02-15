@@ -26,8 +26,8 @@
 			xmlns="">
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
-				width="655"
-				height="265">
+				width="615"
+				height="215">
 				<defs>
 					<marker
 						id="noarrow"
@@ -137,11 +137,57 @@
 					height="100%"
 					fill="#FFFFFF"
 				/>
+				<rect
+					x="310"
+					y="60"
+					rx="9"
+					ry="9"
+					width="200"
+					height="130"
+					style="stroke-width:1;fill:#ECF4E9;fill-opacity:0.6;stroke:#ACB4A9;stroke-dasharray:none;"
+				/>
+				<flowText
+					xmlns="http://xml.apache.org/batik/ext"
+					font-size="12"
+					fill="rgb(0, 99, 155)">
+					<flowRegion>
+						<rect
+							width="200"
+							height="130"
+							x="310"
+							y="62.5"
+						/>
+					</flowRegion>
+					<flowDiv>
+						<flowPara
+							justification="middle"
+							top-margin="5"
+							left-margin="5"
+							right-margin="5"
+							bottom-margin="5">For Each Process</flowPara>
+					</flowDiv>
+				</flowText>
+				<image
+					xmlns:xlink="http://www.w3.org/1999/xlink"
+					xlink:href="http://192.168.56.103:8080/home/opa_tips/wcp/theme/default/icon/processobject/activity_collapse_sb.gif"
+					x="402.01"
+					y="173.01"
+					height="16"
+					width="16"
+				/>
+				<image
+					xmlns:xlink="http://www.w3.org/1999/xlink"
+					xlink:href="http://192.168.56.103:8080/cordys/wcp/theme/default/icon/processobject/foreach_sb.gif"
+					x="384.01"
+					y="173.01"
+					height="16"
+					width="16"
+				/>
 				<polyline
 					fill="none"
 					stroke="#7E857A"
 					stroke-width="1px"
-					points="250,200 342,200"
+					points="90.00999999999999,130.01 122.00999999999999,130.01"
 					style="marker-end:url(#blockarrow#7E857A)"
 					stroke-dasharray="none"
 				/>
@@ -149,7 +195,15 @@
 					fill="none"
 					stroke="#7E857A"
 					stroke-width="1px"
-					points="490,200 582,200"
+					points="270.01,130.01 302.01,130.01"
+					style="marker-end:url(#blockarrow#7E857A)"
+					stroke-dasharray="none"
+				/>
+				<polyline
+					fill="none"
+					stroke="#7E857A"
+					stroke-width="1px"
+					points="510.01,130.01 542.01,130.01"
 					style="marker-end:url(#blockarrow#7E857A)"
 					stroke-dasharray="none"
 				/>
@@ -169,8 +223,8 @@
 					/>
 				</linearGradient>
 				<circle
-					cx="230"
-					cy="200"
+					cx="70"
+					cy="130"
 					r="20"
 					style="stroke:#4E8D6D;stroke-width:1;fill:url(#Start);;stroke-dasharray:none;"
 				/>
@@ -190,16 +244,16 @@
 					/>
 				</linearGradient>
 				<circle
-					cx="610"
-					cy="200"
+					cx="570"
+					cy="130"
 					r="20"
 					style="stroke:#8A0000;stroke-width:2;fill:url(#End);;stroke-dasharray:none;"
 				/>
 				<image
 					xmlns:xlink="http://www.w3.org/1999/xlink"
 					xlink:href="http://192.168.56.103:8080/home/opa_tips/wcp/theme/default/icon/processobject/message_throw_sb.gif"
-					x="597.857864376269"
-					y="187.85786437626905"
+					x="557.867864376269"
+					y="117.86786437626905"
 					height="24.284271247461906"
 					width="24.284271247461906"
 					preserveAspectRatio="none"
@@ -220,14 +274,88 @@
 					/>
 				</linearGradient>
 				<rect
-					x="350"
-					y="160"
+					x="130"
+					y="90"
 					rx="5"
 					ry="5"
 					width="140"
 					height="80"
 					style="stroke-width:1;fill:url(#EmptyActivity);stroke:#698BC4;stroke-dasharray:none;"
 				/>
+				<flowText
+					xmlns="http://xml.apache.org/batik/ext"
+					font-size="12"
+					fill="rgb(0, 99, 155)">
+					<flowRegion>
+						<rect
+							width="127"
+							height="80"
+							x="143"
+							y="119.5"
+						/>
+					</flowRegion>
+					<flowDiv>
+						<flowPara
+							justification="middle"
+							top-margin="5"
+							left-margin="5"
+							right-margin="5"
+							bottom-margin="5">FindAll</flowPara>
+					</flowDiv>
+				</flowText>
+				<image
+					xmlns:xlink="http://www.w3.org/1999/xlink"
+					xlink:href="http://192.168.56.103:8080/cordys/wcp/theme/default/icon/processobject/automaticactivity_sb.gif"
+					x="138.01"
+					y="98.01"
+					height="16"
+					width="16"
+				/>
+				<linearGradient
+					id="o_1"
+					x1="0%"
+					y1="0%"
+					x2="100%"
+					y2="100%">
+					<stop
+						offset="0%"
+						style="stop-color:RGB(227,258,290)"
+					/>
+					<stop
+						offset="80%"
+						style="stop-color:RGB(189,215,242)"
+					/>
+				</linearGradient>
+				<rect
+					x="340"
+					y="90"
+					rx="5"
+					ry="5"
+					width="140"
+					height="80"
+					style="stroke-width:1;fill:url(#o_1);stroke:#698BC4;stroke-dasharray:none;"
+				/>
+				<flowText
+					xmlns="http://xml.apache.org/batik/ext"
+					font-size="12"
+					fill="rgb(0, 99, 155)">
+					<flowRegion>
+						<rect
+							width="140"
+							height="80"
+							x="340"
+							y="119.5"
+						/>
+					</flowRegion>
+					<flowDiv>
+						<flowPara
+							justification="middle"
+							top-margin="5"
+							left-margin="5"
+							right-margin="5"
+							bottom-margin="5">Add to ouput message</flowPara>
+					</flowDiv>
+				</flowText>
 			</svg>
 		</Definitions>
 	</Definition>
@@ -253,6 +381,52 @@
 				prefix="bpm"
 				namespacevalue="http://schemas/opa_tipscms_generic/case/enumeration"
 				namespaceEditable="true"
+			/>
+			<namespace
+				xmlns=""
+				prefix="ns2"
+				namespacevalue="http://schemas/opa_tipscms_generic/process/operations"
+				namespaceEditable="false">
+				<activityid
+					xmlns="">EmptyActivity</activityid>
+			</namespace>
+			<namespace
+				xmlns=""
+				prefix="ns3"
+				namespacevalue="http://schemas.opentext.com/bps/entity/core"
+				namespaceEditable="false">
+				<activityid
+					xmlns="">EmptyActivity</activityid>
+			</namespace>
+			<namespace
+				xmlns=""
+				prefix="ns4"
+				namespacevalue="http://schemas/opa_tipscms_generic/process"
+				namespaceEditable="false">
+				<activityid
+					xmlns="">EmptyActivity</activityid>
+			</namespace>
+			<namespace
+				xmlns=""
+				prefix="ns5"
+				namespacevalue="http://schemas/opa_tipscms_generic/config"
+				namespaceEditable="false">
+				<activityid
+					xmlns="">EmptyActivity</activityid>
+			</namespace>
+			<namespace
+				xmlns=""
+				prefix="ns6"
+				namespacevalue="http://schemas.opentext.com/entitymodeling/buildingblocks/title/1.0"
+				namespaceEditable="false">
+				<activityid
+					xmlns="">EmptyActivity</activityid>
+			</namespace>
+			<namespace
+				xmlns=""
+				prefix="ns7"
+				namespacevalue="http://schemas.cordys.com/casemanagement/1.0"
+				namespaceEditable="false"
 			/>
 		</namespaces>
 	</Namespaces>
@@ -293,7 +467,7 @@
 	<Version>bpmn2.0</Version>
 	<WsdlTargetNamespace></WsdlTargetNamespace>
 	<WsdlUrl></WsdlUrl>
-	<freeObjectId>1</freeObjectId>
+	<freeObjectId>15</freeObjectId>
 	<isChanged></isChanged>
 	<links/>
 	<modelFormatVersion>BOP4_FP1</modelFormatVersion>
@@ -333,7 +507,28 @@
 			</ContainerProcess>
 			<InputMessageObject/>
 			<Message/>
-			<MessageMap/>
+			<MessageMap>
+				<MessageMap
+					type="com.cordys.bpm.messagemap.MessageMap"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-3379635fba92">
+					<DocumentID>0800279a-adfe-a1f1-8297-337963583a92</DocumentID>
+					<Name>Start</Name>
+					<Description>Start</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+					<Notes/>
+					<afterAssignment>
+						<activity
+							xmlns=""
+						/>
+					</afterAssignment>
+					<beforeAssignment>
+						<activity
+							xmlns=""
+						/>
+					</beforeAssignment>
+				</MessageMap>
+			</MessageMap>
 			<MonitorableEvents/>
 			<MonitorableKpis/>
 			<OutputMessageObject/>
@@ -384,21 +579,242 @@
 					id="0800279a-adfe-a1f1-819d-441858d13d81"
 				/>
 			</Message>
-			<MessageMap/>
+			<MessageMap>
+				<MessageMap
+					type="com.cordys.bpm.messagemap.MessageMap"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-33796350ba92">
+					<DocumentID>0800279a-adfe-a1f1-8297-337963493a92</DocumentID>
+					<Name>End</Name>
+					<Description>End</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.93</CreationDate>
+					<Notes/>
+					<afterAssignment>
+						<activity
+							xmlns=""
+						/>
+					</afterAssignment>
+					<beforeAssignment>
+						<activity
+							xmlns=""
+						/>
+					</beforeAssignment>
+				</MessageMap>
+			</MessageMap>
 			<MonitorableEvents/>
 			<MonitorableKpis/>
 			<OutputMessageObject/>
 			<TranslatableName/>
 		</End>
+		<SequenceFlow
+			type="com.cordys.bpm.connectors.SequenceFlow"
+			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
+			RuntimeDocumentID="0800279a-adfe-a1f1-819d-66c38e3c3d81">
+			<DocumentID>0800279a-adfe-a1f1-819d-66c38e323d81</DocumentID>
+			<Name>0800279a-adfe-a1f1-819d-44185860bd81</Name>
+			<Description/>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-10T11:43:44.479</CreationDate>
+			<Notes/>
+			<ClassicCondition>false</ClassicCondition>
+			<ConditionExpression></ConditionExpression>
+			<ConditionType></ConditionType>
+			<DocumentationText></DocumentationText>
+			<FontSize>12</FontSize>
+			<Sequence></Sequence>
+			<links/>
+			<ContainerProcess>
+				<uri
+					id="0800279a-adfe-a1f1-819d-4418590abd81"
+				/>
+			</ContainerProcess>
+			<SourceReference>
+				<uri
+					id="0800279a-adfe-a1f1-819d-44185860bd81"
+				/>
+			</SourceReference>
+			<TargetReference>
+				<uri
+					id="0800279a-adfe-a1f1-8297-129fa30bbf55"
+				/>
+			</TargetReference>
+			<TranslatableName/>
+		</SequenceFlow>
+		<ServiceTask
+			type="com.cordys.bpm.activity.ServiceTask"
+			typeVersion="001CC435-D795-11E0-FF11-B1382512DF93 ru3229e8-6598-4208-9804-a6e623c0qyte"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa31d3f55">
+			<DocumentID>0800279a-adfe-a1f1-8297-129fa30bbf55</DocumentID>
+			<Name>FindAll</Name>
+			<Description>FindAll</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+			<Notes/>
+			<ActivityColor>#bcd6f1</ActivityColor>
+			<ApplicationName></ApplicationName>
+			<ApplicationNameSelection>static</ApplicationNameSelection>
+			<ClassicDebugCondition>false</ClassicDebugCondition>
+			<ClassicExecuteCondition>false</ClassicExecuteCondition>
+			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
+			<CrashRecoveryEnabled>true</CrashRecoveryEnabled>
+			<Customized>false</Customized>
+			<DebugBefore>beforeActivity</DebugBefore>
+			<DebugCondition></DebugCondition>
+			<DebugStep>no</DebugStep>
+			<DocumentationText></DocumentationText>
+			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<DynamicRetryCount>none</DynamicRetryCount>
+			<DynamicRetryInterval>staticValue</DynamicRetryInterval>
+			<EnableRpa>false</EnableRpa>
+			<EnableRpaProcess>false</EnableRpaProcess>
+			<ExecuteCondition></ExecuteCondition>
+			<ExecutionOrganization></ExecutionOrganization>
+			<ExecutionUserType>currentOwner</ExecutionUserType>
+			<FontSize>12</FontSize>
+			<InProcessExecution></InProcessExecution>
+			<LogData/>
+			<MapSOAPFaultCode>true</MapSOAPFaultCode>
+			<Method></Method>
+			<MethodDN></MethodDN>
+			<Methodset></Methodset>
+			<Methodtype>application</Methodtype>
+			<MonitorLevel>23</MonitorLevel>
+			<MonitoringEnabled>true</MonitoringEnabled>
+			<Namespace></Namespace>
+			<OtherThread>false</OtherThread>
+			<ReliableMessaging>false</ReliableMessaging>
+			<RetryCondition></RetryCondition>
+			<RetryCount></RetryCount>
+			<RetryHours></RetryHours>
+			<RetryIntervalFromMessage></RetryIntervalFromMessage>
+			<RetryMinutes></RetryMinutes>
+			<RetrySeconds></RetrySeconds>
+			<RpaProcessInputMessage></RpaProcessInputMessage>
+			<RpaProcessInputSelection>static</RpaProcessInputSelection>
+			<RpaProcessName></RpaProcessName>
+			<RpaProcessNameSelection>readFromApplication</RpaProcessNameSelection>
+			<RpaQueueInputMessage></RpaQueueInputMessage>
+			<RpaQueueInputSelection>static</RpaQueueInputSelection>
+			<RpaQueueName></RpaQueueName>
+			<RpaQueueNameSelection>readFromApplication</RpaQueueNameSelection>
+			<RpaRoboName></RpaRoboName>
+			<RpaRoboSelection>static</RpaRoboSelection>
+			<RpaRoboStrategy>triggerWithAnyRobo</RpaRoboStrategy>
+			<RpaType>uipath</RpaType>
+			<SoapProcessor></SoapProcessor>
+			<SoapRequestTimeOut></SoapRequestTimeOut>
+			<SoapRequestTimeOutDynamic>staticValue</SoapRequestTimeOutDynamic>
+			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
+			<UseRetryCondition>none</UseRetryCondition>
+			<WaitForReply>true</WaitForReply>
+			<links/>
+			<ActivityMessages>
+				<Message
+					type="com.cordys.bpm.Message"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa2503f55">
+					<DocumentID>0800279a-adfe-a1f1-8297-129fa23c3f55</DocumentID>
+					<Name>FindAllInput</Name>
+					<Description>FindAll/FindAllInput</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.93</CreationDate>
+					<Notes/>
+					<Namespace>http://schemas/opa_tipscms_generic/process/operations</Namespace>
+					<OwnerMessageType></OwnerMessageType>
+					<UseDefaultValues>false</UseDefaultValues>
+					<CustomMessageParts/>
+					<MessageParts/>
+					<RootOwner>
+						<uri
+							id="0800279a-adfe-a1f1-8297-129fa30bbf55"
+						/>
+					</RootOwner>
+				</Message>
+				<Message
+					type="com.cordys.bpm.Message"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa22abf55">
+					<DocumentID>0800279a-adfe-a1f1-8297-129fa216bf55</DocumentID>
+					<Name>FindAllOutput</Name>
+					<Description>FindAll/FindAllOutput</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.93</CreationDate>
+					<Notes/>
+					<Namespace>http://schemas/opa_tipscms_generic/process/operations</Namespace>
+					<OwnerMessageType></OwnerMessageType>
+					<UseDefaultValues>false</UseDefaultValues>
+					<CustomMessageParts/>
+					<MessageParts/>
+					<RootOwner>
+						<uri
+							id="0800279a-adfe-a1f1-8297-129fa30bbf55"
+						/>
+					</RootOwner>
+				</Message>
+			</ActivityMessages>
+			<ContainerProcess>
+				<uri
+					id="0800279a-adfe-a1f1-819d-4418590abd81"
+				/>
+			</ContainerProcess>
+			<InputMessageObject/>
+			<MessageMap>
+				<MessageMap
+					type="com.cordys.bpm.messagemap.MessageMap"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-33796341ba92">
+					<DocumentID>0800279a-adfe-a1f1-8297-3379633a3a92</DocumentID>
+					<Name>FindAll</Name>
+					<Description>FindAll</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+					<Notes/>
+					<afterAssignment>
+						<activity
+							xmlns=""
+						/>
+					</afterAssignment>
+					<beforeAssignment>
+						<activity
+							xmlns=""
+						/>
+					</beforeAssignment>
+				</MessageMap>
+			</MessageMap>
+			<MonitorableEvents/>
+			<MonitorableKpis/>
+			<OutputMessageObject/>
+			<TranslatableName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa2873f55">
+					<DocumentID>0800279a-adfe-a1f1-8297-129fa275bf55</DocumentID>
+					<Name>0800279a-adfe-a1f1-8297-129fa275bf55</Name>
+					<Description>0800279a-adfe-a1f1-8297-129fa275bf55</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+					<Notes/>
+					<DeveloperText>FindAll</DeveloperText>
+					<Identifier>
+						<uri
+							id="0800279a-adfe-a1f1-8297-129fa298bf55"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</TranslatableName>
+			<WebserviceBindingOperation>
+				<uri
+					id="0800279a-adfe-a1f1-8296-df8de2fa3f55"
+				/>
+			</WebserviceBindingOperation>
+		</ServiceTask>
 		<EmptyActivity
 			type="com.cordys.bpm.activity.EmptyActivity"
 			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-441858223d81">
-			<DocumentID>0800279a-adfe-a1f1-819d-44185815bd81</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa1563f55">
+			<DocumentID>0800279a-adfe-a1f1-8297-129fa144bf55</DocumentID>
 			<Name>Activity</Name>
-			<Description>Activity</Description>
+			<Description>Add to ouput message</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:43:44.48</CreationDate>
+			<CreationDate>2026-02-15T10:57:14.93</CreationDate>
 			<Notes/>
 			<ActivityColor>#bcd6f1</ActivityColor>
 			<ApplicationName></ApplicationName>
@@ -442,21 +858,180 @@
 				/>
 			</ContainerProcess>
 			<InputMessageObject/>
-			<MessageMap/>
+			<MessageMap>
+				<MessageMap
+					type="com.cordys.bpm.messagemap.MessageMap"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-33796323ba92">
+					<DocumentID>0800279a-adfe-a1f1-8297-3379631c3a92</DocumentID>
+					<Name>Activity</Name>
+					<Description>Activity</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+					<Notes/>
+					<afterAssignment/>
+					<beforeAssignment>
+						<activity
+							xmlns="">
+							<mapping
+								sourceId=""
+								targetId="processInputMessages0800279a-adfe-a1f1-819d-4418590abd81_local_EnumerationValue_Value"
+								isProcessVariable="false"
+								isCaseVariable="false"
+								targetAssign="bpm:local/bpm:EnumerationValue/bpm:Value"
+								operation="Replace Content With"
+								operation2="Select"
+								isNillable="false">
+								<sourceAssign>ns2:FindAllOutput/ns2:FindAllResponse/ns4:process/ns5:cfg_key/text()</sourceAssign>
+							</mapping>
+							<mapping
+								sourceId=""
+								targetId="processInputMessages0800279a-adfe-a1f1-819d-4418590abd81_local_EnumerationValue_DisplayName"
+								isProcessVariable="false"
+								isCaseVariable="false"
+								targetAssign="bpm:local/bpm:EnumerationValue/bpm:DisplayName"
+								operation="Replace Content With"
+								operation2="Select"
+								isNillable="false">
+								<sourceAssign>ns2:FindAllOutput/ns2:FindAllResponse/ns4:process/ns5:cfg_value/text()</sourceAssign>
+							</mapping>
+							<mapping
+								sourceId=""
+								targetId="processInputMessages0800279a-adfe-a1f1-819d-4418590abd81_local_EnumerationValue_IsDefault"
+								isProcessVariable="false"
+								isCaseVariable="false"
+								targetAssign="bpm:local/bpm:EnumerationValue/bpm:IsDefault"
+								operation="Replace Content With"
+								operation2="Fixed Value"
+								isNillable="false">
+								<sourceAssign>false</sourceAssign>
+							</mapping>
+							<mapping
+								sourceId=""
+								targetId="_GetEnumerationOutputMessage"
+								isProcessVariable="false"
+								isCaseVariable="false"
+								targetAssign="bpm:GetEnumerationOutputMessage"
+								operation="add"
+								operation2="SelectTNS"
+								isNillable="false">
+								<sourceAssign>bpm:local/bpm:EnumerationValue</sourceAssign>
+							</mapping>
+						</activity>
+					</beforeAssignment>
+				</MessageMap>
+			</MessageMap>
 			<MonitorableEvents/>
 			<MonitorableKpis/>
 			<OutputMessageObject/>
-			<TranslatableName/>
+			<TranslatableName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-337962e03a92">
+					<DocumentID>0800279a-adfe-a1f1-8297-337962db3a92</DocumentID>
+					<Name>0800279a-adfe-a1f1-8297-337962db3a92</Name>
+					<Description>0800279a-adfe-a1f1-8297-337962db3a92</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:50.105</CreationDate>
+					<Notes/>
+					<DeveloperText>Add to ouput message</DeveloperText>
+					<Identifier>
+						<uri
+							id="0800279a-adfe-a1f1-8297-337962e7ba92"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</TranslatableName>
 		</EmptyActivity>
+		<ForEach
+			type="com.cordys.bpm.group.ForEach"
+			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa08e3f55">
+			<DocumentID>0800279a-adfe-a1f1-8297-129fa07a3f55</DocumentID>
+			<Name>For Each</Name>
+			<Description>For Each Process</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+			<Notes/>
+			<ClassicCondition>false</ClassicCondition>
+			<ClassicExecuteCondition>false</ClassicExecuteCondition>
+			<Condition>ns2:FindAllOutput/ns2:FindAllResponse/ns4:process</Condition>
+			<CrashRecoveryCustomized>false</CrashRecoveryCustomized>
+			<CrashRecoveryEnabled>true</CrashRecoveryEnabled>
+			<Customized>false</Customized>
+			<DocumentationText></DocumentationText>
+			<DynamicExecuteCondition>_none</DynamicExecuteCondition>
+			<DynamicSelect>false</DynamicSelect>
+			<ExecuteCondition></ExecuteCondition>
+			<FontSize>12</FontSize>
+			<IteratorName>iter_processes</IteratorName>
+			<LogData/>
+			<MonitorLevel>23</MonitorLevel>
+			<MonitoringEnabled>true</MonitoringEnabled>
+			<Streaming>false</Streaming>
+			<StreamingDSO></StreamingDSO>
+			<SyncDBBeforeActivity>false</SyncDBBeforeActivity>
+			<SyncIterCompl>syncAtIteration</SyncIterCompl>
+			<links/>
+			<ConnectedObjects>
+				<uri
+					id="0800279a-adfe-a1f1-8297-129fa144bf55"
+				/>
+			</ConnectedObjects>
+			<ContainerProcess>
+				<uri
+					id="0800279a-adfe-a1f1-819d-4418590abd81"
+				/>
+			</ContainerProcess>
+			<InputMessageObject/>
+			<MessageMap>
+				<MessageMap
+					type="com.cordys.bpm.messagemap.MessageMap"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-337963353a92">
+					<DocumentID>0800279a-adfe-a1f1-8297-3379632dba92</DocumentID>
+					<Name>For Each</Name>
+					<Description>For Each</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+					<Notes/>
+					<afterAssignment/>
+					<beforeAssignment>
+						<activity
+							xmlns=""
+						/>
+					</beforeAssignment>
+				</MessageMap>
+			</MessageMap>
+			<OutputMessageObject/>
+			<TranslatableName>
+				<TranslatableText
+					type="com.cordys.translation.TranslatableText"
+					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-129f9f4bbf55">
+					<DocumentID>0800279a-adfe-a1f1-8297-129f9f37bf55</DocumentID>
+					<Name>0800279a-adfe-a1f1-8297-129f9f37bf55</Name>
+					<Description>0800279a-adfe-a1f1-8297-129f9f37bf55</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.93</CreationDate>
+					<Notes/>
+					<DeveloperText>For Each Process</DeveloperText>
+					<Identifier>
+						<uri
+							id="0800279a-adfe-a1f1-8297-129f9f5fbf55"
+						/>
+					</Identifier>
+				</TranslatableText>
+			</TranslatableName>
+		</ForEach>
 		<SequenceFlow
 			type="com.cordys.bpm.connectors.SequenceFlow"
 			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-66c38e3c3d81">
-			<DocumentID>0800279a-adfe-a1f1-819d-66c38e323d81</DocumentID>
-			<Name>0800279a-adfe-a1f1-819d-44185860bd81</Name>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-337963afba92">
+			<DocumentID>0800279a-adfe-a1f1-8297-337963aaba92</DocumentID>
+			<Name>Connector</Name>
 			<Description/>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:43:44.479</CreationDate>
+			<CreationDate>2026-02-15T10:57:14.929</CreationDate>
 			<Notes/>
 			<ClassicCondition>false</ClassicCondition>
 			<ConditionExpression></ConditionExpression>
@@ -472,12 +1047,12 @@
 			</ContainerProcess>
 			<SourceReference>
 				<uri
-					id="0800279a-adfe-a1f1-819d-44185860bd81"
+					id="0800279a-adfe-a1f1-8297-129fa30bbf55"
 				/>
 			</SourceReference>
 			<TargetReference>
 				<uri
-					id="0800279a-adfe-a1f1-819d-44185815bd81"
+					id="0800279a-adfe-a1f1-8297-129fa07a3f55"
 				/>
 			</TargetReference>
 			<TranslatableName/>
@@ -485,12 +1060,12 @@
 		<SequenceFlow
 			type="com.cordys.bpm.connectors.SequenceFlow"
 			typeVersion="ru3229e8-6598-4208-9804-a6e623c0qyte"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-66c38e143d81">
-			<DocumentID>0800279a-adfe-a1f1-819d-66c38e0a3d81</DocumentID>
-			<Name>0800279a-adfe-a1f1-819d-44185815bd81</Name>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-33796387ba92">
+			<DocumentID>0800279a-adfe-a1f1-8297-337963803a92</DocumentID>
+			<Name>Connector (2)</Name>
 			<Description/>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:43:44.478</CreationDate>
+			<CreationDate>2026-02-15T10:57:14.93</CreationDate>
 			<Notes/>
 			<ClassicCondition>false</ClassicCondition>
 			<ConditionExpression></ConditionExpression>
@@ -506,7 +1081,7 @@
 			</ContainerProcess>
 			<SourceReference>
 				<uri
-					id="0800279a-adfe-a1f1-819d-44185815bd81"
+					id="0800279a-adfe-a1f1-8297-129fa07a3f55"
 				/>
 			</SourceReference>
 			<TargetReference>
@@ -519,7 +1094,11 @@
 	</BPMNElement>
 	<Bpml/>
 	<CFDMessages/>
-	<CustomElements/>
+	<CustomElements>
+		<uri
+			id="0800279a-adfe-a1f1-8297-129fa1dabf55"
+		/>
+	</CustomElements>
 	<DesignerInfo>
 		<GMFDiagramInfo
 			type="com.cordys.gmf.diagram.GMFDiagramInfo"
@@ -693,6 +1272,56 @@
 						/>
 					</SchemaDefinition>
 				</SchemaFragment>
+				<SchemaFragment
+					type="com.cordys.xmlschema.SchemaFragment"
+					RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa1eebf55">
+					<DocumentID>0800279a-adfe-a1f1-8297-129fa1dabf55</DocumentID>
+					<Name>local</Name>
+					<Description>local</Description>
+					<CreatedBy>OPA Developer</CreatedBy>
+					<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+					<Notes/>
+					<AnnotationSpecificationXML/>
+					<DefinitionXML>
+						<element
+							xmlns="http://www.w3.org/2001/XMLSchema"
+							name="local">
+							<complexType>
+								<sequence>
+									<element
+										name="EnumerationValue">
+										<complexType>
+											<sequence>
+												<element
+													xmlns:xs="http://www.w3.org/2001/XMLSchema"
+													type="xs:string"
+													name="Value"
+												/>
+												<element
+													xmlns:xs="http://www.w3.org/2001/XMLSchema"
+													type="xs:string"
+													name="DisplayName"
+												/>
+												<element
+													xmlns:xs="http://www.w3.org/2001/XMLSchema"
+													type="xs:string"
+													name="IsDefault"
+												/>
+											</sequence>
+										</complexType>
+									</element>
+								</sequence>
+							</complexType>
+						</element>
+					</DefinitionXML>
+					<FragmentName>local</FragmentName>
+					<Type>xsd:string</Type>
+					<SchemaDefinition>
+						<uri
+							id="0800279a-adfe-a1f1-819d-441858b33d81"
+						/>
+					</SchemaDefinition>
+				</SchemaFragment>
 			</SchemaFragments>
 			<SchemaReferences/>
 		</XMLSchemaDefinitionDesigntime>
@@ -822,9 +1451,10 @@
 					id="Start"
 					__shapeReferenceID="0800279a-adfe-a1f1-819d-441857fcbd81"
 					objectType="start"
-					left="210%"
-					top="180%"
-					display="">
+					left="50.01%"
+					top="110.01%"
+					display=""
+					user="opadev">
 					<dataObject
 						name="start">
 						<uri
@@ -863,9 +1493,10 @@
 					id="End"
 					__shapeReferenceID="0800279a-adfe-a1f1-819d-441857e3bd81"
 					objectType="end"
-					left="590%"
-					top="180%"
-					display="">
+					left="550.01%"
+					top="110.01%"
+					display=""
+					user="opadev">
 					<dataObject
 						name="end">
 						<uri
@@ -904,18 +1535,19 @@
 					id="EmptyActivity"
 					__shapeReferenceID="0800279a-adfe-a1f1-819d-441857d23d81"
 					objectType="activity"
-					left="350%"
-					top="160%"
+					left="130.01%"
+					top="90.01%"
 					width="140%"
 					height="80%"
 					horizontalTextAlignment="center"
 					verticalTextAlignment="middle"
-					display="">
+					display=""
+					user="opadev">
 					<dataObject
 						name="activity">
-						<uri
-							xmlns="http://schemas.cordys.com/cws/1.0"
-							id="0800279a-adfe-a1f1-819d-44185815bd81"
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="0800279a-adfe-a1f1-8297-129fa30bbf55"
 						/>
 					</dataObject>
 				</object>
@@ -925,7 +1557,7 @@
 			<width></width>
 			<ReferenceObject>
 				<uri
-					id="0800279a-adfe-a1f1-819d-44185815bd81"
+					id="0800279a-adfe-a1f1-8297-129fa30bbf55"
 				/>
 			</ReferenceObject>
 		</GMFShapeReference>
@@ -949,10 +1581,10 @@
 							connectorId="StartToActivity"
 							source="Start"
 							destination="EmptyActivity"
-							fromX="250"
-							fromY="200"
-							toX="350"
-							toY="200"
+							fromX="90.00999999999999"
+							fromY="130.01"
+							toX="130.01"
+							toY="130.01"
 							display=""
 							user="opadev"
 						/>
@@ -960,7 +1592,7 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>25</htmlChildPosition>
+			<htmlChildPosition>28</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
@@ -996,27 +1628,128 @@
 		<GMFShapeReference
 			type="com.cordys.gmf.diagram.GMFShapeReference"
 			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-66c38e283d81">
-			<DocumentID>0800279a-adfe-a1f1-819d-66c38e1e3d81</DocumentID>
-			<Name>ActivityToEnd</Name>
-			<Description>ActivityToEnd</Description>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa17bbf55">
+			<DocumentID>0800279a-adfe-a1f1-8297-129fa167bf55</DocumentID>
+			<Name>o_1</Name>
+			<Description>o_1</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:43:44.48</CreationDate>
+			<CreationDate>2026-02-15T10:57:14.93</CreationDate>
+			<Notes/>
+			<dataObject/>
+			<height></height>
+			<htmlChildPosition>27</htmlChildPosition>
+			<left></left>
+			<objectXML>
+				<object
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
+					id="o_1"
+					__shapeReferenceID="0800279a-adfe-a1f1-8297-129fa167bf55"
+					objectType="activity"
+					groupId="o_2"
+					left="340.01%"
+					top="90.01%"
+					width="140%"
+					height="80%"
+					horizontalTextAlignment="center"
+					verticalTextAlignment="middle"
+					display=""
+					user="opadev">
+					<dataObject
+						name="activity">
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="0800279a-adfe-a1f1-8297-129fa144bf55"
+						/>
+					</dataObject>
+				</object>
+			</objectXML>
+			<shapeType>activity</shapeType>
+			<top></top>
+			<width></width>
+			<ReferenceObject>
+				<uri
+					id="0800279a-adfe-a1f1-8297-129fa144bf55"
+				/>
+			</ReferenceObject>
+		</GMFShapeReference>
+		<GMFShapeReference
+			type="com.cordys.gmf.diagram.GMFShapeReference"
+			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-129fa0b63f55">
+			<DocumentID>0800279a-adfe-a1f1-8297-129fa09fbf55</DocumentID>
+			<Name>o_2</Name>
+			<Description>o_2</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:57:14.929</CreationDate>
+			<Notes/>
+			<dataObject/>
+			<height></height>
+			<htmlChildPosition>26</htmlChildPosition>
+			<left></left>
+			<objectXML>
+				<object
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
+					id="o_2"
+					__shapeReferenceID="0800279a-adfe-a1f1-8297-129fa09fbf55"
+					objectType="foreach"
+					left="310.01%"
+					top="60.01%"
+					width="200%"
+					height="130%"
+					expandedTextAlignment="center"
+					bMovedTopOnExpand="false"
+					bMovedLeftOnExpand="false"
+					bMovedBottomOnExpand="false"
+					bMovedRightOnExpand="false"
+					inheritedMoveValuetop="0"
+					inheritedMoveValueleft="0"
+					inheritedMoveValueright="0"
+					inheritedMoveValuebottom="0"
+					isCollapsed="false"
+					display=""
+					user="opadev">
+					<dataObject
+						name="foreach">
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="0800279a-adfe-a1f1-8297-129fa07a3f55"
+						/>
+					</dataObject>
+				</object>
+			</objectXML>
+			<shapeType>foreach</shapeType>
+			<top></top>
+			<width></width>
+			<ReferenceObject>
+				<uri
+					id="0800279a-adfe-a1f1-8297-129fa07a3f55"
+				/>
+			</ReferenceObject>
+		</GMFShapeReference>
+		<GMFShapeReference
+			type="com.cordys.gmf.diagram.GMFShapeReference"
+			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-337963bc3a92">
+			<DocumentID>0800279a-adfe-a1f1-8297-337963b73a92</DocumentID>
+			<Name>o_5</Name>
+			<Description>o_5</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:57:14.93</CreationDate>
 			<Notes/>
 			<dataObject>
 				<linkedObjects
 					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0">
 					<line>
 						<object
-							id="LinkObject2"
+							id="o_6"
 							objectType="line"
-							connectorId="ActivityToEnd"
+							connectorId="o_5"
 							source="EmptyActivity"
-							destination="End"
-							fromX="490"
-							fromY="200"
-							toX="590"
-							toY="200"
+							destination="o_2"
+							fromX="270.01"
+							fromY="130.01"
+							toX="310.01"
+							toY="130.01"
 							display=""
 							user="opadev"
 						/>
@@ -1024,26 +1757,26 @@
 				</linkedObjects>
 			</dataObject>
 			<height></height>
-			<htmlChildPosition>26</htmlChildPosition>
+			<htmlChildPosition>29</htmlChildPosition>
 			<left></left>
 			<objectXML>
 				<object
 					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
-					id="ActivityToEnd"
-					__shapeReferenceID="0800279a-adfe-a1f1-819d-66c38e1e3d81"
+					id="o_5"
+					__shapeReferenceID="0800279a-adfe-a1f1-8297-337963b73a92"
 					objectType="connector"
 					connectorType="connector"
 					source="EmptyActivity"
-					destination="End"
+					destination="o_2"
 					direction="one way"
 					isDefault="false"
 					sourceIntersection="center"
 					destinationIntersection="center">
 					<dataObject
 						name="connector">
-						<uri
-							xmlns="http://schemas.cordys.com/cws/1.0"
-							id="0800279a-adfe-a1f1-819d-66c38e0a3d81"
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="0800279a-adfe-a1f1-8297-337963aaba92"
 						/>
 					</dataObject>
 				</object>
@@ -1053,7 +1786,71 @@
 			<width></width>
 			<ReferenceObject>
 				<uri
-					id="0800279a-adfe-a1f1-819d-66c38e0a3d81"
+					id="0800279a-adfe-a1f1-8297-337963aaba92"
+				/>
+			</ReferenceObject>
+		</GMFShapeReference>
+		<GMFShapeReference
+			type="com.cordys.gmf.diagram.GMFShapeReference"
+			typeVersion="00217070-125C-71DF-A53F-4E0D3746F9D5"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8297-337963943a92">
+			<DocumentID>0800279a-adfe-a1f1-8297-3379638f3a92</DocumentID>
+			<Name>o_9</Name>
+			<Description>o_9</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:57:14.93</CreationDate>
+			<Notes/>
+			<dataObject>
+				<linkedObjects
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0">
+					<line>
+						<object
+							id="o_10"
+							objectType="line"
+							connectorId="o_9"
+							source="o_2"
+							destination="End"
+							fromX="510.01"
+							fromY="130.01"
+							toX="550.01"
+							toY="130.01"
+							display=""
+							user="opadev"
+						/>
+					</line>
+				</linkedObjects>
+			</dataObject>
+			<height></height>
+			<htmlChildPosition>30</htmlChildPosition>
+			<left></left>
+			<objectXML>
+				<object
+					xmlns="http://schemas.cordys.com/gmf/diagram/GMFShapeReference/1.0"
+					id="o_9"
+					__shapeReferenceID="0800279a-adfe-a1f1-8297-3379638f3a92"
+					objectType="connector"
+					connectorType="connector"
+					source="o_2"
+					destination="End"
+					direction="one way"
+					isDefault="false"
+					sourceIntersection="center"
+					destinationIntersection="center">
+					<dataObject
+						name="connector">
+						<c:uri
+							xmlns:c="http://schemas.cordys.com/cws/1.0"
+							id="0800279a-adfe-a1f1-8297-337963803a92"
+						/>
+					</dataObject>
+				</object>
+			</objectXML>
+			<shapeType>connector</shapeType>
+			<top></top>
+			<width></width>
+			<ReferenceObject>
+				<uri
+					id="0800279a-adfe-a1f1-8297-337963803a92"
 				/>
 			</ReferenceObject>
 		</GMFShapeReference>

@@ -2,12 +2,12 @@
 <Worklist
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.worklist.Worklist"
-	RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb328261ca9">
-	<DocumentID>0800279a-adfe-a1f1-81ff-bdb3281c1ca9</DocumentID>
-	<Name>lst_types</Name>
-	<Description>lst_types</Description>
+	RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09f99f79">
+	<DocumentID>0800279a-adfe-a1f1-8296-c4ad09f49f79</DocumentID>
+	<Name>lst_processes</Name>
+	<Description>lst_processes</Description>
 	<CreatedBy>OPA Developer</CreatedBy>
-	<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+	<CreationDate>2026-02-15T10:43:59.493</CreationDate>
 	<Notes/>
 	<ActionBarId></ActionBarId>
 	<CardViewDefinition></CardViewDefinition>
@@ -35,7 +35,7 @@
 	<AssignedFilterCriteria/>
 	<BuildingBlock>
 		<uri
-			id="0800279a-adfe-a1f1-81ff-78244c38ab07"
+			id="0800279a-adfe-a1f1-8296-ab336dcc322d"
 		/>
 	</BuildingBlock>
 	<CardViewConfiguration/>
@@ -47,17 +47,17 @@
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
 			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb327ab9ca9">
-			<DocumentID>0800279a-adfe-a1f1-81ff-bdb327a19ca9</DocumentID>
-			<Name>0800279a-adfe-a1f1-81ff-bdb327a19ca9</Name>
-			<Description>0800279a-adfe-a1f1-81ff-bdb327a19ca9</Description>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09909f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad09891f79</DocumentID>
+			<Name>0800279a-adfe-a1f1-8296-c4ad09891f79</Name>
+			<Description>0800279a-adfe-a1f1-8296-c4ad09891f79</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:18.35</CreationDate>
+			<CreationDate>2026-02-15T10:43:59.494</CreationDate>
 			<Notes/>
-			<DeveloperText>Types</DeveloperText>
+			<DeveloperText>Processes</DeveloperText>
 			<Identifier>
 				<uri
-					id="0800279a-adfe-a1f1-81ff-bdb327b59ca9"
+					id="0800279a-adfe-a1f1-8296-c4ad09959f79"
 				/>
 			</Identifier>
 		</TranslatableText>
@@ -66,12 +66,12 @@
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
 			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb327fe1ca9">
-			<DocumentID>0800279a-adfe-a1f1-81ff-bdb327f41ca9</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09e09f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad09d91f79</DocumentID>
 			<Name>FilterCriteria</Name>
 			<Description>FilterCriteria</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+			<CreationDate>2026-02-15T10:43:59.494</CreationDate>
 			<Notes/>
 			<EncodedExpression></EncodedExpression>
 			<ErrorMessage></ErrorMessage>
@@ -83,12 +83,12 @@
 			<DisplayName/>
 			<Entity>
 				<uri
-					id="0800279a-adfe-a1f1-81ff-78244c952b07"
+					id="0800279a-adfe-a1f1-8296-ab336e37b22d"
 				/>
 			</Entity>
 			<ExpressionOwner>
 				<uri
-					id="0800279a-adfe-a1f1-81ff-bdb3281c1ca9"
+					id="0800279a-adfe-a1f1-8296-c4ad09f49f79"
 				/>
 			</ExpressionOwner>
 			<ParameterOwner/>
@@ -100,12 +100,12 @@
 		<TranslatableText
 			type="com.cordys.translation.TranslatableText"
 			typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-cf5811e2aa9a">
-			<DocumentID>0800279a-adfe-a1f1-81ff-cf5811db2a9a</DocumentID>
-			<Name>0800279a-adfe-a1f1-81ff-cf5811db2a9a</Name>
-			<Description>0800279a-adfe-a1f1-81ff-cf5811db2a9a</Description>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-df8de58e3f55">
+			<DocumentID>0800279a-adfe-a1f1-8296-df8de57a3f55</DocumentID>
+			<Name>0800279a-adfe-a1f1-8296-df8de57a3f55</Name>
+			<Description>0800279a-adfe-a1f1-8296-df8de57a3f55</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:40.736</CreationDate>
+			<CreationDate>2026-02-15T10:47:52.632</CreationDate>
 			<Notes/>
 			<DeveloperText>Masterdata</DeveloperText>
 			<Identifier>
@@ -119,12 +119,12 @@
 	<UsesAssociation>
 		<UsesAssociation
 			type="com.cordys.entity.buildingblocks.worklist.UsesAssociation"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb328121ca9">
-			<DocumentID>0800279a-adfe-a1f1-81ff-bdb328081ca9</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09ed1f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad09e81f79</DocumentID>
 			<Name>Untitled UsesAssociation</Name>
 			<Description>Untitled UsesAssociation</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+			<CreationDate>2026-02-15T10:43:59.494</CreationDate>
 			<Notes/>
 		</UsesAssociation>
 	</UsesAssociation>
@@ -132,12 +132,12 @@
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
 			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb3276d1ca9">
-			<DocumentID>0800279a-adfe-a1f1-81ff-bdb327631ca9</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09841f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad097c9f79</DocumentID>
 			<Name>Untitled WorklistColumn</Name>
 			<Description>Untitled WorklistColumn</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:18.35</CreationDate>
+			<CreationDate>2026-02-15T10:43:59.494</CreationDate>
 			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
@@ -150,19 +150,19 @@
 			<IsComputedProperty>false</IsComputedProperty>
 			<ItemMemberId>0800279a-adfe-a1f1-81ff-58dd59623a3a</ItemMemberId>
 			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>type</OwnerName>
+			<OwnerName>process</OwnerName>
 			<PropertyId>0800279a-adfe-a1f1-81ff-6da27c151ca9</PropertyId>
 			<PropertyName>cfg_is_active</PropertyName>
 			<StaticPropertyId></StaticPropertyId>
 			<ItemMemberPropertyPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb327591ca9">
-					<DocumentID>0800279a-adfe-a1f1-81ff-bdb3274f1ca9</DocumentID>
-					<Name>0800279a-adfe-a1f1-81ff-bdb3274f1ca9</Name>
-					<Description>0800279a-adfe-a1f1-81ff-bdb3274f1ca9</Description>
+					RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09751f79">
+					<DocumentID>0800279a-adfe-a1f1-8296-c4ad096d9f79</DocumentID>
+					<Name>0800279a-adfe-a1f1-8296-c4ad096d9f79</Name>
+					<Description>0800279a-adfe-a1f1-8296-c4ad096d9f79</Description>
 					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+					<CreationDate>2026-02-15T10:43:59.494</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -173,7 +173,7 @@
 					</Object>
 					<ObjectOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-bdb3281c1ca9"
+							id="0800279a-adfe-a1f1-8296-c4ad09f49f79"
 						/>
 					</ObjectOwner>
 					<PathBegin>
@@ -188,7 +188,7 @@
 					</PathEnd>
 					<RootOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-78244c952b07"
+							id="0800279a-adfe-a1f1-8296-ab336e37b22d"
 						/>
 					</RootOwner>
 				</PropertyObjectPath>
@@ -206,12 +206,12 @@
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
 			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb327451ca9">
-			<DocumentID>0800279a-adfe-a1f1-81ff-bdb3273b1ca9</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09661f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad09611f79</DocumentID>
 			<Name>Untitled WorklistColumn (1)</Name>
 			<Description>Untitled WorklistColumn (1)</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:18.35</CreationDate>
+			<CreationDate>2026-02-15T10:43:59.495</CreationDate>
 			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
@@ -224,19 +224,19 @@
 			<IsComputedProperty>false</IsComputedProperty>
 			<ItemMemberId>0800279a-adfe-a1f1-81ff-58dd59623a3a</ItemMemberId>
 			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>type</OwnerName>
+			<OwnerName>process</OwnerName>
 			<PropertyId>0800279a-adfe-a1f1-81ff-58dd59533a3a</PropertyId>
 			<PropertyName>cfg_key</PropertyName>
 			<StaticPropertyId></StaticPropertyId>
 			<ItemMemberPropertyPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb327311ca9">
-					<DocumentID>0800279a-adfe-a1f1-81ff-bdb327249ca9</DocumentID>
-					<Name>0800279a-adfe-a1f1-81ff-bdb327249ca9</Name>
-					<Description>0800279a-adfe-a1f1-81ff-bdb327249ca9</Description>
+					RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09599f79">
+					<DocumentID>0800279a-adfe-a1f1-8296-c4ad09521f79</DocumentID>
+					<Name>0800279a-adfe-a1f1-8296-c4ad09521f79</Name>
+					<Description>0800279a-adfe-a1f1-8296-c4ad09521f79</Description>
 					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+					<CreationDate>2026-02-15T10:43:59.495</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -247,7 +247,7 @@
 					</Object>
 					<ObjectOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-bdb3281c1ca9"
+							id="0800279a-adfe-a1f1-8296-c4ad09f49f79"
 						/>
 					</ObjectOwner>
 					<PathBegin>
@@ -262,7 +262,7 @@
 					</PathEnd>
 					<RootOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-78244c952b07"
+							id="0800279a-adfe-a1f1-8296-ab336e37b22d"
 						/>
 					</RootOwner>
 				</PropertyObjectPath>
@@ -280,12 +280,12 @@
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
 			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb3271a9ca9">
-			<DocumentID>0800279a-adfe-a1f1-81ff-bdb327109ca9</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad094d1f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad09459f79</DocumentID>
 			<Name>Untitled WorklistColumn (2)</Name>
 			<Description>Untitled WorklistColumn (2)</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+			<CreationDate>2026-02-15T10:43:59.495</CreationDate>
 			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
@@ -298,19 +298,19 @@
 			<IsComputedProperty>false</IsComputedProperty>
 			<ItemMemberId>0800279a-adfe-a1f1-81ff-58dd59623a3a</ItemMemberId>
 			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>type</OwnerName>
+			<OwnerName>process</OwnerName>
 			<PropertyId>0800279a-adfe-a1f1-81ff-6da27c881ca9</PropertyId>
 			<PropertyName>cfg_value</PropertyName>
 			<StaticPropertyId></StaticPropertyId>
 			<ItemMemberPropertyPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb327069ca9">
-					<DocumentID>0800279a-adfe-a1f1-81ff-bdb326ff1ca9</DocumentID>
-					<Name>0800279a-adfe-a1f1-81ff-bdb326ff1ca9</Name>
-					<Description>0800279a-adfe-a1f1-81ff-bdb326ff1ca9</Description>
+					RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09409f79">
+					<DocumentID>0800279a-adfe-a1f1-8296-c4ad09391f79</DocumentID>
+					<Name>0800279a-adfe-a1f1-8296-c4ad09391f79</Name>
+					<Description>0800279a-adfe-a1f1-8296-c4ad09391f79</Description>
 					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-12T10:40:18.35</CreationDate>
+					<CreationDate>2026-02-15T10:43:59.494</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -321,7 +321,7 @@
 					</Object>
 					<ObjectOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-bdb3281c1ca9"
+							id="0800279a-adfe-a1f1-8296-c4ad09f49f79"
 						/>
 					</ObjectOwner>
 					<PathBegin>
@@ -336,7 +336,7 @@
 					</PathEnd>
 					<RootOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-78244c952b07"
+							id="0800279a-adfe-a1f1-8296-ab336e37b22d"
 						/>
 					</RootOwner>
 				</PropertyObjectPath>
@@ -354,12 +354,12 @@
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
 			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
-			RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb326f29ca9">
-			<DocumentID>0800279a-adfe-a1f1-81ff-bdb326de9ca9</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad09319f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad09251f79</DocumentID>
 			<Name>Untitled WorklistColumn (3)</Name>
 			<Description>Untitled WorklistColumn (3)</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+			<CreationDate>2026-02-15T10:43:59.494</CreationDate>
 			<Notes/>
 			<ColumnAlignment>0</ColumnAlignment>
 			<ColumnLabel></ColumnLabel>
@@ -372,19 +372,19 @@
 			<IsComputedProperty>false</IsComputedProperty>
 			<ItemMemberId>0800279a-adfe-a1f1-81ff-58dd59623a3a</ItemMemberId>
 			<ItemMemberPath></ItemMemberPath>
-			<OwnerName>type</OwnerName>
+			<OwnerName>process</OwnerName>
 			<PropertyId>0800279a-adfe-a1f1-81ff-6da27c499ca9</PropertyId>
 			<PropertyName>cfg_description</PropertyName>
 			<StaticPropertyId></StaticPropertyId>
 			<ItemMemberPropertyPath>
 				<PropertyObjectPath
 					type="com.cordys.entity.core.objectpath.PropertyObjectPath"
-					RuntimeDocumentID="0800279a-adfe-a1f1-81ff-bdb326d21ca9">
-					<DocumentID>0800279a-adfe-a1f1-81ff-bdb326c59ca9</DocumentID>
-					<Name>0800279a-adfe-a1f1-81ff-bdb326c59ca9</Name>
-					<Description>0800279a-adfe-a1f1-81ff-bdb326c59ca9</Description>
+					RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad091d9f79">
+					<DocumentID>0800279a-adfe-a1f1-8296-c4ad09139f79</DocumentID>
+					<Name>0800279a-adfe-a1f1-8296-c4ad09139f79</Name>
+					<Description>0800279a-adfe-a1f1-8296-c4ad09139f79</Description>
 					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-12T10:40:18.349</CreationDate>
+					<CreationDate>2026-02-15T10:43:59.495</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
@@ -395,7 +395,7 @@
 					</Object>
 					<ObjectOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-bdb3281c1ca9"
+							id="0800279a-adfe-a1f1-8296-c4ad09f49f79"
 						/>
 					</ObjectOwner>
 					<PathBegin>
@@ -410,7 +410,7 @@
 					</PathEnd>
 					<RootOwner>
 						<uri
-							id="0800279a-adfe-a1f1-81ff-78244c952b07"
+							id="0800279a-adfe-a1f1-8296-ab336e37b22d"
 						/>
 					</RootOwner>
 				</PropertyObjectPath>

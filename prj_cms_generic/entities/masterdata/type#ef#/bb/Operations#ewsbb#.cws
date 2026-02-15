@@ -1,0 +1,89 @@
+
+<EntityWebServicesBuildingBlock
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.entity.buildingblocks.webservices.EntityWebServicesBuildingBlock"
+	typeVersion="8D86B054-F133-428B-8211-187822A0B501"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad07dd9f79">
+	<DocumentID>0800279a-adfe-a1f1-8296-c4ad07d61f79</DocumentID>
+	<Name>Operations</Name>
+	<Description>Webservice Operations</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-15T10:45:22.244</CreationDate>
+	<Notes/>
+	<CreateOperation>
+		<EntityWebServiceCreateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceCreateOperation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad07ba9f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad07b59f79</DocumentID>
+			<Name>Createtype</Name>
+			<Description>Create type</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:45:22.244</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-78244c952b07"
+				/>
+			</Entity>
+		</EntityWebServiceCreateOperation>
+	</CreateOperation>
+	<DeleteOperation>
+		<EntityWebServiceDeleteOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceDeleteOperation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad07a19f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad07929f79</DocumentID>
+			<Name>Deletetype</Name>
+			<Description>Delete type</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:45:22.244</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-78244c952b07"
+				/>
+			</Entity>
+		</EntityWebServiceDeleteOperation>
+	</DeleteOperation>
+	<Entity>
+		<uri
+			id="0800279a-adfe-a1f1-81ff-78244c952b07"
+		/>
+	</Entity>
+	<FindOperations/>
+	<Original/>
+	<ReadOperation>
+		<EntityWebServiceReadOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceReadOperation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad07c99f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad07c21f79</DocumentID>
+			<Name>Readtype</Name>
+			<Description>Read type</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:45:22.244</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-78244c952b07"
+				/>
+			</Entity>
+		</EntityWebServiceReadOperation>
+	</ReadOperation>
+	<RelationshipOperations/>
+	<UpdateOperation>
+		<EntityWebServiceUpdateOperation
+			type="com.cordys.entity.buildingblocks.webservices.EntityWebServiceUpdateOperation"
+			RuntimeDocumentID="0800279a-adfe-a1f1-8296-c4ad07ae1f79">
+			<DocumentID>0800279a-adfe-a1f1-8296-c4ad07a91f79</DocumentID>
+			<Name>Updatetype</Name>
+			<Description>Update type</Description>
+			<CreatedBy>OPA Developer</CreatedBy>
+			<CreationDate>2026-02-15T10:45:22.244</CreationDate>
+			<Notes/>
+			<Entity>
+				<uri
+					id="0800279a-adfe-a1f1-81ff-78244c952b07"
+				/>
+			</Entity>
+		</EntityWebServiceUpdateOperation>
+	</UpdateOperation>
+</EntityWebServicesBuildingBlock>
