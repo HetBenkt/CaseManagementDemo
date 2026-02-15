@@ -9,6 +9,7 @@
 
 ## Masterdata
 - Types
+- Processes
 
 ## Dependent service containers (run all in OS!)
   - Application Server Connector
