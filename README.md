@@ -11,7 +11,12 @@
 - Types
 
 ## Dependent service containers (run all in OS!)
-  - AppServer
+  - Application Server Connector
+    - Group name: `sg_appserver`
+    - All relevant service interfaces
+    - Service name: `sc_appserver`
+    - Startup automatically
+    - Assign to OS
   - Mail
 
 ## Resources
