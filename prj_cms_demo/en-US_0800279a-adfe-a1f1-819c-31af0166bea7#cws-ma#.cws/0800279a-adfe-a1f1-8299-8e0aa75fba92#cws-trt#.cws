@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8299-8e0aa7673a92">
+	<DocumentID>0800279a-adfe-a1f1-8299-8e0aa75fba92</DocumentID>
+	<Name>0800279a-adfe-a1f1-8299-8e0aa75fba92</Name>
+	<Description>Create case</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-15T12:04:14.405</CreationDate>
+	<Notes/>
+	<Text>Create case</Text>
+	<Language>
+		<uri
+			id="0800279a-adfe-a1f1-819c-31af0175bea7"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0800279a-adfe-a1f1-8299-8e0aa74e3a92"
+		/>
+	</TextIdentifier>
+</TranslatedText>

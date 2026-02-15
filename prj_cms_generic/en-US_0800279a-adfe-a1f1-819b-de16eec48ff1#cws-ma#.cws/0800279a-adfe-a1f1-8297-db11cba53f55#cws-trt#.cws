@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="0800279a-adfe-a1f1-8297-db11cbacbf55">
+	<DocumentID>0800279a-adfe-a1f1-8297-db11cba53f55</DocumentID>
+	<Name>0800279a-adfe-a1f1-8297-db11cba53f55</Name>
+	<Description>The end date should be after the start date.</Description>
+	<CreatedBy>OPA Developer</CreatedBy>
+	<CreationDate>2026-02-15T11:36:05.06</CreationDate>
+	<Notes/>
+	<Text>The end date should be after the start date.</Text>
+	<Language>
+		<uri
+			id="0800279a-adfe-a1f1-819b-de16e55d0ff1"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="0800279a-adfe-a1f1-8297-db11cb963f55"
+		/>
+	</TextIdentifier>
+</TranslatedText>

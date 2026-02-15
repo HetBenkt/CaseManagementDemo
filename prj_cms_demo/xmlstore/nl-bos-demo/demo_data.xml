@@ -1,0 +1,3507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<demo_data>
+	<configs>
+		<config type="process">
+			<key>EMPLOYEE_ONBOARDING</key>
+			<value>Employee Onboarding</value>
+			<description>Enterprise workflow for employee onboarding.</description>
+		</config>
+		<config type="process">
+			<key>PROCUREMENT_APPROVAL</key>
+			<value>Procurement Approval</value>
+			<description>Enterprise workflow for procurement approval.</description>
+		</config>
+		<config type="process">
+			<key>CONTRACT_NEGOTIATION</key>
+			<value>Contract Negotiation</value>
+			<description>Enterprise workflow for contract negotiation.</description>
+		</config>
+		<config type="process">
+			<key>IT_CHANGE_MANAGEMENT</key>
+			<value>IT Change Management</value>
+			<description>Enterprise workflow for it change management.</description>
+		</config>
+		<config type="process">
+			<key>INCIDENT_RESOLUTION</key>
+			<value>Incident Resolution</value>
+			<description>Enterprise workflow for incident resolution.</description>
+		</config>
+		<config type="process">
+			<key>RISK_EVALUATION</key>
+			<value>Risk Evaluation</value>
+			<description>Enterprise workflow for risk evaluation.</description>
+		</config>
+		<config type="process">
+			<key>INTERNAL_AUDIT</key>
+			<value>Internal Audit</value>
+			<description>Enterprise workflow for internal audit.</description>
+		</config>
+		<config type="process">
+			<key>REGULATORY_COMPLIANCE</key>
+			<value>Regulatory Compliance</value>
+			<description>Enterprise workflow for regulatory compliance.</description>
+		</config>
+		<config type="process">
+			<key>INVOICE_PROCESSING</key>
+			<value>Invoice Processing</value>
+			<description>Enterprise workflow for invoice processing.</description>
+		</config>
+		<config type="process">
+			<key>PROJECT_DELIVERY</key>
+			<value>Project Delivery</value>
+			<description>Enterprise workflow for project delivery.</description>
+		</config>
+		<config type="process">
+			<key>VENDOR_SELECTION</key>
+			<value>Vendor Selection</value>
+			<description>Enterprise workflow for vendor selection.</description>
+		</config>
+		<config type="process">
+			<key>DATA_MIGRATION</key>
+			<value>Data Migration</value>
+			<description>Enterprise workflow for data migration.</description>
+		</config>
+		<config type="process">
+			<key>SECURITY_ASSESSMENT</key>
+			<value>Security Assessment</value>
+			<description>Enterprise workflow for security assessment.</description>
+		</config>
+		<config type="process">
+			<key>PRODUCT_LAUNCH</key>
+			<value>Product Launch</value>
+			<description>Enterprise workflow for product launch.</description>
+		</config>
+		<config type="process">
+			<key>CUSTOMER_ACTIVATION</key>
+			<value>Customer Activation</value>
+			<description>Enterprise workflow for customer activation.</description>
+		</config>
+		<config type="process">
+			<key>SERVICE_FULFILLMENT</key>
+			<value>Service Fulfillment</value>
+			<description>Enterprise workflow for service fulfillment.</description>
+		</config>
+		<config type="process">
+			<key>PREVENTIVE_MAINTENANCE</key>
+			<value>Preventive Maintenance</value>
+			<description>Enterprise workflow for preventive maintenance.</description>
+		</config>
+		<config type="process">
+			<key>PERFORMANCE_REVIEW</key>
+			<value>Performance Review</value>
+			<description>Enterprise workflow for performance review.</description>
+		</config>
+		<config type="process">
+			<key>POLICY_REVISION</key>
+			<value>Policy Revision</value>
+			<description>Enterprise workflow for policy revision.</description>
+		</config>
+		<config type="process">
+			<key>BUDGET_PLANNING</key>
+			<value>Budget Planning</value>
+			<description>Enterprise workflow for budget planning.</description>
+		</config>
+		<config type="process">
+			<key>MANDA_EVALUATION</key>
+			<value>M&amp;A Evaluation</value>
+			<description>Enterprise workflow for m&amp;a evaluation.</description>
+		</config>
+		<config type="process">
+			<key>FACILITY_EXPANSION</key>
+			<value>Facility Expansion</value>
+			<description>Enterprise workflow for facility expansion.</description>
+		</config>
+		<config type="process">
+			<key>CLOUD_ADOPTION</key>
+			<value>Cloud Adoption</value>
+			<description>Enterprise workflow for cloud adoption.</description>
+		</config>
+		<config type="process">
+			<key>ERP_IMPLEMENTATION</key>
+			<value>ERP Implementation</value>
+			<description>Enterprise workflow for erp implementation.</description>
+		</config>
+		<config type="process">
+			<key>DIGITAL_TRANSFORMATION</key>
+			<value>Digital Transformation</value>
+			<description>Enterprise workflow for digital transformation.</description>
+		</config>
+		<config type="process">
+			<key>MARKET_EXPANSION</key>
+			<value>Market Expansion</value>
+			<description>Enterprise workflow for market expansion.</description>
+		</config>
+		<config type="process">
+			<key>CUSTOMER_COMPLAINT_HANDLING</key>
+			<value>Customer Complaint Handling</value>
+			<description>Enterprise workflow for customer complaint handling.</description>
+		</config>
+		<config type="process">
+			<key>QUALITY_ASSURANCE</key>
+			<value>Quality Assurance</value>
+			<description>Enterprise workflow for quality assurance.</description>
+		</config>
+		<config type="process">
+			<key>RFP_MANAGEMENT</key>
+			<value>RFP Management</value>
+			<description>Enterprise workflow for rfp management.</description>
+		</config>
+		<config type="process">
+			<key>SUPPLIER_AUDIT</key>
+			<value>Supplier Audit</value>
+			<description>Enterprise workflow for supplier audit.</description>
+		</config>
+		<config type="process">
+			<key>PAYROLL_PROCESSING</key>
+			<value>Payroll Processing</value>
+			<description>Enterprise workflow for payroll processing.</description>
+		</config>
+		<config type="process">
+			<key>EXPENSE_APPROVAL</key>
+			<value>Expense Approval</value>
+			<description>Enterprise workflow for expense approval.</description>
+		</config>
+		<config type="process">
+			<key>BUSINESS_CONTINUITY_PLANNING</key>
+			<value>Business Continuity Planning</value>
+			<description>Enterprise workflow for business continuity planning.</description>
+		</config>
+		<config type="process">
+			<key>CYBERSECURITY_HARDENING</key>
+			<value>Cybersecurity Hardening</value>
+			<description>Enterprise workflow for cybersecurity hardening.</description>
+		</config>
+		<config type="process">
+			<key>RELEASE_MANAGEMENT</key>
+			<value>Release Management</value>
+			<description>Enterprise workflow for release management.</description>
+		</config>
+		<config type="process">
+			<key>PORTFOLIO_REVIEW</key>
+			<value>Portfolio Review</value>
+			<description>Enterprise workflow for portfolio review.</description>
+		</config>
+		<config type="process">
+			<key>STAKEHOLDER_REPORTING</key>
+			<value>Stakeholder Reporting</value>
+			<description>Enterprise workflow for stakeholder reporting.</description>
+		</config>
+		<config type="process">
+			<key>ASSET_LIFECYCLE_MANAGEMENT</key>
+			<value>Asset Lifecycle Management</value>
+			<description>Enterprise workflow for asset lifecycle management.</description>
+		</config>
+		<config type="process">
+			<key>SUSTAINABILITY_INITIATIVE</key>
+			<value>Sustainability Initiative</value>
+			<description>Enterprise workflow for sustainability initiative.</description>
+		</config>
+		<config type="process">
+			<key>TRAINING_PROGRAM</key>
+			<value>Training Program</value>
+			<description>Enterprise workflow for training program.</description>
+		</config>
+		<config type="process">
+			<key>KNOWLEDGE_TRANSFER</key>
+			<value>Knowledge Transfer</value>
+			<description>Enterprise workflow for knowledge transfer.</description>
+		</config>
+		<config type="process">
+			<key>DATA_GOVERNANCE</key>
+			<value>Data Governance</value>
+			<description>Enterprise workflow for data governance.</description>
+		</config>
+		<config type="process">
+			<key>APPLICATION_MODERNIZATION</key>
+			<value>Application Modernization</value>
+			<description>Enterprise workflow for application modernization.</description>
+		</config>
+		<config type="process">
+			<key>INFRASTRUCTURE_UPGRADE</key>
+			<value>Infrastructure Upgrade</value>
+			<description>Enterprise workflow for infrastructure upgrade.</description>
+		</config>
+		<config type="process">
+			<key>STRATEGIC_PLANNING</key>
+			<value>Strategic Planning</value>
+			<description>Enterprise workflow for strategic planning.</description>
+		</config>
+		<config type="process">
+			<key>LEGAL_CASE_REVIEW</key>
+			<value>Legal Case Review</value>
+			<description>Enterprise workflow for legal case review.</description>
+		</config>
+		<config type="process">
+			<key>GRANT_APPLICATION</key>
+			<value>Grant Application</value>
+			<description>Enterprise workflow for grant application.</description>
+		</config>
+		<config type="process">
+			<key>TENDER_SUBMISSION</key>
+			<value>Tender Submission</value>
+			<description>Enterprise workflow for tender submission.</description>
+		</config>
+		<config type="process">
+			<key>INVESTMENT_REVIEW</key>
+			<value>Investment Review</value>
+			<description>Enterprise workflow for investment review.</description>
+		</config>
+		<config type="process">
+			<key>COMPLIANCE_INVESTIGATION</key>
+			<value>Compliance Investigation</value>
+			<description>Enterprise workflow for compliance investigation.</description>
+		</config>
+		<config type="type">
+			<key>IT</key>
+			<value>IT</value>
+			<description>Cases owned by the IT department.</description>
+		</config>
+		<config type="type">
+			<key>HUMAN_RESOURCES</key>
+			<value>Human Resources</value>
+			<description>Cases owned by the Human Resources department.</description>
+		</config>
+		<config type="type">
+			<key>FINANCE</key>
+			<value>Finance</value>
+			<description>Cases owned by the Finance department.</description>
+		</config>
+		<config type="type">
+			<key>LEGAL</key>
+			<value>Legal</value>
+			<description>Cases owned by the Legal department.</description>
+		</config>
+		<config type="type">
+			<key>OPERATIONS</key>
+			<value>Operations</value>
+			<description>Cases owned by the Operations department.</description>
+		</config>
+		<config type="type">
+			<key>MARKETING</key>
+			<value>Marketing</value>
+			<description>Cases owned by the Marketing department.</description>
+		</config>
+		<config type="type">
+			<key>SALES</key>
+			<value>Sales</value>
+			<description>Cases owned by the Sales department.</description>
+		</config>
+		<config type="type">
+			<key>PROCUREMENT</key>
+			<value>Procurement</value>
+			<description>Cases owned by the Procurement department.</description>
+		</config>
+		<config type="type">
+			<key>COMPLIANCE</key>
+			<value>Compliance</value>
+			<description>Cases owned by the Compliance department.</description>
+		</config>
+		<config type="type">
+			<key>STRATEGY</key>
+			<value>Strategy</value>
+			<description>Cases owned by the Strategy department.</description>
+		</config>
+		<config type="type">
+			<key>CUSTOMER_SERVICE</key>
+			<value>Customer Service</value>
+			<description>Cases owned by the Customer Service department.</description>
+		</config>
+		<config type="type">
+			<key>SECURITY</key>
+			<value>Security</value>
+			<description>Cases owned by the Security department.</description>
+		</config>
+		<config type="type">
+			<key>FACILITIES</key>
+			<value>Facilities</value>
+			<description>Cases owned by the Facilities department.</description>
+		</config>
+		<config type="type">
+			<key>RESEARCH</key>
+			<value>Research</value>
+			<description>Cases owned by the Research department.</description>
+		</config>
+		<config type="type">
+			<key>INNOVATION</key>
+			<value>Innovation</value>
+			<description>Cases owned by the Innovation department.</description>
+		</config>
+		<config type="type">
+			<key>QUALITY_MANAGEMENT</key>
+			<value>Quality Management</value>
+			<description>Cases owned by the Quality Management department.</description>
+		</config>
+		<config type="type">
+			<key>RISK_MANAGEMENT</key>
+			<value>Risk Management</value>
+			<description>Cases owned by the Risk Management department.</description>
+		</config>
+		<config type="type">
+			<key>EXECUTIVE_OFFICE</key>
+			<value>Executive Office</value>
+			<description>Cases owned by the Executive Office department.</description>
+		</config>
+		<config type="type">
+			<key>PMO</key>
+			<value>PMO</value>
+			<description>Cases owned by the PMO department.</description>
+		</config>
+		<config type="type">
+			<key>DIGITAL_OFFICE</key>
+			<value>Digital Office</value>
+			<description>Cases owned by the Digital Office department.</description>
+		</config>
+		<config type="type">
+			<key>DATA_OFFICE</key>
+			<value>Data Office</value>
+			<description>Cases owned by the Data Office department.</description>
+		</config>
+		<config type="type">
+			<key>INFRASTRUCTURE</key>
+			<value>Infrastructure</value>
+			<description>Cases owned by the Infrastructure department.</description>
+		</config>
+		<config type="type">
+			<key>APPLICATIONS</key>
+			<value>Applications</value>
+			<description>Cases owned by the Applications department.</description>
+		</config>
+		<config type="type">
+			<key>GOVERNANCE</key>
+			<value>Governance</value>
+			<description>Cases owned by the Governance department.</description>
+		</config>
+		<config type="type">
+			<key>AUDIT</key>
+			<value>Audit</value>
+			<description>Cases owned by the Audit department.</description>
+		</config>
+		<config type="type">
+			<key>TREASURY</key>
+			<value>Treasury</value>
+			<description>Cases owned by the Treasury department.</description>
+		</config>
+		<config type="type">
+			<key>ACCOUNTING</key>
+			<value>Accounting</value>
+			<description>Cases owned by the Accounting department.</description>
+		</config>
+		<config type="type">
+			<key>BUSINESS_DEVELOPMENT</key>
+			<value>Business Development</value>
+			<description>Cases owned by the Business Development department.</description>
+		</config>
+		<config type="type">
+			<key>SUSTAINABILITY</key>
+			<value>Sustainability</value>
+			<description>Cases owned by the Sustainability department.</description>
+		</config>
+		<config type="type">
+			<key>PUBLIC_AFFAIRS</key>
+			<value>Public Affairs</value>
+			<description>Cases owned by the Public Affairs department.</description>
+		</config>
+		<config type="type">
+			<key>COMMUNICATIONS</key>
+			<value>Communications</value>
+			<description>Cases owned by the Communications department.</description>
+		</config>
+		<config type="type">
+			<key>PRODUCT_MANAGEMENT</key>
+			<value>Product Management</value>
+			<description>Cases owned by the Product Management department.</description>
+		</config>
+		<config type="type">
+			<key>ENGINEERING</key>
+			<value>Engineering</value>
+			<description>Cases owned by the Engineering department.</description>
+		</config>
+		<config type="type">
+			<key>ARCHITECTURE</key>
+			<value>Architecture</value>
+			<description>Cases owned by the Architecture department.</description>
+		</config>
+		<config type="type">
+			<key>CLOUD_SERVICES</key>
+			<value>Cloud Services</value>
+			<description>Cases owned by the Cloud Services department.</description>
+		</config>
+		<config type="type">
+			<key>SUPPORT</key>
+			<value>Support</value>
+			<description>Cases owned by the Support department.</description>
+		</config>
+		<config type="type">
+			<key>VENDOR_MANAGEMENT</key>
+			<value>Vendor Management</value>
+			<description>Cases owned by the Vendor Management department.</description>
+		</config>
+		<config type="type">
+			<key>SUPPLY_CHAIN</key>
+			<value>Supply Chain</value>
+			<description>Cases owned by the Supply Chain department.</description>
+		</config>
+		<config type="type">
+			<key>REGULATORY_AFFAIRS</key>
+			<value>Regulatory Affairs</value>
+			<description>Cases owned by the Regulatory Affairs department.</description>
+		</config>
+		<config type="type">
+			<key>INVESTOR_RELATIONS</key>
+			<value>Investor Relations</value>
+			<description>Cases owned by the Investor Relations department.</description>
+		</config>
+		<config type="type">
+			<key>CORPORATE_AFFAIRS</key>
+			<value>Corporate Affairs</value>
+			<description>Cases owned by the Corporate Affairs department.</description>
+		</config>
+		<config type="type">
+			<key>INTERNAL_CONTROL</key>
+			<value>Internal Control</value>
+			<description>Cases owned by the Internal Control department.</description>
+		</config>
+		<config type="type">
+			<key>SHARED_SERVICES</key>
+			<value>Shared Services</value>
+			<description>Cases owned by the Shared Services department.</description>
+		</config>
+		<config type="type">
+			<key>ADMINISTRATION</key>
+			<value>Administration</value>
+			<description>Cases owned by the Administration department.</description>
+		</config>
+		<config type="type">
+			<key>TRAINING</key>
+			<value>Training</value>
+			<description>Cases owned by the Training department.</description>
+		</config>
+		<config type="type">
+			<key>PROGRAM_MANAGEMENT</key>
+			<value>Program Management</value>
+			<description>Cases owned by the Program Management department.</description>
+		</config>
+		<config type="type">
+			<key>CHANGE_MANAGEMENT</key>
+			<value>Change Management</value>
+			<description>Cases owned by the Change Management department.</description>
+		</config>
+		<config type="type">
+			<key>TRANSFORMATION_OFFICE</key>
+			<value>Transformation Office</value>
+			<description>Cases owned by the Transformation Office department.</description>
+		</config>
+		<config type="type">
+			<key>ANALYTICS</key>
+			<value>Analytics</value>
+			<description>Cases owned by the Analytics department.</description>
+		</config>
+		<config type="type">
+			<key>PORTFOLIO_MANAGEMENT</key>
+			<value>Portfolio Management</value>
+			<description>Cases owned by the Portfolio Management department.</description>
+		</config>
+	</configs>
+	<cases>
+		<case>
+			<name>Infrastructure Modernization 1</name>
+			<subject>Strategic Market Entry</subject>
+			<type>SUSTAINABILITY</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>3</prio>
+			<budget>85441</budget>
+			<start_date>2026-01-01Z</start_date>
+			<end_date>2026-06-30Z</end_date>
+			<duration>P6M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 2</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>SUPPLY_CHAIN</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>3</prio>
+			<budget>235363</budget>
+			<start_date>2026-01-03Z</start_date>
+			<end_date>2026-03-04Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 3</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>PUBLIC_AFFAIRS</type>
+			<process>VENDOR_SELECTION</process>
+			<prio>3</prio>
+			<budget>155056</budget>
+			<start_date>2026-01-05Z</start_date>
+			<end_date>2026-07-04Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 4</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>APPLICATIONS</type>
+			<process>FACILITY_EXPANSION</process>
+			<prio>1</prio>
+			<budget>87582</budget>
+			<start_date>2026-01-07Z</start_date>
+			<end_date>2026-02-06Z</end_date>
+			<duration>P1M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 5</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>FACILITIES</type>
+			<process>DATA_GOVERNANCE</process>
+			<prio>3</prio>
+			<budget>52243</budget>
+			<start_date>2026-01-09Z</start_date>
+			<end_date>2026-05-09Z</end_date>
+			<duration>P4M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 6</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>DIGITAL_OFFICE</type>
+			<process>SECURITY_ASSESSMENT</process>
+			<prio>2</prio>
+			<budget>11045</budget>
+			<start_date>2026-01-11Z</start_date>
+			<end_date>2026-04-11Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 7</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>FACILITIES</type>
+			<process>BUDGET_PLANNING</process>
+			<prio>3</prio>
+			<budget>197368</budget>
+			<start_date>2026-01-13Z</start_date>
+			<end_date>2026-05-13Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 8</name>
+			<subject>Operational Excellence Program</subject>
+			<type>SUPPORT</type>
+			<process>REGULATORY_COMPLIANCE</process>
+			<prio>2</prio>
+			<budget>92946</budget>
+			<start_date>2026-01-15Z</start_date>
+			<end_date>2026-02-14Z</end_date>
+			<duration>P1M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 9</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>RESEARCH</type>
+			<process>ASSET_LIFECYCLE_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>52978</budget>
+			<start_date>2026-01-17Z</start_date>
+			<end_date>2026-05-17Z</end_date>
+			<duration>P4M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 10</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>APPLICATIONS</type>
+			<process>EXPENSE_APPROVAL</process>
+			<prio>1</prio>
+			<budget>237803</budget>
+			<start_date>2026-01-19Z</start_date>
+			<end_date>2026-06-18Z</end_date>
+			<duration>P5M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 11</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>GOVERNANCE</type>
+			<process>CONTRACT_NEGOTIATION</process>
+			<prio>1</prio>
+			<budget>206491</budget>
+			<start_date>2026-01-21Z</start_date>
+			<end_date>2026-03-22Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 12</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>PUBLIC_AFFAIRS</type>
+			<process>IT_CHANGE_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>38817</budget>
+			<start_date>2026-01-23Z</start_date>
+			<end_date>2026-06-22Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 13</name>
+			<subject>Strategic Market Entry</subject>
+			<type>SUPPORT</type>
+			<process>RELEASE_MANAGEMENT</process>
+			<prio>2</prio>
+			<budget>178647</budget>
+			<start_date>2026-01-25Z</start_date>
+			<end_date>2026-07-24Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 14</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>MARKETING</type>
+			<process>PORTFOLIO_REVIEW</process>
+			<prio>1</prio>
+			<budget>203968</budget>
+			<start_date>2026-01-27Z</start_date>
+			<end_date>2026-05-27Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 15</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>RISK_MANAGEMENT</type>
+			<process>PROCUREMENT_APPROVAL</process>
+			<prio>3</prio>
+			<budget>12554</budget>
+			<start_date>2026-01-29Z</start_date>
+			<end_date>2026-07-28Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 16</name>
+			<subject>Strategic Market Entry</subject>
+			<type>PROGRAM_MANAGEMENT</type>
+			<process>GRANT_APPLICATION</process>
+			<prio>2</prio>
+			<budget>51365</budget>
+			<start_date>2026-01-31Z</start_date>
+			<end_date>2026-05-01Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 17</name>
+			<subject>Operational Excellence Program</subject>
+			<type>RISK_MANAGEMENT</type>
+			<process>LEGAL_CASE_REVIEW</process>
+			<prio>1</prio>
+			<budget>57142</budget>
+			<start_date>2026-02-02Z</start_date>
+			<end_date>2026-03-04Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 18</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>AUDIT</type>
+			<process>SERVICE_FULFILLMENT</process>
+			<prio>1</prio>
+			<budget>104593</budget>
+			<start_date>2026-02-04Z</start_date>
+			<end_date>2026-03-06Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 19</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>CUSTOMER_SERVICE</type>
+			<process>MANDA_EVALUATION</process>
+			<prio>3</prio>
+			<budget>41077</budget>
+			<start_date>2026-02-06Z</start_date>
+			<end_date>2026-07-06Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 20</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>MARKETING</type>
+			<process>RFP_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>192088</budget>
+			<start_date>2026-02-08Z</start_date>
+			<end_date>2026-03-10Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 21</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>ANALYTICS</type>
+			<process>QUALITY_ASSURANCE</process>
+			<prio>1</prio>
+			<budget>149214</budget>
+			<start_date>2026-02-10Z</start_date>
+			<end_date>2026-03-12Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 22</name>
+			<subject>ERP Optimization</subject>
+			<type>STRATEGY</type>
+			<process>CYBERSECURITY_HARDENING</process>
+			<prio>3</prio>
+			<budget>145765</budget>
+			<start_date>2026-02-12Z</start_date>
+			<end_date>2026-05-13Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 23</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>GOVERNANCE</type>
+			<process>CUSTOMER_COMPLAINT_HANDLING</process>
+			<prio>3</prio>
+			<budget>79965</budget>
+			<start_date>2026-02-14Z</start_date>
+			<end_date>2026-08-13Z</end_date>
+			<duration>P6M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 24</name>
+			<subject>Strategic Market Entry</subject>
+			<type>IT</type>
+			<process>GRANT_APPLICATION</process>
+			<prio>1</prio>
+			<budget>34632</budget>
+			<start_date>2026-02-16Z</start_date>
+			<end_date>2026-04-17Z</end_date>
+			<duration>P2M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 25</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>AUDIT</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>1</prio>
+			<budget>11191</budget>
+			<start_date>2026-02-18Z</start_date>
+			<end_date>2026-04-19Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 26</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>FINANCE</type>
+			<process>DATA_GOVERNANCE</process>
+			<prio>2</prio>
+			<budget>172279</budget>
+			<start_date>2026-02-20Z</start_date>
+			<end_date>2026-05-21Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 27</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>SALES</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>2</prio>
+			<budget>244272</budget>
+			<start_date>2026-02-22Z</start_date>
+			<end_date>2026-08-21Z</end_date>
+			<duration>P6M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 28</name>
+			<subject>Cloud Migration Program</subject>
+			<type>TRANSFORMATION_OFFICE</type>
+			<process>GRANT_APPLICATION</process>
+			<prio>1</prio>
+			<budget>82635</budget>
+			<start_date>2026-02-24Z</start_date>
+			<end_date>2026-06-24Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 29</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>ENGINEERING</type>
+			<process>PORTFOLIO_REVIEW</process>
+			<prio>3</prio>
+			<budget>147376</budget>
+			<start_date>2026-02-26Z</start_date>
+			<end_date>2026-06-26Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 30</name>
+			<subject>Strategic Market Entry</subject>
+			<type>INNOVATION</type>
+			<process>ERP_IMPLEMENTATION</process>
+			<prio>1</prio>
+			<budget>143843</budget>
+			<start_date>2026-02-28Z</start_date>
+			<end_date>2026-07-28Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 31</name>
+			<subject>Strategic Market Entry</subject>
+			<type>CLOUD_SERVICES</type>
+			<process>PERFORMANCE_REVIEW</process>
+			<prio>2</prio>
+			<budget>77248</budget>
+			<start_date>2026-03-02Z</start_date>
+			<end_date>2026-07-30Z</end_date>
+			<duration>P5M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 32</name>
+			<subject>ERP Optimization</subject>
+			<type>DATA_OFFICE</type>
+			<process>ERP_IMPLEMENTATION</process>
+			<prio>3</prio>
+			<budget>146949</budget>
+			<start_date>2026-03-04Z</start_date>
+			<end_date>2026-07-02Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 33</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>IT</type>
+			<process>PERFORMANCE_REVIEW</process>
+			<prio>3</prio>
+			<budget>19649</budget>
+			<start_date>2026-03-06Z</start_date>
+			<end_date>2026-05-05Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 34</name>
+			<subject>Security Enhancement Program</subject>
+			<type>INVESTOR_RELATIONS</type>
+			<process>QUALITY_ASSURANCE</process>
+			<prio>3</prio>
+			<budget>139444</budget>
+			<start_date>2026-03-08Z</start_date>
+			<end_date>2026-07-06Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 35</name>
+			<subject>ERP Optimization</subject>
+			<type>FACILITIES</type>
+			<process>SUSTAINABILITY_INITIATIVE</process>
+			<prio>3</prio>
+			<budget>11837</budget>
+			<start_date>2026-03-10Z</start_date>
+			<end_date>2026-08-07Z</end_date>
+			<duration>P5M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 36</name>
+			<subject>Operational Excellence Program</subject>
+			<type>REGULATORY_AFFAIRS</type>
+			<process>GRANT_APPLICATION</process>
+			<prio>1</prio>
+			<budget>248066</budget>
+			<start_date>2026-03-12Z</start_date>
+			<end_date>2026-09-08Z</end_date>
+			<duration>P6M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 37</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>ACCOUNTING</type>
+			<process>LEGAL_CASE_REVIEW</process>
+			<prio>1</prio>
+			<budget>55871</budget>
+			<start_date>2026-03-14Z</start_date>
+			<end_date>2026-06-12Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 38</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>PRODUCT_MANAGEMENT</type>
+			<process>RELEASE_MANAGEMENT</process>
+			<prio>2</prio>
+			<budget>86695</budget>
+			<start_date>2026-03-16Z</start_date>
+			<end_date>2026-05-15Z</end_date>
+			<duration>P2M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 39</name>
+			<subject>Cloud Migration Program</subject>
+			<type>CORPORATE_AFFAIRS</type>
+			<process>RFP_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>134291</budget>
+			<start_date>2026-03-18Z</start_date>
+			<end_date>2026-08-15Z</end_date>
+			<duration>P5M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 40</name>
+			<subject>Cloud Migration Program</subject>
+			<type>ACCOUNTING</type>
+			<process>VENDOR_SELECTION</process>
+			<prio>2</prio>
+			<budget>177142</budget>
+			<start_date>2026-03-20Z</start_date>
+			<end_date>2026-07-18Z</end_date>
+			<duration>P4M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 41</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>DATA_OFFICE</type>
+			<process>RELEASE_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>26554</budget>
+			<start_date>2026-03-22Z</start_date>
+			<end_date>2026-06-20Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 42</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>EXECUTIVE_OFFICE</type>
+			<process>RFP_MANAGEMENT</process>
+			<prio>2</prio>
+			<budget>191045</budget>
+			<start_date>2026-03-24Z</start_date>
+			<end_date>2026-06-22Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 43</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>FINANCE</type>
+			<process>PORTFOLIO_REVIEW</process>
+			<prio>1</prio>
+			<budget>236168</budget>
+			<start_date>2026-03-26Z</start_date>
+			<end_date>2026-05-25Z</end_date>
+			<duration>P2M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 44</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>FACILITIES</type>
+			<process>RELEASE_MANAGEMENT</process>
+			<prio>2</prio>
+			<budget>203985</budget>
+			<start_date>2026-03-28Z</start_date>
+			<end_date>2026-07-26Z</end_date>
+			<duration>P4M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 45</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>PROCUREMENT</type>
+			<process>SERVICE_FULFILLMENT</process>
+			<prio>3</prio>
+			<budget>184301</budget>
+			<start_date>2026-03-30Z</start_date>
+			<end_date>2026-08-27Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 46</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>EXPENSE_APPROVAL</process>
+			<prio>1</prio>
+			<budget>32463</budget>
+			<start_date>2026-04-01Z</start_date>
+			<end_date>2026-05-31Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 47</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>HUMAN_RESOURCES</type>
+			<process>APPLICATION_MODERNIZATION</process>
+			<prio>3</prio>
+			<budget>206035</budget>
+			<start_date>2026-04-03Z</start_date>
+			<end_date>2026-08-31Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 48</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>AUDIT</type>
+			<process>POLICY_REVISION</process>
+			<prio>2</prio>
+			<budget>29079</budget>
+			<start_date>2026-04-05Z</start_date>
+			<end_date>2026-09-02Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 49</name>
+			<subject>Security Enhancement Program</subject>
+			<type>CORPORATE_AFFAIRS</type>
+			<process>CYBERSECURITY_HARDENING</process>
+			<prio>2</prio>
+			<budget>231203</budget>
+			<start_date>2026-04-07Z</start_date>
+			<end_date>2026-06-06Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 50</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>GOVERNANCE</type>
+			<process>EMPLOYEE_ONBOARDING</process>
+			<prio>2</prio>
+			<budget>80513</budget>
+			<start_date>2026-04-09Z</start_date>
+			<end_date>2026-05-09Z</end_date>
+			<duration>P1M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 51</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>TREASURY</type>
+			<process>DATA_GOVERNANCE</process>
+			<prio>1</prio>
+			<budget>207109</budget>
+			<start_date>2026-04-11Z</start_date>
+			<end_date>2026-07-10Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 52</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>AUDIT</type>
+			<process>PRODUCT_LAUNCH</process>
+			<prio>1</prio>
+			<budget>238424</budget>
+			<start_date>2026-04-13Z</start_date>
+			<end_date>2026-09-10Z</end_date>
+			<duration>P5M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 53</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>PROCUREMENT</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>1</prio>
+			<budget>80888</budget>
+			<start_date>2026-04-15Z</start_date>
+			<end_date>2026-06-14Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 54</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>PUBLIC_AFFAIRS</type>
+			<process>CUSTOMER_ACTIVATION</process>
+			<prio>2</prio>
+			<budget>210076</budget>
+			<start_date>2026-04-17Z</start_date>
+			<end_date>2026-08-15Z</end_date>
+			<duration>P4M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 55</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>MARKETING</type>
+			<process>CONTRACT_NEGOTIATION</process>
+			<prio>3</prio>
+			<budget>110274</budget>
+			<start_date>2026-04-19Z</start_date>
+			<end_date>2026-08-17Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 56</name>
+			<subject>Strategic Market Entry</subject>
+			<type>STRATEGY</type>
+			<process>CUSTOMER_ACTIVATION</process>
+			<prio>2</prio>
+			<budget>68281</budget>
+			<start_date>2026-04-21Z</start_date>
+			<end_date>2026-09-18Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 57</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>STRATEGY</type>
+			<process>EMPLOYEE_ONBOARDING</process>
+			<prio>3</prio>
+			<budget>215561</budget>
+			<start_date>2026-04-23Z</start_date>
+			<end_date>2026-05-23Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 58</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>PROGRAM_MANAGEMENT</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>1</prio>
+			<budget>18270</budget>
+			<start_date>2026-04-25Z</start_date>
+			<end_date>2026-10-22Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 59</name>
+			<subject>Security Enhancement Program</subject>
+			<type>PORTFOLIO_MANAGEMENT</type>
+			<process>CUSTOMER_COMPLAINT_HANDLING</process>
+			<prio>1</prio>
+			<budget>145609</budget>
+			<start_date>2026-04-27Z</start_date>
+			<end_date>2026-08-25Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 60</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>INNOVATION</type>
+			<process>CONTRACT_NEGOTIATION</process>
+			<prio>3</prio>
+			<budget>172211</budget>
+			<start_date>2026-04-29Z</start_date>
+			<end_date>2026-08-27Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 61</name>
+			<subject>ERP Optimization</subject>
+			<type>GOVERNANCE</type>
+			<process>STAKEHOLDER_REPORTING</process>
+			<prio>2</prio>
+			<budget>176274</budget>
+			<start_date>2026-05-01Z</start_date>
+			<end_date>2026-06-30Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 62</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>TREASURY</type>
+			<process>LEGAL_CASE_REVIEW</process>
+			<prio>2</prio>
+			<budget>100911</budget>
+			<start_date>2026-05-03Z</start_date>
+			<end_date>2026-08-01Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 63</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>INNOVATION</type>
+			<process>BUSINESS_CONTINUITY_PLANNING</process>
+			<prio>3</prio>
+			<budget>223744</budget>
+			<start_date>2026-05-05Z</start_date>
+			<end_date>2026-10-02Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 64</name>
+			<subject>Security Enhancement Program</subject>
+			<type>CUSTOMER_SERVICE</type>
+			<process>POLICY_REVISION</process>
+			<prio>3</prio>
+			<budget>8679</budget>
+			<start_date>2026-05-07Z</start_date>
+			<end_date>2026-09-04Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 65</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>SECURITY</type>
+			<process>PROJECT_DELIVERY</process>
+			<prio>2</prio>
+			<budget>160128</budget>
+			<start_date>2026-05-09Z</start_date>
+			<end_date>2026-10-06Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 66</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>2</prio>
+			<budget>83022</budget>
+			<start_date>2026-05-11Z</start_date>
+			<end_date>2026-06-10Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 67</name>
+			<subject>ERP Optimization</subject>
+			<type>DATA_OFFICE</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>2</prio>
+			<budget>217395</budget>
+			<start_date>2026-05-13Z</start_date>
+			<end_date>2026-07-12Z</end_date>
+			<duration>P2M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 68</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>EXECUTIVE_OFFICE</type>
+			<process>PERFORMANCE_REVIEW</process>
+			<prio>3</prio>
+			<budget>142025</budget>
+			<start_date>2026-05-15Z</start_date>
+			<end_date>2026-07-14Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 69</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>APPLICATIONS</type>
+			<process>SUPPLIER_AUDIT</process>
+			<prio>1</prio>
+			<budget>123908</budget>
+			<start_date>2026-05-17Z</start_date>
+			<end_date>2026-09-14Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 70</name>
+			<subject>Strategic Market Entry</subject>
+			<type>SHARED_SERVICES</type>
+			<process>PERFORMANCE_REVIEW</process>
+			<prio>3</prio>
+			<budget>29265</budget>
+			<start_date>2026-05-19Z</start_date>
+			<end_date>2026-08-17Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 71</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>TRAINING</type>
+			<process>TENDER_SUBMISSION</process>
+			<prio>3</prio>
+			<budget>144151</budget>
+			<start_date>2026-05-21Z</start_date>
+			<end_date>2026-07-20Z</end_date>
+			<duration>P2M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 72</name>
+			<subject>Operational Excellence Program</subject>
+			<type>TREASURY</type>
+			<process>SUPPLIER_AUDIT</process>
+			<prio>1</prio>
+			<budget>71163</budget>
+			<start_date>2026-05-23Z</start_date>
+			<end_date>2026-07-22Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 73</name>
+			<subject>Cloud Migration Program</subject>
+			<type>ARCHITECTURE</type>
+			<process>BUSINESS_CONTINUITY_PLANNING</process>
+			<prio>2</prio>
+			<budget>71350</budget>
+			<start_date>2026-05-25Z</start_date>
+			<end_date>2026-06-24Z</end_date>
+			<duration>P1M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 74</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>EXECUTIVE_OFFICE</type>
+			<process>DIGITAL_TRANSFORMATION</process>
+			<prio>1</prio>
+			<budget>227586</budget>
+			<start_date>2026-05-27Z</start_date>
+			<end_date>2026-10-24Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 75</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>QUALITY_MANAGEMENT</type>
+			<process>INTERNAL_AUDIT</process>
+			<prio>1</prio>
+			<budget>63091</budget>
+			<start_date>2026-05-29Z</start_date>
+			<end_date>2026-11-25Z</end_date>
+			<duration>P6M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 76</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>GOVERNANCE</type>
+			<process>FACILITY_EXPANSION</process>
+			<prio>3</prio>
+			<budget>204016</budget>
+			<start_date>2026-05-31Z</start_date>
+			<end_date>2026-11-27Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 77</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>AUDIT</type>
+			<process>INVESTMENT_REVIEW</process>
+			<prio>2</prio>
+			<budget>16485</budget>
+			<start_date>2026-06-02Z</start_date>
+			<end_date>2026-07-02Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 78</name>
+			<subject>ERP Optimization</subject>
+			<type>ENGINEERING</type>
+			<process>ASSET_LIFECYCLE_MANAGEMENT</process>
+			<prio>3</prio>
+			<budget>149045</budget>
+			<start_date>2026-06-04Z</start_date>
+			<end_date>2026-09-02Z</end_date>
+			<duration>P3M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 79</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>ENGINEERING</type>
+			<process>ASSET_LIFECYCLE_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>174613</budget>
+			<start_date>2026-06-06Z</start_date>
+			<end_date>2026-08-05Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 80</name>
+			<subject>Security Enhancement Program</subject>
+			<type>QUALITY_MANAGEMENT</type>
+			<process>SUSTAINABILITY_INITIATIVE</process>
+			<prio>3</prio>
+			<budget>67101</budget>
+			<start_date>2026-06-08Z</start_date>
+			<end_date>2026-07-08Z</end_date>
+			<duration>P1M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 81</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>INNOVATION</type>
+			<process>SUSTAINABILITY_INITIATIVE</process>
+			<prio>3</prio>
+			<budget>47696</budget>
+			<start_date>2026-06-10Z</start_date>
+			<end_date>2026-11-07Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 82</name>
+			<subject>Operational Excellence Program</subject>
+			<type>APPLICATIONS</type>
+			<process>REGULATORY_COMPLIANCE</process>
+			<prio>2</prio>
+			<budget>30656</budget>
+			<start_date>2026-06-12Z</start_date>
+			<end_date>2026-08-11Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 83</name>
+			<subject>Operational Excellence Program</subject>
+			<type>HUMAN_RESOURCES</type>
+			<process>CYBERSECURITY_HARDENING</process>
+			<prio>3</prio>
+			<budget>72628</budget>
+			<start_date>2026-06-14Z</start_date>
+			<end_date>2026-09-12Z</end_date>
+			<duration>P3M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 84</name>
+			<subject>Strategic Market Entry</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>2</prio>
+			<budget>23972</budget>
+			<start_date>2026-06-16Z</start_date>
+			<end_date>2026-12-13Z</end_date>
+			<duration>P6M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 85</name>
+			<subject>Security Enhancement Program</subject>
+			<type>DATA_OFFICE</type>
+			<process>APPLICATION_MODERNIZATION</process>
+			<prio>2</prio>
+			<budget>143489</budget>
+			<start_date>2026-06-18Z</start_date>
+			<end_date>2026-10-16Z</end_date>
+			<duration>P4M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 86</name>
+			<subject>Security Enhancement Program</subject>
+			<type>TRAINING</type>
+			<process>STAKEHOLDER_REPORTING</process>
+			<prio>2</prio>
+			<budget>37516</budget>
+			<start_date>2026-06-20Z</start_date>
+			<end_date>2026-07-20Z</end_date>
+			<duration>P1M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 87</name>
+			<subject>Cloud Migration Program</subject>
+			<type>RISK_MANAGEMENT</type>
+			<process>STAKEHOLDER_REPORTING</process>
+			<prio>3</prio>
+			<budget>8186</budget>
+			<start_date>2026-06-22Z</start_date>
+			<end_date>2026-10-20Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 88</name>
+			<subject>Cloud Migration Program</subject>
+			<type>QUALITY_MANAGEMENT</type>
+			<process>REGULATORY_COMPLIANCE</process>
+			<prio>2</prio>
+			<budget>82065</budget>
+			<start_date>2026-06-24Z</start_date>
+			<end_date>2026-12-21Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 89</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>ARCHITECTURE</type>
+			<process>IT_CHANGE_MANAGEMENT</process>
+			<prio>2</prio>
+			<budget>177300</budget>
+			<start_date>2026-06-26Z</start_date>
+			<end_date>2026-07-26Z</end_date>
+			<duration>P1M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 90</name>
+			<subject>Operational Excellence Program</subject>
+			<type>PORTFOLIO_MANAGEMENT</type>
+			<process>DIGITAL_TRANSFORMATION</process>
+			<prio>3</prio>
+			<budget>177019</budget>
+			<start_date>2026-06-28Z</start_date>
+			<end_date>2026-10-26Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 91</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>FINANCE</type>
+			<process>QUALITY_ASSURANCE</process>
+			<prio>3</prio>
+			<budget>207487</budget>
+			<start_date>2026-06-30Z</start_date>
+			<end_date>2026-09-28Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 92</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>DATA_OFFICE</type>
+			<process>DATA_MIGRATION</process>
+			<prio>1</prio>
+			<budget>96723</budget>
+			<start_date>2026-07-02Z</start_date>
+			<end_date>2026-08-31Z</end_date>
+			<duration>P2M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 93</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>DATA_OFFICE</type>
+			<process>INTERNAL_AUDIT</process>
+			<prio>1</prio>
+			<budget>29291</budget>
+			<start_date>2026-07-04Z</start_date>
+			<end_date>2026-12-31Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 94</name>
+			<subject>Cloud Migration Program</subject>
+			<type>TRAINING</type>
+			<process>INTERNAL_AUDIT</process>
+			<prio>3</prio>
+			<budget>126622</budget>
+			<start_date>2026-07-06Z</start_date>
+			<end_date>2027-01-02Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 95</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>LEGAL</type>
+			<process>STAKEHOLDER_REPORTING</process>
+			<prio>1</prio>
+			<budget>208567</budget>
+			<start_date>2026-07-08Z</start_date>
+			<end_date>2026-11-05Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 96</name>
+			<subject>Security Enhancement Program</subject>
+			<type>PMO</type>
+			<process>INVOICE_PROCESSING</process>
+			<prio>1</prio>
+			<budget>51406</budget>
+			<start_date>2026-07-10Z</start_date>
+			<end_date>2026-09-08Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 97</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>PROCUREMENT</type>
+			<process>MARKET_EXPANSION</process>
+			<prio>2</prio>
+			<budget>172585</budget>
+			<start_date>2026-07-12Z</start_date>
+			<end_date>2027-01-08Z</end_date>
+			<duration>P6M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 98</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>FACILITIES</type>
+			<process>SUPPLIER_AUDIT</process>
+			<prio>1</prio>
+			<budget>154313</budget>
+			<start_date>2026-07-14Z</start_date>
+			<end_date>2026-08-13Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 99</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>PRODUCT_MANAGEMENT</type>
+			<process>CLOUD_ADOPTION</process>
+			<prio>2</prio>
+			<budget>163793</budget>
+			<start_date>2026-07-16Z</start_date>
+			<end_date>2026-12-13Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 100</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>OPERATIONS</type>
+			<process>POLICY_REVISION</process>
+			<prio>3</prio>
+			<budget>151688</budget>
+			<start_date>2026-07-18Z</start_date>
+			<end_date>2026-12-15Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 101</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>LEGAL</type>
+			<process>ERP_IMPLEMENTATION</process>
+			<prio>2</prio>
+			<budget>38151</budget>
+			<start_date>2026-07-20Z</start_date>
+			<end_date>2026-10-18Z</end_date>
+			<duration>P3M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 102</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>PUBLIC_AFFAIRS</type>
+			<process>FACILITY_EXPANSION</process>
+			<prio>2</prio>
+			<budget>83476</budget>
+			<start_date>2026-07-22Z</start_date>
+			<end_date>2026-10-20Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 103</name>
+			<subject>Strategic Market Entry</subject>
+			<type>PMO</type>
+			<process>VENDOR_SELECTION</process>
+			<prio>1</prio>
+			<budget>217580</budget>
+			<start_date>2026-07-24Z</start_date>
+			<end_date>2026-12-21Z</end_date>
+			<duration>P5M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 104</name>
+			<subject>Cloud Migration Program</subject>
+			<type>INTERNAL_CONTROL</type>
+			<process>RISK_EVALUATION</process>
+			<prio>1</prio>
+			<budget>80111</budget>
+			<start_date>2026-07-26Z</start_date>
+			<end_date>2026-09-24Z</end_date>
+			<duration>P2M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 105</name>
+			<subject>Security Enhancement Program</subject>
+			<type>APPLICATIONS</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>3</prio>
+			<budget>20834</budget>
+			<start_date>2026-07-28Z</start_date>
+			<end_date>2026-08-27Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 106</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>FINANCE</type>
+			<process>SUSTAINABILITY_INITIATIVE</process>
+			<prio>1</prio>
+			<budget>184578</budget>
+			<start_date>2026-07-30Z</start_date>
+			<end_date>2026-10-28Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 107</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>INFRASTRUCTURE</type>
+			<process>PROJECT_DELIVERY</process>
+			<prio>2</prio>
+			<budget>207308</budget>
+			<start_date>2026-08-01Z</start_date>
+			<end_date>2026-09-30Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 108</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>DIGITAL_TRANSFORMATION</process>
+			<prio>3</prio>
+			<budget>54438</budget>
+			<start_date>2026-08-03Z</start_date>
+			<end_date>2026-12-31Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 109</name>
+			<subject>Cloud Migration Program</subject>
+			<type>MARKETING</type>
+			<process>TENDER_SUBMISSION</process>
+			<prio>3</prio>
+			<budget>188986</budget>
+			<start_date>2026-08-05Z</start_date>
+			<end_date>2026-11-03Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 110</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>ANALYTICS</type>
+			<process>PROCUREMENT_APPROVAL</process>
+			<prio>1</prio>
+			<budget>225962</budget>
+			<start_date>2026-08-07Z</start_date>
+			<end_date>2027-01-04Z</end_date>
+			<duration>P5M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 111</name>
+			<subject>Security Enhancement Program</subject>
+			<type>RISK_MANAGEMENT</type>
+			<process>FACILITY_EXPANSION</process>
+			<prio>2</prio>
+			<budget>145831</budget>
+			<start_date>2026-08-09Z</start_date>
+			<end_date>2026-09-08Z</end_date>
+			<duration>P1M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 112</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>ANALYTICS</type>
+			<process>CLOUD_ADOPTION</process>
+			<prio>3</prio>
+			<budget>116785</budget>
+			<start_date>2026-08-11Z</start_date>
+			<end_date>2026-10-10Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 113</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>AUDIT</type>
+			<process>PORTFOLIO_REVIEW</process>
+			<prio>3</prio>
+			<budget>103631</budget>
+			<start_date>2026-08-13Z</start_date>
+			<end_date>2026-12-11Z</end_date>
+			<duration>P4M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 114</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>ARCHITECTURE</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>1</prio>
+			<budget>19693</budget>
+			<start_date>2026-08-15Z</start_date>
+			<end_date>2026-12-13Z</end_date>
+			<duration>P4M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 115</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>LEGAL</type>
+			<process>INVOICE_PROCESSING</process>
+			<prio>3</prio>
+			<budget>214129</budget>
+			<start_date>2026-08-17Z</start_date>
+			<end_date>2026-11-15Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 116</name>
+			<subject>Security Enhancement Program</subject>
+			<type>CHANGE_MANAGEMENT</type>
+			<process>PORTFOLIO_REVIEW</process>
+			<prio>2</prio>
+			<budget>141452</budget>
+			<start_date>2026-08-19Z</start_date>
+			<end_date>2026-11-17Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 117</name>
+			<subject>Operational Excellence Program</subject>
+			<type>ACCOUNTING</type>
+			<process>REGULATORY_COMPLIANCE</process>
+			<prio>2</prio>
+			<budget>19210</budget>
+			<start_date>2026-08-21Z</start_date>
+			<end_date>2027-02-17Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 118</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>COMMUNICATIONS</type>
+			<process>PREVENTIVE_MAINTENANCE</process>
+			<prio>2</prio>
+			<budget>19232</budget>
+			<start_date>2026-08-23Z</start_date>
+			<end_date>2027-01-20Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 119</name>
+			<subject>Operational Excellence Program</subject>
+			<type>APPLICATIONS</type>
+			<process>STRATEGIC_PLANNING</process>
+			<prio>2</prio>
+			<budget>29930</budget>
+			<start_date>2026-08-25Z</start_date>
+			<end_date>2026-09-24Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 120</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>SALES</type>
+			<process>SERVICE_FULFILLMENT</process>
+			<prio>2</prio>
+			<budget>75035</budget>
+			<start_date>2026-08-27Z</start_date>
+			<end_date>2026-10-26Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 121</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>RISK_MANAGEMENT</type>
+			<process>REGULATORY_COMPLIANCE</process>
+			<prio>1</prio>
+			<budget>16969</budget>
+			<start_date>2026-08-29Z</start_date>
+			<end_date>2026-12-27Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 122</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>MARKETING</type>
+			<process>PROCUREMENT_APPROVAL</process>
+			<prio>1</prio>
+			<budget>68615</budget>
+			<start_date>2026-08-31Z</start_date>
+			<end_date>2026-09-30Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 123</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>RISK_MANAGEMENT</type>
+			<process>GRANT_APPLICATION</process>
+			<prio>3</prio>
+			<budget>191988</budget>
+			<start_date>2026-09-02Z</start_date>
+			<end_date>2026-10-02Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 124</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>INTERNAL_CONTROL</type>
+			<process>INVOICE_PROCESSING</process>
+			<prio>2</prio>
+			<budget>157696</budget>
+			<start_date>2026-09-04Z</start_date>
+			<end_date>2027-03-03Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 125</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>EXECUTIVE_OFFICE</type>
+			<process>PROCUREMENT_APPROVAL</process>
+			<prio>2</prio>
+			<budget>93054</budget>
+			<start_date>2026-09-06Z</start_date>
+			<end_date>2026-12-05Z</end_date>
+			<duration>P3M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 126</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>FACILITIES</type>
+			<process>STRATEGIC_PLANNING</process>
+			<prio>1</prio>
+			<budget>50958</budget>
+			<start_date>2026-09-08Z</start_date>
+			<end_date>2026-12-07Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 127</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>GOVERNANCE</type>
+			<process>VENDOR_SELECTION</process>
+			<prio>2</prio>
+			<budget>125941</budget>
+			<start_date>2026-09-10Z</start_date>
+			<end_date>2027-03-09Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 128</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>TRANSFORMATION_OFFICE</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>1</prio>
+			<budget>53701</budget>
+			<start_date>2026-09-12Z</start_date>
+			<end_date>2026-12-11Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 129</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>PROGRAM_MANAGEMENT</type>
+			<process>QUALITY_ASSURANCE</process>
+			<prio>2</prio>
+			<budget>246911</budget>
+			<start_date>2026-09-14Z</start_date>
+			<end_date>2026-10-14Z</end_date>
+			<duration>P1M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 130</name>
+			<subject>ERP Optimization</subject>
+			<type>ENGINEERING</type>
+			<process>PRODUCT_LAUNCH</process>
+			<prio>1</prio>
+			<budget>52637</budget>
+			<start_date>2026-09-16Z</start_date>
+			<end_date>2027-01-14Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 131</name>
+			<subject>Cloud Migration Program</subject>
+			<type>ARCHITECTURE</type>
+			<process>CLOUD_ADOPTION</process>
+			<prio>1</prio>
+			<budget>172523</budget>
+			<start_date>2026-09-18Z</start_date>
+			<end_date>2027-02-15Z</end_date>
+			<duration>P5M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 132</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>APPLICATIONS</type>
+			<process>VENDOR_SELECTION</process>
+			<prio>1</prio>
+			<budget>159648</budget>
+			<start_date>2026-09-20Z</start_date>
+			<end_date>2026-12-19Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 133</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>COMMUNICATIONS</type>
+			<process>SECURITY_ASSESSMENT</process>
+			<prio>2</prio>
+			<budget>228339</budget>
+			<start_date>2026-09-22Z</start_date>
+			<end_date>2026-12-21Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 134</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>COMPLIANCE</type>
+			<process>FACILITY_EXPANSION</process>
+			<prio>3</prio>
+			<budget>14763</budget>
+			<start_date>2026-09-24Z</start_date>
+			<end_date>2026-10-24Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 135</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>SALES</type>
+			<process>RISK_EVALUATION</process>
+			<prio>3</prio>
+			<budget>88315</budget>
+			<start_date>2026-09-26Z</start_date>
+			<end_date>2026-12-25Z</end_date>
+			<duration>P3M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 136</name>
+			<subject>Strategic Market Entry</subject>
+			<type>SUSTAINABILITY</type>
+			<process>MARKET_EXPANSION</process>
+			<prio>2</prio>
+			<budget>45245</budget>
+			<start_date>2026-09-28Z</start_date>
+			<end_date>2027-01-26Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 137</name>
+			<subject>Cloud Migration Program</subject>
+			<type>PROGRAM_MANAGEMENT</type>
+			<process>GRANT_APPLICATION</process>
+			<prio>3</prio>
+			<budget>64640</budget>
+			<start_date>2026-09-30Z</start_date>
+			<end_date>2027-01-28Z</end_date>
+			<duration>P4M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 138</name>
+			<subject>Cloud Migration Program</subject>
+			<type>IT</type>
+			<process>CLOUD_ADOPTION</process>
+			<prio>2</prio>
+			<budget>110739</budget>
+			<start_date>2026-10-02Z</start_date>
+			<end_date>2026-12-01Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 139</name>
+			<subject>Operational Excellence Program</subject>
+			<type>ARCHITECTURE</type>
+			<process>GRANT_APPLICATION</process>
+			<prio>1</prio>
+			<budget>32923</budget>
+			<start_date>2026-10-04Z</start_date>
+			<end_date>2027-03-03Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 140</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>FINANCE</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>3</prio>
+			<budget>54301</budget>
+			<start_date>2026-10-06Z</start_date>
+			<end_date>2027-01-04Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 141</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>TREASURY</type>
+			<process>DATA_GOVERNANCE</process>
+			<prio>2</prio>
+			<budget>126049</budget>
+			<start_date>2026-10-08Z</start_date>
+			<end_date>2027-04-06Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 142</name>
+			<subject>Operational Excellence Program</subject>
+			<type>GOVERNANCE</type>
+			<process>KNOWLEDGE_TRANSFER</process>
+			<prio>3</prio>
+			<budget>221527</budget>
+			<start_date>2026-10-10Z</start_date>
+			<end_date>2026-12-09Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 143</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>SUPPORT</type>
+			<process>FACILITY_EXPANSION</process>
+			<prio>1</prio>
+			<budget>9801</budget>
+			<start_date>2026-10-12Z</start_date>
+			<end_date>2026-11-11Z</end_date>
+			<duration>P1M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 144</name>
+			<subject>ERP Optimization</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>2</prio>
+			<budget>220262</budget>
+			<start_date>2026-10-14Z</start_date>
+			<end_date>2027-01-12Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 145</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>FINANCE</type>
+			<process>CLOUD_ADOPTION</process>
+			<prio>1</prio>
+			<budget>68462</budget>
+			<start_date>2026-10-16Z</start_date>
+			<end_date>2026-11-15Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 146</name>
+			<subject>Security Enhancement Program</subject>
+			<type>INFRASTRUCTURE</type>
+			<process>STRATEGIC_PLANNING</process>
+			<prio>3</prio>
+			<budget>249660</budget>
+			<start_date>2026-10-18Z</start_date>
+			<end_date>2027-03-17Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 147</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>FINANCE</type>
+			<process>DATA_MIGRATION</process>
+			<prio>3</prio>
+			<budget>49760</budget>
+			<start_date>2026-10-20Z</start_date>
+			<end_date>2027-04-18Z</end_date>
+			<duration>P6M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 148</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>ENGINEERING</type>
+			<process>RFP_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>45842</budget>
+			<start_date>2026-10-22Z</start_date>
+			<end_date>2027-04-20Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 149</name>
+			<subject>ERP Optimization</subject>
+			<type>TRANSFORMATION_OFFICE</type>
+			<process>LEGAL_CASE_REVIEW</process>
+			<prio>3</prio>
+			<budget>184516</budget>
+			<start_date>2026-10-24Z</start_date>
+			<end_date>2027-03-23Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 150</name>
+			<subject>Strategic Market Entry</subject>
+			<type>PROCUREMENT</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>1</prio>
+			<budget>116962</budget>
+			<start_date>2026-10-26Z</start_date>
+			<end_date>2027-03-25Z</end_date>
+			<duration>P5M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 151</name>
+			<subject>Security Enhancement Program</subject>
+			<type>SECURITY</type>
+			<process>STRATEGIC_PLANNING</process>
+			<prio>3</prio>
+			<budget>160310</budget>
+			<start_date>2026-10-28Z</start_date>
+			<end_date>2027-02-25Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 152</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>PRODUCT_MANAGEMENT</type>
+			<process>POLICY_REVISION</process>
+			<prio>2</prio>
+			<budget>32527</budget>
+			<start_date>2026-10-30Z</start_date>
+			<end_date>2027-01-28Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 153</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>COMMUNICATIONS</type>
+			<process>CUSTOMER_ACTIVATION</process>
+			<prio>2</prio>
+			<budget>107101</budget>
+			<start_date>2026-11-01Z</start_date>
+			<end_date>2027-04-30Z</end_date>
+			<duration>P6M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 154</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>AUDIT</type>
+			<process>MANDA_EVALUATION</process>
+			<prio>2</prio>
+			<budget>85070</budget>
+			<start_date>2026-11-03Z</start_date>
+			<end_date>2027-01-02Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 155</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>PROGRAM_MANAGEMENT</type>
+			<process>INFRASTRUCTURE_UPGRADE</process>
+			<prio>1</prio>
+			<budget>46327</budget>
+			<start_date>2026-11-05Z</start_date>
+			<end_date>2027-05-04Z</end_date>
+			<duration>P6M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 156</name>
+			<subject>Security Enhancement Program</subject>
+			<type>GOVERNANCE</type>
+			<process>VENDOR_SELECTION</process>
+			<prio>1</prio>
+			<budget>26810</budget>
+			<start_date>2026-11-07Z</start_date>
+			<end_date>2027-02-05Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 157</name>
+			<subject>ERP Optimization</subject>
+			<type>RESEARCH</type>
+			<process>RELEASE_MANAGEMENT</process>
+			<prio>1</prio>
+			<budget>196575</budget>
+			<start_date>2026-11-09Z</start_date>
+			<end_date>2027-03-09Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 158</name>
+			<subject>ERP Optimization</subject>
+			<type>APPLICATIONS</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>1</prio>
+			<budget>153953</budget>
+			<start_date>2026-11-11Z</start_date>
+			<end_date>2027-02-09Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 159</name>
+			<subject>Operational Excellence Program</subject>
+			<type>APPLICATIONS</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>2</prio>
+			<budget>128149</budget>
+			<start_date>2026-11-13Z</start_date>
+			<end_date>2027-01-12Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 160</name>
+			<subject>Strategic Market Entry</subject>
+			<type>TRAINING</type>
+			<process>CLOUD_ADOPTION</process>
+			<prio>1</prio>
+			<budget>142354</budget>
+			<start_date>2026-11-15Z</start_date>
+			<end_date>2027-01-14Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 161</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>INVESTOR_RELATIONS</type>
+			<process>CUSTOMER_COMPLAINT_HANDLING</process>
+			<prio>3</prio>
+			<budget>112985</budget>
+			<start_date>2026-11-17Z</start_date>
+			<end_date>2027-05-16Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 162</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>VENDOR_MANAGEMENT</type>
+			<process>STAKEHOLDER_REPORTING</process>
+			<prio>2</prio>
+			<budget>84604</budget>
+			<start_date>2026-11-19Z</start_date>
+			<end_date>2027-04-18Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 163</name>
+			<subject>Cloud Migration Program</subject>
+			<type>SECURITY</type>
+			<process>BUDGET_PLANNING</process>
+			<prio>2</prio>
+			<budget>61388</budget>
+			<start_date>2026-11-21Z</start_date>
+			<end_date>2027-02-19Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 164</name>
+			<subject>Operational Excellence Program</subject>
+			<type>CUSTOMER_SERVICE</type>
+			<process>QUALITY_ASSURANCE</process>
+			<prio>2</prio>
+			<budget>163783</budget>
+			<start_date>2026-11-23Z</start_date>
+			<end_date>2027-03-23Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 165</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>CLOUD_SERVICES</type>
+			<process>PROJECT_DELIVERY</process>
+			<prio>2</prio>
+			<budget>29598</budget>
+			<start_date>2026-11-25Z</start_date>
+			<end_date>2027-01-24Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 166</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>GOVERNANCE</type>
+			<process>TENDER_SUBMISSION</process>
+			<prio>1</prio>
+			<budget>63522</budget>
+			<start_date>2026-11-27Z</start_date>
+			<end_date>2026-12-27Z</end_date>
+			<duration>P1M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 167</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>RISK_MANAGEMENT</type>
+			<process>KNOWLEDGE_TRANSFER</process>
+			<prio>1</prio>
+			<budget>97038</budget>
+			<start_date>2026-11-29Z</start_date>
+			<end_date>2026-12-29Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 168</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>TRANSFORMATION_OFFICE</type>
+			<process>CUSTOMER_ACTIVATION</process>
+			<prio>1</prio>
+			<budget>186851</budget>
+			<start_date>2026-12-01Z</start_date>
+			<end_date>2027-03-31Z</end_date>
+			<duration>P4M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 169</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>REGULATORY_AFFAIRS</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>3</prio>
+			<budget>28444</budget>
+			<start_date>2026-12-03Z</start_date>
+			<end_date>2027-02-01Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 170</name>
+			<subject>Cloud Migration Program</subject>
+			<type>SUPPORT</type>
+			<process>DATA_GOVERNANCE</process>
+			<prio>1</prio>
+			<budget>119732</budget>
+			<start_date>2026-12-05Z</start_date>
+			<end_date>2027-03-05Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 171</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>CHANGE_MANAGEMENT</type>
+			<process>SUSTAINABILITY_INITIATIVE</process>
+			<prio>1</prio>
+			<budget>219480</budget>
+			<start_date>2026-12-07Z</start_date>
+			<end_date>2027-06-05Z</end_date>
+			<duration>P6M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 172</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>DIGITAL_OFFICE</type>
+			<process>PREVENTIVE_MAINTENANCE</process>
+			<prio>2</prio>
+			<budget>100769</budget>
+			<start_date>2026-12-09Z</start_date>
+			<end_date>2027-03-09Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 173</name>
+			<subject>Strategic Market Entry</subject>
+			<type>PRODUCT_MANAGEMENT</type>
+			<process>PRODUCT_LAUNCH</process>
+			<prio>1</prio>
+			<budget>30272</budget>
+			<start_date>2026-12-11Z</start_date>
+			<end_date>2027-03-11Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 174</name>
+			<subject>Strategic Market Entry</subject>
+			<type>PROCUREMENT</type>
+			<process>PROJECT_DELIVERY</process>
+			<prio>2</prio>
+			<budget>231549</budget>
+			<start_date>2026-12-13Z</start_date>
+			<end_date>2027-04-12Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 175</name>
+			<subject>Security Enhancement Program</subject>
+			<type>SUPPLY_CHAIN</type>
+			<process>PROCUREMENT_APPROVAL</process>
+			<prio>1</prio>
+			<budget>76711</budget>
+			<start_date>2026-12-15Z</start_date>
+			<end_date>2027-05-14Z</end_date>
+			<duration>P5M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 176</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>LEGAL_CASE_REVIEW</process>
+			<prio>1</prio>
+			<budget>240213</budget>
+			<start_date>2026-12-17Z</start_date>
+			<end_date>2027-04-16Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 177</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>ANALYTICS</type>
+			<process>QUALITY_ASSURANCE</process>
+			<prio>2</prio>
+			<budget>249709</budget>
+			<start_date>2026-12-19Z</start_date>
+			<end_date>2027-01-18Z</end_date>
+			<duration>P1M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 178</name>
+			<subject>Security Enhancement Program</subject>
+			<type>CLOUD_SERVICES</type>
+			<process>EMPLOYEE_ONBOARDING</process>
+			<prio>2</prio>
+			<budget>198791</budget>
+			<start_date>2026-12-21Z</start_date>
+			<end_date>2027-03-21Z</end_date>
+			<duration>P3M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 179</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>QUALITY_MANAGEMENT</type>
+			<process>RISK_EVALUATION</process>
+			<prio>2</prio>
+			<budget>133519</budget>
+			<start_date>2026-12-23Z</start_date>
+			<end_date>2027-05-22Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 180</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>VENDOR_MANAGEMENT</type>
+			<process>TENDER_SUBMISSION</process>
+			<prio>3</prio>
+			<budget>53168</budget>
+			<start_date>2026-12-25Z</start_date>
+			<end_date>2027-02-23Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 181</name>
+			<subject>Cloud Migration Program</subject>
+			<type>INNOVATION</type>
+			<process>RFP_MANAGEMENT</process>
+			<prio>2</prio>
+			<budget>179936</budget>
+			<start_date>2026-12-27Z</start_date>
+			<end_date>2027-04-26Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 182</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>FINANCE</type>
+			<process>PREVENTIVE_MAINTENANCE</process>
+			<prio>1</prio>
+			<budget>120294</budget>
+			<start_date>2026-12-29Z</start_date>
+			<end_date>2027-04-28Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 183</name>
+			<subject>Cloud Migration Program</subject>
+			<type>TRANSFORMATION_OFFICE</type>
+			<process>STAKEHOLDER_REPORTING</process>
+			<prio>3</prio>
+			<budget>115672</budget>
+			<start_date>2026-12-31Z</start_date>
+			<end_date>2027-01-30Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 184</name>
+			<subject>Operational Excellence Program</subject>
+			<type>SALES</type>
+			<process>PREVENTIVE_MAINTENANCE</process>
+			<prio>2</prio>
+			<budget>9556</budget>
+			<start_date>2027-01-02Z</start_date>
+			<end_date>2027-02-01Z</end_date>
+			<duration>P1M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 185</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>LEGAL</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>2</prio>
+			<budget>138141</budget>
+			<start_date>2027-01-04Z</start_date>
+			<end_date>2027-06-03Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 186</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>TREASURY</type>
+			<process>STRATEGIC_PLANNING</process>
+			<prio>3</prio>
+			<budget>20040</budget>
+			<start_date>2027-01-06Z</start_date>
+			<end_date>2027-03-07Z</end_date>
+			<duration>P2M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 187</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>CHANGE_MANAGEMENT</type>
+			<process>SUSTAINABILITY_INITIATIVE</process>
+			<prio>2</prio>
+			<budget>70710</budget>
+			<start_date>2027-01-08Z</start_date>
+			<end_date>2027-05-08Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 188</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>FINANCE</type>
+			<process>EXPENSE_APPROVAL</process>
+			<prio>3</prio>
+			<budget>96720</budget>
+			<start_date>2027-01-10Z</start_date>
+			<end_date>2027-05-10Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 189</name>
+			<subject>Operational Excellence Program</subject>
+			<type>COMPLIANCE</type>
+			<process>INTERNAL_AUDIT</process>
+			<prio>3</prio>
+			<budget>154744</budget>
+			<start_date>2027-01-12Z</start_date>
+			<end_date>2027-07-11Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 190</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>SUPPLY_CHAIN</type>
+			<process>INFRASTRUCTURE_UPGRADE</process>
+			<prio>2</prio>
+			<budget>136483</budget>
+			<start_date>2027-01-14Z</start_date>
+			<end_date>2027-04-14Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 191</name>
+			<subject>Strategic Market Entry</subject>
+			<type>FACILITIES</type>
+			<process>SERVICE_FULFILLMENT</process>
+			<prio>2</prio>
+			<budget>212062</budget>
+			<start_date>2027-01-16Z</start_date>
+			<end_date>2027-05-16Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 192</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>INFRASTRUCTURE</type>
+			<process>RFP_MANAGEMENT</process>
+			<prio>3</prio>
+			<budget>85919</budget>
+			<start_date>2027-01-18Z</start_date>
+			<end_date>2027-07-17Z</end_date>
+			<duration>P6M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 193</name>
+			<subject>Security Enhancement Program</subject>
+			<type>SUSTAINABILITY</type>
+			<process>TENDER_SUBMISSION</process>
+			<prio>1</prio>
+			<budget>141320</budget>
+			<start_date>2027-01-20Z</start_date>
+			<end_date>2027-07-19Z</end_date>
+			<duration>P6M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 194</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>LEGAL</type>
+			<process>SUPPLIER_AUDIT</process>
+			<prio>1</prio>
+			<budget>78431</budget>
+			<start_date>2027-01-22Z</start_date>
+			<end_date>2027-07-21Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 195</name>
+			<subject>Security Enhancement Program</subject>
+			<type>EXECUTIVE_OFFICE</type>
+			<process>INVOICE_PROCESSING</process>
+			<prio>3</prio>
+			<budget>59999</budget>
+			<start_date>2027-01-24Z</start_date>
+			<end_date>2027-04-24Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 196</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>APPLICATIONS</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>2</prio>
+			<budget>120158</budget>
+			<start_date>2027-01-26Z</start_date>
+			<end_date>2027-05-26Z</end_date>
+			<duration>P4M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 197</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>CLOUD_SERVICES</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>3</prio>
+			<budget>198112</budget>
+			<start_date>2027-01-28Z</start_date>
+			<end_date>2027-06-27Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 198</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>SECURITY</type>
+			<process>DATA_GOVERNANCE</process>
+			<prio>1</prio>
+			<budget>194998</budget>
+			<start_date>2027-01-30Z</start_date>
+			<end_date>2027-03-01Z</end_date>
+			<duration>P1M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 199</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>PORTFOLIO_MANAGEMENT</type>
+			<process>KNOWLEDGE_TRANSFER</process>
+			<prio>2</prio>
+			<budget>199818</budget>
+			<start_date>2027-02-01Z</start_date>
+			<end_date>2027-04-02Z</end_date>
+			<duration>P2M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 200</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>SUPPORT</type>
+			<process>DATA_GOVERNANCE</process>
+			<prio>2</prio>
+			<budget>123190</budget>
+			<start_date>2027-02-03Z</start_date>
+			<end_date>2027-06-03Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 201</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>FINANCE</type>
+			<process>STAKEHOLDER_REPORTING</process>
+			<prio>2</prio>
+			<budget>196376</budget>
+			<start_date>2027-02-05Z</start_date>
+			<end_date>2027-07-05Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 202</name>
+			<subject>Security Enhancement Program</subject>
+			<type>PRODUCT_MANAGEMENT</type>
+			<process>COMPLIANCE_INVESTIGATION</process>
+			<prio>2</prio>
+			<budget>43473</budget>
+			<start_date>2027-02-07Z</start_date>
+			<end_date>2027-08-06Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 203</name>
+			<subject>Strategic Market Entry</subject>
+			<type>TREASURY</type>
+			<process>INFRASTRUCTURE_UPGRADE</process>
+			<prio>2</prio>
+			<budget>175588</budget>
+			<start_date>2027-02-09Z</start_date>
+			<end_date>2027-05-10Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 204</name>
+			<subject>Security Enhancement Program</subject>
+			<type>SUSTAINABILITY</type>
+			<process>ERP_IMPLEMENTATION</process>
+			<prio>1</prio>
+			<budget>159046</budget>
+			<start_date>2027-02-11Z</start_date>
+			<end_date>2027-03-13Z</end_date>
+			<duration>P1M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 205</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>ANALYTICS</type>
+			<process>PERFORMANCE_REVIEW</process>
+			<prio>1</prio>
+			<budget>52860</budget>
+			<start_date>2027-02-13Z</start_date>
+			<end_date>2027-08-12Z</end_date>
+			<duration>P6M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 206</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>PROGRAM_MANAGEMENT</type>
+			<process>APPLICATION_MODERNIZATION</process>
+			<prio>3</prio>
+			<budget>231107</budget>
+			<start_date>2027-02-15Z</start_date>
+			<end_date>2027-07-15Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 207</name>
+			<subject>Security Enhancement Program</subject>
+			<type>LEGAL</type>
+			<process>DATA_MIGRATION</process>
+			<prio>3</prio>
+			<budget>173598</budget>
+			<start_date>2027-02-17Z</start_date>
+			<end_date>2027-07-17Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 208</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>DIGITAL_OFFICE</type>
+			<process>ERP_IMPLEMENTATION</process>
+			<prio>3</prio>
+			<budget>69695</budget>
+			<start_date>2027-02-19Z</start_date>
+			<end_date>2027-06-19Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 209</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>CHANGE_MANAGEMENT</type>
+			<process>CUSTOMER_COMPLAINT_HANDLING</process>
+			<prio>2</prio>
+			<budget>216743</budget>
+			<start_date>2027-02-21Z</start_date>
+			<end_date>2027-04-22Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 210</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>MARKETING</type>
+			<process>INCIDENT_RESOLUTION</process>
+			<prio>2</prio>
+			<budget>47557</budget>
+			<start_date>2027-02-23Z</start_date>
+			<end_date>2027-06-23Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 211</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>COMPLIANCE</type>
+			<process>POLICY_REVISION</process>
+			<prio>2</prio>
+			<budget>36460</budget>
+			<start_date>2027-02-25Z</start_date>
+			<end_date>2027-06-25Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 212</name>
+			<subject>Operational Excellence Program</subject>
+			<type>INFRASTRUCTURE</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>3</prio>
+			<budget>244663</budget>
+			<start_date>2027-02-27Z</start_date>
+			<end_date>2027-06-27Z</end_date>
+			<duration>P4M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 213</name>
+			<subject>Strategic Market Entry</subject>
+			<type>FINANCE</type>
+			<process>APPLICATION_MODERNIZATION</process>
+			<prio>3</prio>
+			<budget>66701</budget>
+			<start_date>2027-03-01Z</start_date>
+			<end_date>2027-07-29Z</end_date>
+			<duration>P5M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 214</name>
+			<subject>Cloud Migration Program</subject>
+			<type>INNOVATION</type>
+			<process>CUSTOMER_COMPLAINT_HANDLING</process>
+			<prio>2</prio>
+			<budget>26134</budget>
+			<start_date>2027-03-03Z</start_date>
+			<end_date>2027-06-01Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 215</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>APPLICATIONS</type>
+			<process>CUSTOMER_COMPLAINT_HANDLING</process>
+			<prio>1</prio>
+			<budget>43150</budget>
+			<start_date>2027-03-05Z</start_date>
+			<end_date>2027-07-03Z</end_date>
+			<duration>P4M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 216</name>
+			<subject>ERP Optimization</subject>
+			<type>MARKETING</type>
+			<process>SUSTAINABILITY_INITIATIVE</process>
+			<prio>3</prio>
+			<budget>55342</budget>
+			<start_date>2027-03-07Z</start_date>
+			<end_date>2027-07-05Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 217</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>INTERNAL_CONTROL</type>
+			<process>RISK_EVALUATION</process>
+			<prio>1</prio>
+			<budget>184686</budget>
+			<start_date>2027-03-09Z</start_date>
+			<end_date>2027-04-08Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 218</name>
+			<subject>Operational Excellence Program</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>MANDA_EVALUATION</process>
+			<prio>1</prio>
+			<budget>140177</budget>
+			<start_date>2027-03-11Z</start_date>
+			<end_date>2027-05-10Z</end_date>
+			<duration>P2M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 219</name>
+			<subject>Strategic Market Entry</subject>
+			<type>INFRASTRUCTURE</type>
+			<process>EMPLOYEE_ONBOARDING</process>
+			<prio>3</prio>
+			<budget>232164</budget>
+			<start_date>2027-03-13Z</start_date>
+			<end_date>2027-04-12Z</end_date>
+			<duration>P1M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 220</name>
+			<subject>Cloud Migration Program</subject>
+			<type>INNOVATION</type>
+			<process>ASSET_LIFECYCLE_MANAGEMENT</process>
+			<prio>3</prio>
+			<budget>40092</budget>
+			<start_date>2027-03-15Z</start_date>
+			<end_date>2027-08-12Z</end_date>
+			<duration>P5M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 221</name>
+			<subject>Operational Excellence Program</subject>
+			<type>FINANCE</type>
+			<process>BUDGET_PLANNING</process>
+			<prio>1</prio>
+			<budget>89785</budget>
+			<start_date>2027-03-17Z</start_date>
+			<end_date>2027-07-15Z</end_date>
+			<duration>P4M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 222</name>
+			<subject>ERP Optimization</subject>
+			<type>PROCUREMENT</type>
+			<process>EMPLOYEE_ONBOARDING</process>
+			<prio>2</prio>
+			<budget>57623</budget>
+			<start_date>2027-03-19Z</start_date>
+			<end_date>2027-08-16Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 223</name>
+			<subject>ERP Optimization</subject>
+			<type>VENDOR_MANAGEMENT</type>
+			<process>SECURITY_ASSESSMENT</process>
+			<prio>1</prio>
+			<budget>6037</budget>
+			<start_date>2027-03-21Z</start_date>
+			<end_date>2027-04-20Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 224</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>OPERATIONS</type>
+			<process>CLOUD_ADOPTION</process>
+			<prio>3</prio>
+			<budget>85266</budget>
+			<start_date>2027-03-23Z</start_date>
+			<end_date>2027-09-19Z</end_date>
+			<duration>P6M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 225</name>
+			<subject>Cost Optimization Initiative</subject>
+			<type>INTERNAL_CONTROL</type>
+			<process>LEGAL_CASE_REVIEW</process>
+			<prio>1</prio>
+			<budget>197985</budget>
+			<start_date>2027-03-25Z</start_date>
+			<end_date>2027-08-22Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 226</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>TRAINING</type>
+			<process>TRAINING_PROGRAM</process>
+			<prio>3</prio>
+			<budget>39680</budget>
+			<start_date>2027-03-27Z</start_date>
+			<end_date>2027-06-25Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 227</name>
+			<subject>Regulatory Update Implementation</subject>
+			<type>PRODUCT_MANAGEMENT</type>
+			<process>TENDER_SUBMISSION</process>
+			<prio>2</prio>
+			<budget>53440</budget>
+			<start_date>2027-03-29Z</start_date>
+			<end_date>2027-06-27Z</end_date>
+			<duration>P3M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 228</name>
+			<subject>Operational Excellence Program</subject>
+			<type>CLOUD_SERVICES</type>
+			<process>MARKET_EXPANSION</process>
+			<prio>3</prio>
+			<budget>233212</budget>
+			<start_date>2027-03-31Z</start_date>
+			<end_date>2027-06-29Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 229</name>
+			<subject>Vendor Contract Renewal</subject>
+			<type>SECURITY</type>
+			<process>APPLICATION_MODERNIZATION</process>
+			<prio>1</prio>
+			<budget>117401</budget>
+			<start_date>2027-04-02Z</start_date>
+			<end_date>2027-07-01Z</end_date>
+			<duration>P3M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 230</name>
+			<subject>Strategic Market Entry</subject>
+			<type>VENDOR_MANAGEMENT</type>
+			<process>RISK_EVALUATION</process>
+			<prio>1</prio>
+			<budget>10403</budget>
+			<start_date>2027-04-04Z</start_date>
+			<end_date>2027-06-03Z</end_date>
+			<duration>P2M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 231</name>
+			<subject>ERP Optimization</subject>
+			<type>PROGRAM_MANAGEMENT</type>
+			<process>CUSTOMER_COMPLAINT_HANDLING</process>
+			<prio>3</prio>
+			<budget>241022</budget>
+			<start_date>2027-04-06Z</start_date>
+			<end_date>2027-05-06Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 232</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>CORPORATE_AFFAIRS</type>
+			<process>RISK_EVALUATION</process>
+			<prio>3</prio>
+			<budget>204515</budget>
+			<start_date>2027-04-08Z</start_date>
+			<end_date>2027-05-08Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 233</name>
+			<subject>Operational Excellence Program</subject>
+			<type>FINANCE</type>
+			<process>MANDA_EVALUATION</process>
+			<prio>2</prio>
+			<budget>212253</budget>
+			<start_date>2027-04-10Z</start_date>
+			<end_date>2027-06-09Z</end_date>
+			<duration>P2M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 234</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>PORTFOLIO_MANAGEMENT</type>
+			<process>INTERNAL_AUDIT</process>
+			<prio>3</prio>
+			<budget>169268</budget>
+			<start_date>2027-04-12Z</start_date>
+			<end_date>2027-10-09Z</end_date>
+			<duration>P6M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 235</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>RESEARCH</type>
+			<process>CUSTOMER_ACTIVATION</process>
+			<prio>3</prio>
+			<budget>13110</budget>
+			<start_date>2027-04-14Z</start_date>
+			<end_date>2027-10-11Z</end_date>
+			<duration>P6M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Strategic Market Entry 236</name>
+			<subject>Operational Excellence Program</subject>
+			<type>CUSTOMER_SERVICE</type>
+			<process>INVESTMENT_REVIEW</process>
+			<prio>3</prio>
+			<budget>123911</budget>
+			<start_date>2027-04-16Z</start_date>
+			<end_date>2027-09-13Z</end_date>
+			<duration>P5M</duration>
+			<description>A cross-departmental effort to ensure compliance and measurable business impact.</description>
+		</case>
+		<case>
+			<name>Operational Excellence Program 237</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>RESEARCH</type>
+			<process>PERFORMANCE_REVIEW</process>
+			<prio>2</prio>
+			<budget>166910</budget>
+			<start_date>2027-04-18Z</start_date>
+			<end_date>2027-06-17Z</end_date>
+			<duration>P2M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Sustainability Reporting Framework 238</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>GOVERNANCE</type>
+			<process>MANDA_EVALUATION</process>
+			<prio>3</prio>
+			<budget>68594</budget>
+			<start_date>2027-04-20Z</start_date>
+			<end_date>2027-10-17Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Business Intelligence Deployment 239</name>
+			<subject>Infrastructure Modernization</subject>
+			<type>SUPPLY_CHAIN</type>
+			<process>PRODUCT_LAUNCH</process>
+			<prio>3</prio>
+			<budget>173104</budget>
+			<start_date>2027-04-22Z</start_date>
+			<end_date>2027-10-19Z</end_date>
+			<duration>P6M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Compliance Audit Preparation 240</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>EXECUTIVE_OFFICE</type>
+			<process>SUPPLIER_AUDIT</process>
+			<prio>2</prio>
+			<budget>14436</budget>
+			<start_date>2027-04-24Z</start_date>
+			<end_date>2027-05-24Z</end_date>
+			<duration>P1M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Infrastructure Modernization 241</name>
+			<subject>Security Enhancement Program</subject>
+			<type>PROCUREMENT</type>
+			<process>PAYROLL_PROCESSING</process>
+			<prio>1</prio>
+			<budget>75409</budget>
+			<start_date>2027-04-26Z</start_date>
+			<end_date>2027-07-25Z</end_date>
+			<duration>P3M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Cloud Migration Program 242</name>
+			<subject>Business Intelligence Deployment</subject>
+			<type>REGULATORY_AFFAIRS</type>
+			<process>APPLICATION_MODERNIZATION</process>
+			<prio>1</prio>
+			<budget>158344</budget>
+			<start_date>2027-04-28Z</start_date>
+			<end_date>2027-10-25Z</end_date>
+			<duration>P6M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Customer Experience Improvement 243</name>
+			<subject>Sustainability Reporting Framework</subject>
+			<type>ACCOUNTING</type>
+			<process>INVOICE_PROCESSING</process>
+			<prio>3</prio>
+			<budget>156824</budget>
+			<start_date>2027-04-30Z</start_date>
+			<end_date>2027-08-28Z</end_date>
+			<duration>P4M</duration>
+			<description>Supports regulatory alignment and strengthens internal governance controls.</description>
+		</case>
+		<case>
+			<name>Regulatory Update Implementation 244</name>
+			<subject>Customer Experience Improvement</subject>
+			<type>SALES</type>
+			<process>RFP_MANAGEMENT</process>
+			<prio>3</prio>
+			<budget>127788</budget>
+			<start_date>2027-05-02Z</start_date>
+			<end_date>2027-07-31Z</end_date>
+			<duration>P3M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+		<case>
+			<name>Cost Optimization Initiative 245</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>PORTFOLIO_MANAGEMENT</type>
+			<process>BUDGET_PLANNING</process>
+			<prio>3</prio>
+			<budget>171797</budget>
+			<start_date>2027-05-04Z</start_date>
+			<end_date>2027-08-02Z</end_date>
+			<duration>P3M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Digital Workplace Rollout 246</name>
+			<subject>Digital Workplace Rollout</subject>
+			<type>SHARED_SERVICES</type>
+			<process>QUALITY_ASSURANCE</process>
+			<prio>2</prio>
+			<budget>123151</budget>
+			<start_date>2027-05-06Z</start_date>
+			<end_date>2027-10-03Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Data Platform Upgrade 247</name>
+			<subject>Data Platform Upgrade</subject>
+			<type>BUSINESS_DEVELOPMENT</type>
+			<process>PREVENTIVE_MAINTENANCE</process>
+			<prio>2</prio>
+			<budget>76100</budget>
+			<start_date>2027-05-08Z</start_date>
+			<end_date>2027-10-05Z</end_date>
+			<duration>P5M</duration>
+			<description>A transformation initiative aimed at improving scalability and performance.</description>
+		</case>
+		<case>
+			<name>Security Enhancement Program 248</name>
+			<subject>Compliance Audit Preparation</subject>
+			<type>INFRASTRUCTURE</type>
+			<process>INVESTMENT_REVIEW</process>
+			<prio>1</prio>
+			<budget>244486</budget>
+			<start_date>2027-05-10Z</start_date>
+			<end_date>2027-06-09Z</end_date>
+			<duration>P1M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>Vendor Contract Renewal 249</name>
+			<subject>Operational Excellence Program</subject>
+			<type>FACILITIES</type>
+			<process>PERFORMANCE_REVIEW</process>
+			<prio>2</prio>
+			<budget>45123</budget>
+			<start_date>2027-05-12Z</start_date>
+			<end_date>2027-10-09Z</end_date>
+			<duration>P5M</duration>
+			<description>Designed to modernize systems and increase long-term organizational resilience.</description>
+		</case>
+		<case>
+			<name>ERP Optimization 250</name>
+			<subject>Security Enhancement Program</subject>
+			<type>FINANCE</type>
+			<process>INTERNAL_AUDIT</process>
+			<prio>1</prio>
+			<budget>63348</budget>
+			<start_date>2027-05-14Z</start_date>
+			<end_date>2027-06-13Z</end_date>
+			<duration>P1M</duration>
+			<description>This initiative focuses on improving operational efficiency and aligning with strategic objectives.</description>
+		</case>
+	</cases>
+</demo_data>
