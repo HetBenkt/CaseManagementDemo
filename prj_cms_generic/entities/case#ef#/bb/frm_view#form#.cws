@@ -3,12 +3,12 @@
 	xmlns:cws="http://schemas.cordys.com/cws/1.0"
 	type="com.cordys.entity.buildingblocks.form.Form"
 	typeVersion="833DF4E2-F154-4679-903D-BB3C991CF7CA"
-	RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc8147c8121">
-	<DocumentID>0800279a-adfe-a1f1-819d-2fc814700121</DocumentID>
-	<Name>Create</Name>
-	<Description>Create</Description>
+	RuntimeDocumentID="0800279a-adfe-a1f1-82e4-247755de263c">
+	<DocumentID>0800279a-adfe-a1f1-82e4-247755e5a63c</DocumentID>
+	<Name>frm_view</Name>
+	<Description>frm_view</Description>
 	<CreatedBy>OPA Developer</CreatedBy>
-	<CreationDate>2026-02-10T11:38:51.967</CreationDate>
+	<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 	<Notes/>
 	<FormType></FormType>
 	<BuildingBlock>
@@ -21,17 +21,17 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc814660121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc814598121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-247755d1a63c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-247755d9263c</DocumentID>
 			<Name>FormsFragment</Name>
 			<Description>FormsFragment</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.977</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>1</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814700121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755e5a63c</ComponentParentId>
 			<ComponentType>FormsFragment</ComponentType>
-			<Definition>{&quot;isContainer&quot;:true,&quot;componentId&quot;:&quot;1&quot;,&quot;componentType&quot;:&quot;FormsFragment&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814700121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;imageElementId&quot;:&quot;&quot;,&quot;nextHTMLContainerID&quot;:100,&quot;nextHTMLElementID&quot;:114,&quot;nextComponentID&quot;:114,&quot;presentationOptions&quot;:&quot;{\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;}&quot;,&quot;showTitleBar&quot;:false,&quot;oldFormId&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;collapsible&quot;:false,&quot;collapsed&quot;:false,&quot;lastAddedComponentId&quot;:&quot;114OTLayout&quot;,&quot;headerBackgroundColor&quot;:&quot;&quot;,&quot;gridCheckBoxBackgroundColor&quot;:&quot;&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;formId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814700121&quot;,&quot;formElementName&quot;:&quot;&quot;,&quot;heightOfForm&quot;:400,&quot;widthOfForm&quot;:851,&quot;isGridOn&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;OTLayoutFormsFragment\&quot;,\&quot;left\&quot;:0,\&quot;top\&quot;:0,\&quot;right\&quot;:0,\&quot;bottom\&quot;:0,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:0,\&quot;topBasePx\&quot;:0,\&quot;widthBasePx\&quot;:0,\&quot;heightBasePx\&quot;:0,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
+			<Definition>{&quot;isContainer&quot;:true,&quot;componentId&quot;:&quot;1&quot;,&quot;componentType&quot;:&quot;FormsFragment&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-82e4-247755e5a63c&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-82e4-247755d9263c&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;imageElementId&quot;:&quot;&quot;,&quot;nextHTMLContainerID&quot;:100,&quot;nextHTMLElementID&quot;:114,&quot;nextComponentID&quot;:114,&quot;presentationOptions&quot;:&quot;{\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;}&quot;,&quot;showTitleBar&quot;:false,&quot;oldFormId&quot;:&quot;&quot;,&quot;title&quot;:&quot;&quot;,&quot;collapsible&quot;:false,&quot;collapsed&quot;:false,&quot;lastAddedComponentId&quot;:&quot;114OTLayout&quot;,&quot;headerBackgroundColor&quot;:&quot;&quot;,&quot;gridCheckBoxBackgroundColor&quot;:&quot;&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;formId&quot;:&quot;0800279a-adfe-a1f1-82e4-247755e5a63c&quot;,&quot;formElementName&quot;:&quot;&quot;,&quot;heightOfForm&quot;:400,&quot;widthOfForm&quot;:851,&quot;isGridOn&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;OTLayoutFormsFragment\&quot;,\&quot;left\&quot;:0,\&quot;top\&quot;:0,\&quot;right\&quot;:0,\&quot;bottom\&quot;:0,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:0,\&quot;topBasePx\&quot;:0,\&quot;widthBasePx\&quot;:0,\&quot;heightBasePx\&quot;:0,\&quot;labelHeightBasePx\&quot;:25,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormTopContainerComponentType</ElementType>
 			<ElementTypeId>F1A7C0249CA3464CAE09FF03CE40B3E6</ElementTypeId>
 			<IsContainer>true</IsContainer>
@@ -60,15 +60,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc8144d0121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc814430121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-247755c5263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-247755cca63c</DocumentID>
 			<Name>FormPropertyComponentYXYDMUB0V5KK0ETLO8S2DA03UNSEATW2</Name>
 			<Description>FormPropertyComponentYXYDMUB0V5KK0ETLO8S2DA03UNSEATW2</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.957</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>101</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;101&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814430121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Name&quot;,&quot;required&quot;:true,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_name&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f4a6cbd19c34&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbd19c34&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Name\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_101\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:10,\&quot;right\&quot;:271,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:10,\&quot;widthBasePx\&quot;:271,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:271,\&quot;componentWidthBasePx\&quot;:271,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -90,7 +90,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -107,15 +107,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc814368121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc8142c8121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-247755ac263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-247755b3a63c</DocumentID>
 			<Name>FormPropertyComponentMMRSNUTJP9VO9LYWPGNR3QAS0CK82HG3</Name>
 			<Description>FormPropertyComponentMMRSNUTJP9VO9LYWPGNR3QAS0CK82HG3</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.958</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>102</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;102&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc8142c8121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Subject&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_subject&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f4a6cb661c34&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cb661c34&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Subject\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_102\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:73,\&quot;right\&quot;:271,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:73,\&quot;widthBasePx\&quot;:271,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:270,\&quot;componentWidthBasePx\&quot;:270,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -137,7 +137,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -154,15 +154,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc813918121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc813878121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-2477559d263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-247755a4a63c</DocumentID>
 			<Name>FormPropertyComponentXB2RGFQSKQNA9KKHX9QWUW901QO7JGRX</Name>
 			<Description>FormPropertyComponentXB2RGFQSKQNA9KKHX9QWUW901QO7JGRX</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.959</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>109</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;109&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc813878121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Description&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_description&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f9ec3b7b94fe&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f9ec3b7b94fe&quot;,&quot;presentation&quot;:&quot;dataEntryMultilineText&quot;,&quot;dataType&quot;:&quot;LongText&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Description\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_109\&quot;,\&quot;left\&quot;:490,\&quot;top\&quot;:10,\&quot;right\&quot;:351,\&quot;bottom\&quot;:346,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:490,\&quot;topBasePx\&quot;:10,\&quot;widthBasePx\&quot;:351,\&quot;heightBasePx\&quot;:346,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:351,\&quot;componentWidthBasePx\&quot;:351,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:346,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -184,7 +184,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -201,15 +201,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc814228121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc814188121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-2477558e263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-24775595a63c</DocumentID>
 			<Name>FormPropertyComponentRR9FP8FAW1DANYVK3Q984IUEWKUOMUAK</Name>
 			<Description>FormPropertyComponentRR9FP8FAW1DANYVK3Q984IUEWKUOMUAK</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.956</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>103</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;103&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814188121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Budget&quot;,&quot;required&quot;:true,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_budget&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f9ec3f0994fe&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f9ec3f0994fe&quot;,&quot;presentation&quot;:&quot;dataEntryText&quot;,&quot;dataType&quot;:&quot;Currency&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;right\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Budget\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_103\&quot;,\&quot;left\&quot;:290,\&quot;top\&quot;:10,\&quot;right\&quot;:190,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:290,\&quot;topBasePx\&quot;:10,\&quot;widthBasePx\&quot;:190,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:190,\&quot;componentWidthBasePx\&quot;:190,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -231,7 +231,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -248,15 +248,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc814098121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc813fd0121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-2477557f263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-24775586a63c</DocumentID>
 			<Name>FormPropertyComponentSFGMR9K6OK9G3YP7AH6BP48UWVMLW0P7</Name>
 			<Description>FormPropertyComponentSFGMR9K6OK9G3YP7AH6BP48UWVMLW0P7</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.974</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>104</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;104&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc813fd0121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Start date&quot;,&quot;required&quot;:true,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_start_date&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f9ec3e8294fe&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f9ec3e8294fe&quot;,&quot;presentation&quot;:&quot;dataEntryDate&quot;,&quot;dataType&quot;:&quot;Date&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Start date\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_104\&quot;,\&quot;left\&quot;:290,\&quot;top\&quot;:73,\&quot;right\&quot;:190,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:290,\&quot;topBasePx\&quot;:73,\&quot;widthBasePx\&quot;:190,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:190,\&quot;componentWidthBasePx\&quot;:190,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -278,7 +278,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -295,15 +295,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc813f30121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc813e68121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-24775570263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-24775575263c</DocumentID>
 			<Name>FormPropertyComponentXVBX5XULHBG6QUARV8T3AP7HF8UHMCMM</Name>
 			<Description>FormPropertyComponentXVBX5XULHBG6QUARV8T3AP7HF8UHMCMM</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.959</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>105</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;105&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc813e68121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;End date&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_end_date&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f9ec3df694fe&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f9ec3df694fe&quot;,&quot;presentation&quot;:&quot;dataEntryDate&quot;,&quot;dataType&quot;:&quot;Date&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;End date\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_105\&quot;,\&quot;left\&quot;:290,\&quot;top\&quot;:136,\&quot;right\&quot;:190,\&quot;bottom\&quot;:58,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:290,\&quot;topBasePx\&quot;:136,\&quot;widthBasePx\&quot;:190,\&quot;heightBasePx\&quot;:58,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:190,\&quot;componentWidthBasePx\&quot;:190,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:58,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -325,7 +325,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -342,15 +342,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc813d78121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc813cb0121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-24775561263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-24775566263c</DocumentID>
 			<Name>FormPropertyComponentYQ3BF0F1S3XY2B5D3MFYHX5WJ3F6ICN3</Name>
 			<Description>FormPropertyComponentYQ3BF0F1S3XY2B5D3MFYHX5WJ3F6ICN3</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.956</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>106</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;106&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc813cb0121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Duration&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_duration&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f9ec3d5414fe&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f9ec3d5414fe&quot;,&quot;presentation&quot;:&quot;dataEntryDuration&quot;,&quot;dataType&quot;:&quot;Duration&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Duration\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{\&quot;option\&quot;:[\&quot;Months\&quot;,\&quot;Days\&quot;,\&quot;Hours\&quot;,\&quot;Minutes\&quot;]}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_106\&quot;,\&quot;left\&quot;:290,\&quot;top\&quot;:199,\&quot;right\&quot;:190,\&quot;bottom\&quot;:50,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:290,\&quot;topBasePx\&quot;:199,\&quot;widthBasePx\&quot;:190,\&quot;heightBasePx\&quot;:50,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:190,\&quot;componentWidthBasePx\&quot;:190,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:50,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -372,7 +372,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -389,15 +389,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-8200-5bbe473c8cd7">
-			<DocumentID>0800279a-adfe-a1f1-8200-5bbe472d8cd7</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-24775552263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-24775559a63c</DocumentID>
 			<Name>FormEntityComponentEJFLN22BBON5YG7W7M5FCB02PGDYG9MX</Name>
 			<Description>FormEntityComponentEJFLN22BBON5YG7W7M5FCB02PGDYG9MX</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-12T11:03:59.468</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>112</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>EntityComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;112&quot;,&quot;componentType&quot;:&quot;EntityComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-8200-5bbe472d8cd7&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;to_one_type&quot;,&quot;context&quot;:&quot;to_one_type&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-81ff-cf58117c2a9a&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;sourceElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;relationElementId&quot;:&quot;0800279a-adfe-a1f1-81ff-cf58117c2a9a&quot;,&quot;targetElementId&quot;:&quot;0800279a-adfe-a1f1-81ff-78244c952b07&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-81ff-6da27c809ca9&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-81ff-58dd5bcbba3a&quot;,&quot;extraContextId&quot;:&quot;&quot;,&quot;alternateText&quot;:&quot;Type&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;}&quot;,&quot;worklistElementId&quot;:&quot;0800279a-adfe-a1f1-81ff-bdb3281c1ca9&quot;,&quot;sortdata&quot;:&quot;&quot;,&quot;sortColumnReferenceElementId&quot;:&quot;&quot;,&quot;hasConstrain&quot;:false,&quot;required&quot;:true,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;showChoose&quot;:false,&quot;showClear&quot;:false,&quot;showCreate&quot;:false,&quot;showOpen&quot;:false,&quot;propertyGroupId&quot;:&quot;0800279a-adfe-a1f1-81ff-cf58117c2a9a_0800279a-adfe-a1f1-81ff-cf5811902a9a&quot;,&quot;lazyLoadingEnabled&quot;:false,&quot;lazyLoadOnExpand&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;cursorCount&quot;:&quot;20&quot;,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_112\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:136,\&quot;right\&quot;:271,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:136,\&quot;widthBasePx\&quot;:271,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:271,\&quot;componentWidthBasePx\&quot;:271,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormEntityComponent</ElementType>
@@ -418,12 +418,12 @@
 				<TranslatableText
 					type="com.cordys.translation.TranslatableText"
 					typeVersion="FC58ED95-5D9A-4D1D-9A84-8D03E2528B67"
-					RuntimeDocumentID="0800279a-adfe-a1f1-8200-5bbe47120cd7">
-					<DocumentID>0800279a-adfe-a1f1-8200-5bbe470a8cd7</DocumentID>
+					RuntimeDocumentID="0800279a-adfe-a1f1-82e4-24775545a63c">
+					<DocumentID>0800279a-adfe-a1f1-82e4-2477554aa63c</DocumentID>
 					<Name>0800279a-adfe-a1f1-8200-5bbe470a8cd7</Name>
 					<Description>0800279a-adfe-a1f1-8200-5bbe470a8cd7</Description>
 					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-12T11:03:59.468</CreationDate>
+					<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 					<Notes/>
 					<DeveloperText>Type</DeveloperText>
 					<Identifier>
@@ -437,7 +437,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -460,23 +460,23 @@
 			<RelationshipPath>
 				<RelationshipObjectPath
 					type="com.cordys.entity.core.objectpath.RelationshipObjectPath"
-					RuntimeDocumentID="0800279a-adfe-a1f1-8200-5bbe47238cd7">
-					<DocumentID>0800279a-adfe-a1f1-8200-5bbe471c0cd7</DocumentID>
+					RuntimeDocumentID="0800279a-adfe-a1f1-82e4-24775536a63c">
+					<DocumentID>0800279a-adfe-a1f1-82e4-2477553e263c</DocumentID>
 					<Name>Untitled Relationship Object Path</Name>
 					<Description>Untitled Relationship Object Path</Description>
 					<CreatedBy>OPA Developer</CreatedBy>
-					<CreationDate>2026-02-12T11:03:59.467</CreationDate>
+					<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 					<Notes/>
 					<NumberOfIntermediateRelationships>0</NumberOfIntermediateRelationships>
 					<IntermediateRelationships/>
 					<Object>
 						<uri
-							id="0800279a-adfe-a1f1-8200-5bbe472d8cd7"
+							id="0800279a-adfe-a1f1-82e4-24775559a63c"
 						/>
 					</Object>
 					<ObjectOwner>
 						<uri
-							id="0800279a-adfe-a1f1-819d-2fc814700121"
+							id="0800279a-adfe-a1f1-82e4-247755e5a63c"
 						/>
 					</ObjectOwner>
 					<PathBegin>
@@ -500,15 +500,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc813c10121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc813b48121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-24775525263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-2477552f263c</DocumentID>
 			<Name>FormPropertyComponentLDJUCNU3DUE9MNHC3NM6DSNMITY9SIT3</Name>
 			<Description>FormPropertyComponentLDJUCNU3DUE9MNHC3NM6DSNMITY9SIT3</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.967</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>107</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;107&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc813b48121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Logo&quot;,&quot;required&quot;:false,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_logo&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f9ec3ca294fe&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f9ec3ca294fe&quot;,&quot;presentation&quot;:&quot;dataEntryImage&quot;,&quot;dataType&quot;:&quot;Image&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:false,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Logo\&quot;,\&quot;showLabel\&quot;:false}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_107\&quot;,\&quot;left\&quot;:290,\&quot;top\&quot;:260,\&quot;right\&quot;:130,\&quot;bottom\&quot;:130,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:290,\&quot;topBasePx\&quot;:260,\&quot;widthBasePx\&quot;:130,\&quot;heightBasePx\&quot;:130,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:130,\&quot;componentWidthBasePx\&quot;:130,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:130,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -530,7 +530,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -547,15 +547,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-819d-2fc8137d8121">
-			<DocumentID>0800279a-adfe-a1f1-819d-2fc813738121</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-2477550c263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-2477551da63c</DocumentID>
 			<Name>FormPropertyComponentAIP2UGDTUM0V0UOFP0G186ODEY7IDS2K</Name>
 			<Description>FormPropertyComponentAIP2UGDTUM0V0UOFP0G186ODEY7IDS2K</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-10T11:38:51.96</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>110</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;110&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-819d-2fc813738121&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;Process&quot;,&quot;required&quot;:true,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_process&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819c-f9ec3a8194fe&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819c-f9ec3a8194fe&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Process\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_110\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:200,\&quot;right\&quot;:271,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:200,\&quot;widthBasePx\&quot;:271,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:270,\&quot;componentWidthBasePx\&quot;:270,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -577,7 +577,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -594,15 +594,15 @@
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
 			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-8296-ab336ef0b22d">
-			<DocumentID>0800279a-adfe-a1f1-8296-ab336ee6b22d</DocumentID>
+			RuntimeDocumentID="0800279a-adfe-a1f1-82e4-247754ee263c">
+			<DocumentID>0800279a-adfe-a1f1-82e4-24775504a63c</DocumentID>
 			<Name>FormPropertyComponentBVKA395Y12LUC4YAFV46WOL46R93O1HH</Name>
 			<Description>FormPropertyComponentBVKA395Y12LUC4YAFV46WOL46R93O1HH</Description>
 			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-15T10:42:24.639</CreationDate>
+			<CreationDate>2026-02-16T23:46:29.9</CreationDate>
 			<Notes/>
 			<ComponentId>113</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
+			<ComponentParentId>0800279a-adfe-a1f1-82e4-247755d9263c</ComponentParentId>
 			<ComponentType>PropertyComponent</ComponentType>
 			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;113&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-8296-ab336ee6b22d&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;case_priority&quot;,&quot;required&quot;:true,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_priority&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-819d-2fc815998121&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc815998121&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;dataType&quot;:&quot;Integer&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Priority\&quot;,\&quot;showLabel\&quot;:true,\&quot;enumDisplayType\&quot;:\&quot;0\&quot;}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;restrictUpdateTarget&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_113\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:260,\&quot;right\&quot;:271,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:260,\&quot;widthBasePx\&quot;:271,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:270,\&quot;componentWidthBasePx\&quot;:270,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
 			<ElementType>FormPropertyComponent</ElementType>
@@ -624,7 +624,7 @@
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
+					id="0800279a-adfe-a1f1-82e4-247755d9263c"
 				/>
 			</ParentComponent>
 			<PathRelationships/>
@@ -633,53 +633,6 @@
 			<Property>
 				<uri
 					id="0800279a-adfe-a1f1-819d-2fc815998121"
-				/>
-			</Property>
-			<Relationship/>
-			<RelationshipPath/>
-		</FormComponent>
-		<FormComponent
-			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
-			RuntimeDocumentID="0800279a-adfe-a1f1-82e1-4830c1660cb2">
-			<DocumentID>0800279a-adfe-a1f1-82e1-4830c1598cb2</DocumentID>
-			<Name>FormPropertyComponentVXQA66OOTEFIQWND5IKIP2KNOKWVBYA5</Name>
-			<Description>FormPropertyComponentVXQA66OOTEFIQWND5IKIP2KNOKWVBYA5</Description>
-			<CreatedBy>OPA Developer</CreatedBy>
-			<CreationDate>2026-02-16T22:19:45.761</CreationDate>
-			<Notes/>
-			<ComponentId>114</ComponentId>
-			<ComponentParentId>0800279a-adfe-a1f1-819d-2fc814598121</ComponentParentId>
-			<ComponentType>PropertyComponent</ComponentType>
-			<Definition>{&quot;isContainer&quot;:false,&quot;componentId&quot;:&quot;114&quot;,&quot;componentType&quot;:&quot;PropertyComponent&quot;,&quot;componentParentId&quot;:&quot;0800279a-adfe-a1f1-819d-2fc814598121&quot;,&quot;id&quot;:&quot;0800279a-adfe-a1f1-82e1-4830c1598cb2&quot;,&quot;categories&quot;:&quot;&quot;,&quot;showOnMobile&quot;:true,&quot;autoResize&quot;:false,&quot;name&quot;:&quot;case_assignee&quot;,&quot;required&quot;:true,&quot;readOnly&quot;:false,&quot;requiredErrorMessage&quot;:&quot;&quot;,&quot;context&quot;:&quot;Properties.case_assignee&quot;,&quot;contextId&quot;:&quot;0800279a-adfe-a1f1-819c-f4a6cbea9c34.0800279a-adfe-a1f1-82e1-3c7fa0942076&quot;,&quot;entityElementId&quot;:&quot;0800279a-adfe-a1f1-819c-6ec3ee77a356&quot;,&quot;propertyElementId&quot;:&quot;0800279a-adfe-a1f1-82e1-3c7fa0942076&quot;,&quot;presentation&quot;:&quot;dataEntryDropList&quot;,&quot;dataType&quot;:&quot;Text&quot;,&quot;alternateText&quot;:&quot;&quot;,&quot;showLabel&quot;:true,&quot;presentationOptions&quot;:&quot;{\&quot;color\&quot;:\&quot;\&quot;,\&quot;fontWeight\&quot;:\&quot;\&quot;,\&quot;fontSize\&quot;:\&quot;\&quot;,\&quot;textDecoration\&quot;:\&quot;\&quot;,\&quot;textAlign\&quot;:\&quot;left\&quot;,\&quot;fontStyle\&quot;:\&quot;\&quot;,\&quot;fontFamily\&quot;:\&quot;\&quot;,\&quot;borderStyle\&quot;:\&quot;\&quot;,\&quot;borderWidth\&quot;:\&quot;\&quot;,\&quot;borderColor\&quot;:\&quot;\&quot;,\&quot;borderRadius\&quot;:\&quot;\&quot;,\&quot;backgroundColor\&quot;:\&quot;\&quot;,\&quot;label\&quot;:\&quot;Assignee\&quot;,\&quot;showLabel\&quot;:true}&quot;,&quot;currencyOptions&quot;:&quot;{}&quot;,&quot;durationOptions&quot;:&quot;{}&quot;,&quot;formatOptions&quot;:&quot;{}&quot;,&quot;labelPosition&quot;:&quot;top&quot;,&quot;labelAlignment&quot;:&quot;left&quot;,&quot;isLeftResized&quot;:false,&quot;isRightResized&quot;:false,&quot;enableTypeAhead&quot;:false,&quot;enableAdhoc&quot;:false,&quot;isResized&quot;:false,&quot;isEncrypted&quot;:false,&quot;layout&quot;:&quot;{\&quot;divId\&quot;:\&quot;component_114\&quot;,\&quot;left\&quot;:10,\&quot;top\&quot;:320,\&quot;right\&quot;:271,\&quot;bottom\&quot;:53,\&quot;overflow\&quot;:\&quot;hidden\&quot;,\&quot;leftBasePx\&quot;:10,\&quot;topBasePx\&quot;:320,\&quot;widthBasePx\&quot;:271,\&quot;heightBasePx\&quot;:53,\&quot;labelHeightBasePx\&quot;:25,\&quot;labelWidthBasePx\&quot;:271,\&quot;componentWidthBasePx\&quot;:270,\&quot;heightExtraForPadding\&quot;:0,\&quot;widthExtraForPadding\&quot;:0,\&quot;heightExtraForBorder\&quot;:0,\&quot;widthExtraForBorder\&quot;:0,\&quot;heightContainerUncollapsed\&quot;:53,\&quot;widthGridColumn\&quot;:124}&quot;}</Definition>
-			<ElementType>FormPropertyComponent</ElementType>
-			<ElementTypeId>3EF4D668C77947318BB6936429E5526C</ElementTypeId>
-			<IsContainer>false</IsContainer>
-			<Action/>
-			<ConstrainByRelationship/>
-			<CreatableAssociations/>
-			<CustomScript/>
-			<FilterCriteria/>
-			<Form/>
-			<FormComponentCategories/>
-			<FormComponentDateFormat/>
-			<FormComponentDateTimeFormat/>
-			<FullviewLayoutAssociation/>
-			<Image/>
-			<LocalizableLabel/>
-			<LocalizableRequiredError/>
-			<LocalizableTooltip/>
-			<ParentComponent>
-				<uri
-					id="0800279a-adfe-a1f1-819d-2fc814598121"
-				/>
-			</ParentComponent>
-			<PathRelationships/>
-			<PickerWorklist/>
-			<PreviewLayoutAssociation/>
-			<Property>
-				<uri
-					id="0800279a-adfe-a1f1-82e1-3c7fa0942076"
 				/>
 			</Property>
 			<Relationship/>
