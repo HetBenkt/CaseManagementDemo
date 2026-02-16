@@ -3,6 +3,7 @@
 ## User & Roles
 - Add CMS users to the role `cms_generic_user`
 - Add CMS-ADMIN users to the role `cms_admin_user`
+- OTDS Roles (the values are related to the Assignee BB of the case!)
 
 ## Settings
 - Hide default homepage from CMS users: Change role of `OpenTextEntityIdentityComponents.HomePage` in `/app/admin` to `Identity Administrator of OpenText Entity Identity Components`
@@ -14,7 +15,6 @@
 ## Masterdata
 - Types
 - Processes
-- OrgUnits (the values are related to the Assignee BB of the case!)
 
 ## Dependent service containers (run all in OS!)
   - Application Server Connector
