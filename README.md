@@ -6,10 +6,15 @@
 
 ## Settings
 - Hide default homepage from CMS users: Change role of `OpenTextEntityIdentityComponents.HomePage` in `/app/admin` to `Identity Administrator of OpenText Entity Identity Components`
+- `wcp.properties`
+  - credentials?
+  - lazy-loading tabs?
+  - lazy-loading error messages?
 
 ## Masterdata
 - Types
 - Processes
+- OrgUnits (the values are related to the Assignee BB of the case!)
 
 ## Dependent service containers (run all in OS!)
   - Application Server Connector
